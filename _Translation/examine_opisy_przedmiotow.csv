@@ -1,0 +1,2199 @@
+term,en,pl
+Examine/ATTICEXAMboxleft/Section ds0,What's in that little box?,Co jest w tym małym pudełku?
+Examine/ATTICEXAMboxleft/Section ds1,"I bet it's bones.
+","Założę się, że kości.
+"
+Examine/ATTICEXAMboxleft/Section ds3,You know maybe I [h]won't[/h] open it.,"Wiesz, może jednak [h]nie[/h] otworzę tego."
+Examine/ATTICEXAMboxleft/Section ds5,A skull [h]at least.[/h],Przynajmniej [h]czaszka.[/h]
+Examine/ATTICEXAMcantleave/Section ds5,...I feel like there's [h]gotta[/h] be a clue up here.,"...czuję, że gdzieś tu [h]musi[/h] być jakiś trop."
+Examine/ATTICEXAMceiling/Section ds0,"Sally, you don't have a dust allergy do you?","Sally, nie masz przypadkiem alergii na kurz?"
+Examine/ATTICEXAMceiling/Section ds1,No - do you?,Nie - a ty?
+Examine/ATTICEXAMceiling/Section ds2,>sneeze<,>kicha<
+Examine/ATTICEXAMceiling/Section ds6,Let me put it this way...,Ujmę to tak...
+Examine/ATTICEXAMdrapes/Section ds2,At least the moths are kept well fed.,Przynajmniej mole są dobrze odżywione.
+Examine/ATTICEXAMgap/Section ds0,There's a decent gap between those floorboards...,Między tymi deskami jest niezła szpara...
+Examine/ATTICEXAMgap/Section ds0 Choice 1,Look closer.,Przyjrzyj się bliżej.
+Examine/ATTICEXAMgap/Section ds0 Choice 2,Leave it alone.,Zostaw to w spokoju.
+Examine/ATTICEXAMgap/Section ds8,"It's just daylight, I think...",To chyba tylko światło dzienne...
+Examine/ATTICEXAMgap/Section ds9,Where's that light coming from?,Skąd bierze się to światło?
+Examine/ATTICEXAMjunkbg/Section ds1,Nothing catching my interest...,Nic mnie tu nie interesuje...
+Examine/ATTICEXAMjunkbg/Section ds2,"I'm sorry, is this spooky attic boring you?","Przepraszam, ten straszny strych cię nudzi?"
+Examine/ATTICEXAMjunkbg/Section ds3,Kinda.,Trochę.
+Examine/ATTICEXAMjunkfg/Section ds0,Just... dusty junk.,Po prostu... zakurzone graty.
+Examine/ATTICEXAMreel/Section ds0,What [h]is[/h] that?,Co to [h]jest[/h]?
+Examine/ATTICEXAMreel/Section ds1,"Not sure.
+Some kind of reel?","Nie jestem pewna.
+Jakaś szpula?"
+Examine/ATTICEXAMreel/Section ds2,Looks like it might attach to something...,"Wygląda, jakby dało się to gdzieś podłączyć..."
+Examine/ATTICEXAMstatue/Section ds0,"It's a jar.
+The head screws off.","To słój.
+Głowa się odkręca."
+Examine/ATTICEXAMstatue/Section ds1,Huh.,Huh.
+Examine/ATTICEXAMwerewolf/Section ds0,It's a statue of a wolf.,To posąg wilka.
+Examine/ATTICEXAMwerewolf/Section ds2,"Standing up straight.
+Like a man.","Stojący prosto.
+Jak człowiek."
+Examine/ATTICEXAMwerewolf/Section ds3,You know there's a name for that.,"Wiesz, że jest na to nazwa."
+Examine/ATTICEXAMwerewolf/Section ds4,I know.,Wiem.
+Examine/ATTICEXAMwerewolf/Section ds5,"Also, it's not a statue.",Poza tym to nie jest posąg.
+Examine/ATTICEXAMwerewolf/Section ds6,It's stuffed.,Jest wypchany.
+Examine/ATTICEXAMwerewolf/Section ds7,It's not quite as dusty as everything else up here...,Nie jest tak zakurzony jak wszystko inne tutaj...
+Examine/ATTICEXAMwerewolf/Section ds8,...,...
+Examine/ATTICEXAMwindow/Section ds1,...,...
+Examine/ATTICEXAMwindow/Section ds2,Someone painted out the window.,Ktoś zamalował okno.
+Examine/ATTICEXAMwindow/Section ds4,Do you think it was done recently?,"Myślisz, że zrobiono to niedawno?"
+Examine/ATTICEXAMwindow/Section ds5,No idea.,Nie mam pojęcia.
+Examine/ATTICEXAMwindow/Section ds6,Either way it's pretty suspicious.,"Tak czy inaczej, to dość podejrzane."
+Examine/Aftermath Beginning/Section ds12,...?,...?
+Examine/Aftermath Beginning/Section ds13,You two alright?,"Wszystko w porządku, wy dwoje?"
+Examine/Aftermath Beginning/Section ds15,Poppy! They are both awake.,Poppy! Oboje są przytomni.
+Examine/Aftermath Beginning/Section ds20,I can see.,Widzę.
+Examine/Aftermath Beginning/Section ds22,What's going on?,Co się dzieje?
+Examine/Aftermath Beginning/Section ds23,"My head hurts.
+What happened to us?","Głowa mi pęka.
+Co się z nami stało?"
+Examine/Aftermath Beginning/Section ds8,...,...
+Examine/Are you sure/Section ds0,Are you sure?,Jesteś pewien?
+Examine/Are you sure/Section ds0 Choice 1,Cancel,Anuluj
+Examine/Are you sure/Section ds0 Choice 2,Keep,Zachowaj
+Examine/AstronomyBase/Section ds1,There's something kinda... disappointing about this room.,Jest coś jakby... rozczarowującego w tym pokoju.
+Examine/AstronomyBase/Section ds2,I just expected a bit more from an [h]astronomy tower.[/h],Po prostu spodziewałam się czegoś więcej po [h]wieży astronomicznej.[/h]
+Examine/AstronomyBase/Section ds3,Oh - does it not compare to all the [h]other[/h] astronomy towers you've been to?,"Och - nie wypada dobrze na tle wszystkich [h]innych[/h] wież astronomicznych, w których byłaś?"
+Examine/AstronomyBase/Section ds4,...,...
+Examine/AstronomyBooks/Section ds0,"'A Spyglass to the Stars'
+Volumes one to twelve.","'Luneta ku gwiazdom'
+Tomy od pierwszego do dwunastego."
+Examine/AstronomyBooks/Section ds1,They're in [h]very[/h] good condition...,Są w [h]bardzo[/h] dobrym stanie...
+Examine/AstronomyDesk/Section ds0,It's tidier than [h]my[/h] desk.,Schludniejsze niż [h]moje[/h] biurko.
+Examine/AstronomyDesk/Section ds1,Even the most [h]well-used[/h] notebooks start off blank.,Nawet najbardziej [h]wyeksploatowane[/h] notatniki zaczynają jako puste.
+Examine/AstronomyDesk/Section ds6,...the notebook is untouched - it's completely blank.,...notatnik jest nietknięty - zupełnie pusty.
+Examine/AstronomyDesk/Section ds8,So?,I co z tego?
+Examine/AstronomyDevice/Section ds0,What [h]is[/h] it?,Co to [h]jest[/h]?
+Examine/AstronomyDevice/Section ds1,"Ah, it's clearly some kind of...","Ach, to najwyraźniej jakiś rodzaj..."
+Examine/AstronomyDevice/Section ds2,...large device.,...dużego urządzenia.
+Examine/AstronomyDevice/Section ds3,You're not wrong.,Nie mylisz się.
+Examine/AstronomyJar/Section ds0,"A belljar.
+It's empty.","Klosz.
+Jest pusty."
+Examine/AstronomyJar/Section ds1,What do people [h]normally[/h] keep in belljars?,Co ludzie [h]zwykle[/h] trzymają w kloszach?
+Examine/AstronomyJar/Section ds6,"...other than bells, you mean?","...oprócz dzwonów, masz na myśli?"
+Examine/AstronomyJar/Section ds8,...,...
+Examine/AstronomyMug/Section ds2,It's full of tea... but it's gone cold.,Pełen herbaty... ale już zimnej.
+Examine/AstronomyMug/Section ds3,Criminal.,Przestępstwo.
+Examine/AstronomyPhoto/Section ds0,A picture frame...,Ramka na zdjęcie...
+Examine/AstronomyPhoto/Section ds2,...with no [h]picture.[/h],...bez [h]zdjęcia.[/h]
+Examine/AstronomyPoster/Section ds0,It's a chart of the solar system.,To mapa układu słonecznego.
+Examine/AstronomyPoster/Section ds2,"Which planet are [h]you[/h] from, Sally?","Z jakiej planety [h]ty[/h] pochodzisz, Sally?"
+Examine/AstronomyPoster/Section ds4,......,......
+Examine/AstronomyStars/Section ds0,Pretty.,Ładne.
+Examine/AstronomyTelescope post/Section ds0,Every astronomy tower needs a telescope.,Każda wieża astronomiczna potrzebuje teleskopu.
+Examine/AstronomyTelescope post/Section ds1,I wanna try.,Chcę spróbować.
+Examine/AstronomyTelescope post/Section ds1 Choice 1,Have a look.,Zerknij.
+Examine/AstronomyTelescope post/Section ds1 Choice 2,Leave it alone.,Zostaw go w spokoju.
+Examine/AstronomyTelescope pre/Section ds0,...let's at least introduce ourselves - before touching his telescope.,...przedstawmy się chociaż - zanim dotkniemy jego teleskopu.
+Examine/AstronomyTelescope pre/Section ds1,Always a good rule.,Zawsze dobra zasada.
+Examine/AstronomyTrinkets/Section ds0,Trinkets...,Drobiazgi...
+Examine/AstronomyTrinkets/Section ds3,Uh - they're clearly [h]gizmos.[/h],Yy - to najwyraźniej [h]gadżety.[/h]
+Examine/AstronomyWindow/Section ds0,It's too cloudy to see any stars right now...,"Zbyt pochmurno, by teraz zobaczyć jakiekolwiek gwiazdy..."
+Examine/AstronomyWindow/Section ds2,It's also daytime.,No i jest dzień.
+Examine/AviaryDesk/Section ds6,"A little writing desk.
+It's kinda cute.","Małe biurko do pisania.
+Dość urocze."
+Examine/AviaryDesk/Section ds8,There's nothing written in the book... although someone's torn a page out of the middle.,W książce nic nie ma napisane... choć ktoś wyrwał stronę ze środka.
+Examine/Aviarybase/Section ds0,I feel like I'm standing in a giant birdcage...,"Mam wrażenie, że stoję w gigantycznej klatce dla ptaków..."
+Examine/Aviarybigcage/Section ds0,An [h]especially-fancy[/h] cage.,[h]Wyjątkowo wymyślna[/h] klatka.
+Examine/Aviarybigcage/Section ds1,-and it's home to three [h]especially-fancy[/h] birds.,-i jest domem dla trzech [h]wyjątkowo wymyślnych[/h] ptaków.
+Examine/Aviarybutterfly/Section ds0,Check out that butterfly.,Spójrz na tego motyla.
+Examine/Aviarybutterfly/Section ds4,Looks evil.,Wygląda złowieszczo.
+Examine/Aviarybutterfly/Section ds5,"Wow.
+[i]Judgemental.[/i]","Wow.
+[i]Bardzo oceniające.[/i]"
+Examine/Aviarycages/Section ds0,...is that a metaphor?,...czy to jakaś metafora?
+Examine/Aviarycages/Section ds1,They're birdcages...,To klatki dla ptaków...
+Examine/Aviarycages/Section ds2,But the birds are coming and going freely.,Ale ptaki swobodnie wchodzą i wychodzą.
+Examine/Aviarycages/Section ds3,"Oh, it [h]totally[/h] is.","Och, [h]absolutnie[/h] tak."
+Examine/Aviaryfgbush/Section ds0,A rather magnificent bush - somewhat [h]cruelly[/h] confined to a stone pot.,Całkiem okazały krzew - dość [h]okrutnie[/h] zamknięty w kamiennej donicy.
+Examine/Aviaryfgbush/Section ds3,There's a letter [h]P[/h] carved into the side...,Z boku wyryta jest litera [h]P[/h]...
+Examine/Aviaryfloorwindows/Section ds0,What's with those little windows down there?,Co z tymi małymi okienkami tam na dole?
+Examine/Aviaryfloorwindows/Section ds1,I think they're there for draining rainwater.,Chyba są do odprowadzania deszczówki.
+Examine/Aviaryfloorwindows/Section ds2,Oh.,Och.
+Examine/Aviarymirror/Section ds0,"I don't like mirrors.
+They steal your soul.","Nie lubię luster.
+Kradną duszę."
+Examine/Aviarymirror/Section ds4,...how do you get your hair so symmetrical without using a mirror?,"...jak sprawiasz, że twoje włosy są tak symetryczne bez używania lustra?"
+Examine/Aviarymirror/Section ds5,I do it by weight. I can feel if one side is heavier than the other.,"Robię to na wagę. Czuję, jeśli jedna strona jest cięższa od drugiej."
+Examine/Aviarypaintings/Section ds0,Bird diagrams - hand-painted.,Diagramy ptaków - malowane ręcznie.
+Examine/Aviarypaintings/Section ds2,They're beautiful - someone really knows their stuff.,Są piękne - ktoś naprawdę zna się na rzeczy.
+Examine/Aviarysky/Section ds0,...does this count as being outdoors?,...czy to się liczy jako bycie na zewnątrz?
+Examine/Aviarysky/Section ds1,No.,Nie.
+Examine/Aviarysky/Section ds2,Does it matter?,Czy to ma znaczenie?
+Examine/Aviarysky/Section ds3,Yeah.,Tak.
+Examine/BugBoardNote/Section ds0,It's a little diagram of a beetle... with some incomprehensible notes scribbled next to it.,Mały diagram żuka... z jakimiś niezrozumiałymi notatkami nabazgranymi obok.
+Examine/BugBoardNote/Section ds2,...that's weird.,...to dziwne.
+Examine/BugBoardNote/Section ds3,What?,Co?
+Examine/BugBoardNote/Section ds4,It looks really... [h]normal.[/h],Wygląda naprawdę... [h]normalnie.[/h]
+Examine/BugBoardNote/Section ds5,-compared to the beetles behind the glass.,-w porównaniu do żuków za szkłem.
+Examine/BugBoardbeetles/Section ds0,"Nine beetles.
+All different... all dead.","Dziewięć żuków.
+Wszystkie różne... wszystkie martwe."
+Examine/BugBoardbeetles/Section ds1,...poor little guys.,...biedne maluchy.
+Examine/BugBoardbeetles/Section ds2,There's a bunch of notes written all around them.,Wokół nich jest cała masa zapisanych notatek.
+Examine/BugBoardbeetles/Section ds3,It's mostly numbers... no idea what they mean.,"To głównie liczby... nie mam pojęcia, co znaczą."
+Examine/BuildingPlanBackOutFail/Section ds0,Hold on.,Czekaj.
+Examine/BuildingPlanBackOutFail/Section ds2,...have we been to [h]all[/h] of these rooms already?,...byliśmy już we [h]wszystkich[/h] tych pokojach?
+Examine/BuildingPlanExamStructure/Section ds0,So... the whole house is built on top of some kind of platform?,Więc... cały dom jest zbudowany na jakiejś platformie?
+Examine/BuildingPlanExamStructure/Section ds1,Apparently.,Najwyraźniej.
+Examine/BuildingPlanExamStudy/Section ds0,Study.,Gabinet.
+Examine/BuildingPlanExamStudy/Section ds1,I know what you're thinking.,"Wiem, o czym myślisz."
+Examine/BuildingPlanExamStudy/Section ds2,Wait-,Czekaj-
+Examine/BuildingPlanExamStudy/Section ds3,"And no.
+We never went in there.","I nie.
+Nigdy tam nie byliśmy."
+Examine/BuildingPlanExamStudy/Section ds4,...how did we miss it!?,...jak to przegapiliśmy!?
+Examine/BuildingPlanExamTitle/Section ds0,"Mystid Mansion.
+North side cross section.","Mystid Mansion.
+Przekrój strony północnej."
+Examine/BuildingPlanExamTitle/Section ds1,...is it not Tangle Tower?,...to nie Tangle Tower?
+Examine/BuildingPlanExamTitle/Section ds2,Tangle Tower... before the towers?,Tangle Tower... przed wieżami?
+Examine/BuildingPlanExamattic/Section ds0,"...it's the room above us.
+The one we were just in.","...to pokój nad nami.
+Ten, w którym właśnie byliśmy."
+Examine/BuildingPlanExamattic/Section ds1,The laboratory?,Laboratorium?
+Examine/BuildingPlanExamattic/Section ds2,Yeah...,Tak...
+Examine/BuildingPlanExamaviary/Section ds0,It's the aviary.,To ptaszarnia.
+Examine/BuildingPlanExamfifis/Section ds0,A bedroom.,Sypialnia.
+Examine/BuildingPlanExamfifis/Section ds1,"That's Fifi's room, isn't it?","To pokój Fifi, prawda?"
+Examine/BuildingPlanExamfreyas/Section ds0,Storage.,Magazyn.
+Examine/BuildingPlanExamfreyas/Section ds1,It's Freya's room.,To pokój Freyi.
+Examine/BuildingPlanExamfreyas/Section ds2,...,...
+Examine/BuildingPlanExamlibrary/Section ds1,The Library.,Biblioteka.
+Examine/BuildingPlanExammusic/Section ds0,Music room.,Sala muzyczna.
+Examine/BuildingPlanExamoriginal/Section ds0,"...that's the room we're in now, it must be.","...to musi być pokój, w którym teraz jesteśmy."
+Examine/BuildingPlanExamoriginal/Section ds1,"It's not labelled as anything on these plans, though.",Na tych planach nie jest jednak niczym oznaczony.
+Examine/BuildingPlanExamoriginal/Section ds2,I think it already existed when this was made.,"Myślę, że istniał już, gdy to zrobiono."
+Examine/BuildingPlanExampennys/Section ds0,"Penny's room, I think.","Pokój Penny, jak sądzę."
+Examine/BuildingPlanExampennys/Section ds1,A bedroom.,Sypialnia.
+Examine/BuildingPlanExamrooftop/Section ds0,The rooftop garden.,Ogród na dachu.
+Examine/BuildingPlanExamrooftop/Section ds1,...that name makes a little more sense in this context.,...ta nazwa ma trochę więcej sensu w tym kontekście.
+Examine/BuildingPlanExamroomgrandhall/Section ds0,The grand hall.,Wielka sala.
+Examine/BuildingPlanExamroomgrandhall/Section ds1,...what's that thing in the middle?,...co to za rzecz na środku?
+Examine/BuildingPlanExamroomgrandhall/Section ds2,I think it's that big glass tube...?,"Myślę, że to ta wielka szklana rura...?"
+Examine/BuildingPlanExamwater/Section ds0,"That's the lake, right?
+I think that horizontal line might be the water level.","To jezioro, prawda?
+Myślę, że ta pozioma linia to może być poziom wody."
+Examine/BuildingPlanExamwater/Section ds1,...it used to be a lot lower down than it is now.,...kiedyś był dużo niższy niż teraz.
+Examine/Can't reach the room/Section ds0,I... don't know what room that is.,"Ja... nie wiem, co to za pokój."
+Examine/ChamberExamBase/Section ds0,They called this room a [h]study?[/h],Nazwali ten pokój [h]gabinetem?[/h]
+Examine/ChamberExamBase/Section ds2,What would [h]you[/h] call it?,A jak [h]ty[/h] byś go nazwała?
+Examine/ChamberExamBase/Section ds3,The... secret death chamber...,...tajną komorą śmierci...
+Examine/ChamberExamBase/Section ds5,-of doom.,-zagłady.
+Examine/ChamberExamBoard/Section ds0,It's a wooden pin board...,To drewniana tablica z pinezkami...
+Examine/ChamberExamBoard/Section ds1,Looks like there's a couple of things missing from it...,"Wygląda, jakby czegoś z niej brakowało..."
+Examine/ChamberExamBoard/Section ds4,-hung up on one of the chains.,-zawieszona na jednym z łańcuchów.
+Examine/ChamberExamBurnt/Section ds0,An incinerator built into the wall...,Piec wbudowany w ścianę...
+Examine/ChamberExamBurnt/Section ds1,"-but yeah, there's something.","-ale tak, coś tam jest."
+Examine/ChamberExamBurnt/Section ds2,It's still pretty hot...,Wciąż całkiem gorący...
+Examine/ChamberExamBurnt/Section ds3,-is there anything left inside?,-zostało coś w środku?
+Examine/ChamberExamBurnt/Section ds6,It's mostly ashes...,Głównie popiół...
+Examine/ChamberExamCrossbow/Section ds0,What's this?,Co to jest?
+Examine/ChamberExamCrossbow/Section ds1,Something [h]somebody[/h] didn't want us to find...,"Coś, czego [h]ktoś[/h] nie chciał, żebyśmy znaleźli..."
+Examine/ChamberExamNotebook/Section ds0,Coffee table... half-empty wine bottle... lamp left on...,Stolik kawowy... napoczęta butelka wina... zapalona lampa...
+Examine/ChamberExamNotebook/Section ds1,Someone complacent enough to leave their [h]notebook[/h] lying around.,"Ktoś na tyle zadowolony z siebie, że zostawił swój [h]notatnik[/h] gdzie popadnie."
+Examine/ChamberExamNotebook/Section ds2,I'm gonna say - someone's been using this room.,Powiem tak - ktoś korzysta z tego pokoju.
+Examine/ChamberExamPhoto/Section ds0,...who are all the people in this photo?,...kim są wszyscy ludzie na tym zdjęciu?
+Examine/ChamberExamPhoto/Section ds1,Their eyes have all been crossed out.,Wszystkim wykreślono oczy.
+Examine/ChamberExamPhoto/Section ds2,Not sure. But it looks like someone didn't like them very much.,"Nie jestem pewna. Ale wygląda, jakby ktoś ich nie lubił zbyt mocno."
+Examine/Chamberbeast/Section ds1,"You know, in any normal room - this thing would be my main concern.","Wiesz, w każdym normalnym pokoju to byłoby moim głównym zmartwieniem."
+Examine/Chamberbeast/Section ds4,In here though? It barely makes the top three.,A tutaj? Ledwo łapie się do pierwszej trójki.
+Examine/Chamberbones/Section ds0,If [h]that's[/h] a bird skull...,Jeśli [h]to[/h] jest czaszka ptaka...
+Examine/Chamberbones/Section ds1,Some kind of fish... and a bird skull... I guess?,Jakaś ryba... i czaszka ptaka... chyba?
+Examine/Chamberbones/Section ds2,We're talking about a fifteen-foot bird here.,To mówimy o piętnastometrowym ptaku.
+Examine/Chamberbones/Section ds3,"Well, how about we [h]stop[/h] talking about it.","Cóż, może [h]przestańmy[/h] o tym mówić."
+Examine/Chamberbookcase/Section ds0,"It's a bookcase.
+It's mostly empty.","To regał na książki.
+Głównie pusty."
+Examine/Chamberbookcase/Section ds1,What a surprise.,Co za niespodzianka.
+Examine/Chamberbug/Section ds0,Centipede? Millipede?,Stonoga? Krocionóg?
+Examine/Chamberbug/Section ds5,How many legs has it got?,Ile ma nóg?
+Examine/Chamberbug/Section ds6,Too many.,Za dużo.
+Examine/Chambercages/Section ds0,Some of them are... [h]disconcertingly[/h] large.,Niektóre z nich są... [h]niepokojąco[/h] duże.
+Examine/Chambercages/Section ds1,Those [h]aren't[/h] birdcages.,To [h]nie[/h] są klatki dla ptaków.
+Examine/Chambercages/Section ds2,At least they're all empty.,Przynajmniej wszystkie są puste.
+Examine/Chambercages/Section ds3,...you sure that's a good thing?,"...jesteś pewien, że to dobra rzecz?"
+Examine/Chamberceiling/Section ds0,I think we're underneath the rooftop garden.,"Myślę, że jesteśmy pod ogrodem na dachu."
+Examine/Chamberceiling/Section ds1,There's water coming through the ceiling...,Przez sufit sączy się woda...
+Examine/Chamberchair/Section ds0,It's still warm...,Jest wciąż ciepłe...
+Examine/Chamberchair/Section ds1,Nice chair.,Ładne krzesło.
+Examine/Chamberchair/Section ds2,Maybe it's just heat from the incinerator.,Może to tylko ciepło od pieca.
+Examine/Chamberchair/Section ds3,Maybe.,Może.
+Examine/Chamberhooks/Section ds1,"Hooks.
+","Haki.
+"
+Examine/Chamberhooks/Section ds5,[h]Big[/h] hooks.,[h]Duże[/h] haki.
+Examine/Chamberladderhatch/Section ds0,Doesn't look like there's any other way to get in or out.,"Nie wygląda, żeby był jakiś inny sposób, żeby się tu dostać lub wyjść."
+Examine/Chamberladderhatch/Section ds1,That's how we got in. It leads down into the grand hall.,"Tędy się tu dostaliśmy. Prowadzi w dół, do wielkiej sali."
+Examine/Chamberpaper/Section ds1,Crumpled up paper.,Zmięty papier.
+Examine/Chamberpaper/Section ds2,...is there anything written on any of it?,...jest coś na nim napisane?
+Examine/Chamberpaper/Section ds3,Not really. It's mostly blank.,Niezupełnie. W większości jest pusty.
+Examine/Chamberrug/Section ds1,Nice rug.,Ładny dywan.
+Examine/Chamberserpent/Section ds0,Dragon?,Smok?
+Examine/Chamberserpent/Section ds1,Snake?,Wąż?
+Examine/Chamberserpent/Section ds2,...[h]Wyrm?[/h],...[h]Wywerna?[/h]
+Examine/Chamberserpent/Section ds3,That's the one.,O to chodzi.
+Examine/Chamberstairs/Section ds0,Whoever designed this room really wanted to make the most of a relatively small space...,"Kto by nie zaprojektował tego pokoju, naprawdę chciał wycisnąć maksimum z względnie małej przestrzeni..."
+Examine/Chamberstairs/Section ds1,A staircase up to a little mezzanine.,Schody prowadzące na małe antresolę.
+Examine/Chamberstool/Section ds1,A wooden stool.,Drewniany stołek.
+Examine/Chambertube/Section ds3,Do those look like scratch marks to you? On the glass?,Wyglądają ci to na ślady po pazurach? Na szkle?
+Examine/Chambertube/Section ds4,They're on the inside.,Są po wewnętrznej stronie.
+Examine/Chambertube/Section ds5,...Yeah.,...Tak.
+Examine/Chamberweapons/Section ds2,I'm more worried about the third one.,Bardziej martwi mnie ta trzecia.
+Examine/Chamberweapons/Section ds3,The [h]third[/h] one?,[h]Trzecia?[/h]
+Examine/Chamberweapons/Section ds4,The one that [h]isn't[/h] there.,"Ta, której tam [h]nie ma.[/h]"
+Examine/Chamberweapons/Section ds5,"An axe, and some kind of hunting rifle, mounted on the wall.","Siekiera i jakiś rodzaj strzelby myśliwskiej, zawieszone na ścianie."
+Examine/Chamberweapons/Section ds7,Honestly doesn't look like they've been moved in a few years.,"Szczerze, nie wygląda, żeby ktoś ich ruszał od lat."
+Examine/Chamberwoodenfloor/Section ds0,Thanks...,Dzięki...
+Examine/Chamberwoodenfloor/Section ds1,"Watch out.
+The floor's wet.","Uważaj.
+Podłoga jest mokra."
+Examine/Chapter lock S/Section ds1,Probably not a good idea - right now.,Chyba nie najlepszy pomysł - w tej chwili.
+Examine/Chapter lock/Section ds1,Let's not wander off right now.,Nie oddalajmy się teraz.
+Examine/Crack Exit/Section ds0,...,...
+Examine/Crack Exit/Section ds4,...,...
+Examine/Crack/Section ds0,...is that what I think it is?,"...to to, o czym myślę?"
+Examine/CreaturePuzzleBackOut/Section ds0,This crab really reminds me of something...,Ten krab naprawdę mi coś przypomina...
+Examine/CreaturePuzzleBackOut/Section ds1,Yeah - but I don't think that's going to help us.,"Tak - ale nie sądzę, żeby to nam pomogło."
+Examine/CreaturePuzzleBackOut/Section ds2,That little wooden toy we found...?,"Tę małą drewnianą zabawkę, którą znaleźliśmy...?"
+Examine/CreaturePuzzleBackOut/Section ds3,I think I've seen it more recently...,"Myślę, że widziałam go ostatnio gdzie indziej..."
+Examine/CreaturePuzzleExam/Section ds1,"Also - crabs normally have two claws, right? Not three?","Poza tym - kraby normalnie mają dwa szczypce, prawda? Nie trzy?"
+Examine/CreaturePuzzleExam/Section ds1 Choice 1,Look closer.,Przyjrzyj się bliżej.
+Examine/CreaturePuzzleExam/Section ds1 Choice 2,Leave it alone.,Zostaw go w spokoju.
+Examine/CreaturePuzzleExam/Section ds4,It's got a translucent exoskeleton. You can actually see its insides.,Ma przezroczysty egzoszkielet. Naprawdę widać jego wnętrzności.
+Examine/CreaturePuzzleExam/Section ds7,...is that a crab!?,...to krab!?
+Examine/CreaturePuzzleFail1/Section ds0,I guess that's wrong...?,Chyba to źle...?
+Examine/CreaturePuzzleFail1/Section ds2,I don't think we need to guess.,"Nie sądzę, żebyśmy musieli zgadywać."
+Examine/CreaturePuzzleFail1/Section ds3,What d'you mean?,Co masz na myśli?
+Examine/CreaturePuzzleFail1/Section ds4,We have all the information we need in our case file.,Mamy wszystkie potrzebne informacje w naszych aktach.
+Examine/CreaturePuzzleFail2/Section ds0,Nothing.,Nic.
+Examine/CreaturePuzzleFail2/Section ds2,"I'm [h]sure[/h] I've seen this thing somewhere before. Recently, too.","[h]Jestem pewna[/h], że gdzieś już to widziałam. Też niedawno."
+Examine/CreaturePuzzleFail3/Section ds0,Nope.,Nie.
+Examine/CreaturePuzzleFail3/Section ds2,...wasn't this crab in that book we found?,"...czy tego kraba nie było w tamtej książce, którą znaleźliśmy?"
+Examine/CreaturePuzzleFail3/Section ds3,The children's book?,W dziecięcej książeczce?
+Examine/CreaturePuzzleFindTheCrossbow/Section ds0,What's this...?,Co to jest...?
+Examine/CreaturePuzzleFindTheCrossbow/Section ds1,Something somebody didn't want us to find...,"Coś, czego ktoś nie chciał, żebyśmy znaleźli..."
+Examine/CreaturePuzzleOnEnter/Section ds0,Ugh... you sure we should be touching it?,"Ugh... jesteś pewien, że powinniśmy tego dotykać?"
+Examine/CreaturePuzzleOnEnter/Section ds1,"Grimoire, don't you think it looks familiar?","Grimoire, nie wydaje ci się to znajome?"
+Examine/CreaturePuzzleSuccess/Section ds0,Perfect.,Idealnie.
+Examine/CreaturePuzzledotdotdot/Section ds0,......,......
+Examine/Crossbow Base/Section ds0,We need something that could attach to the crossbow...,"Potrzebujemy czegoś, co dałoby się przymocować do kuszy..."
+Examine/Crossbow OnEnter/Section ds0,Let's see if we can put this thing back together...,"Zobaczmy, czy uda się to złożyć z powrotem..."
+Examine/Crossbow OnEnter/Section ds2,You think we have everything we need?,"Myślisz, że mamy wszystko, czego trzeba?"
+Examine/Crossbow OnEnter/Section ds3,Mhm.,Mhm.
+Examine/Crossbow Wrong clue/Section ds0,We need something that could attach to the crossbow...,"Potrzebujemy czegoś, co dałoby się przymocować do kuszy..."
+Examine/Crossbow Wrong clue/Section ds1,That... doesn't seem right.,To... nie wygląda dobrze.
+Examine/Crossbow Wrong place/Section ds0,I think that [h]might[/h] attach to the crossbow...,"Myślę, że [h]to[/h] mogłoby się przymocować do kuszy..."
+Examine/Crossbow Wrong place/Section ds2,But not [h]this[/h] part of the crossbow.,Ale nie do [h]tej[/h] części kuszy.
+Examine/Crossbow front Wrong clue 2/Section ds1,Let's think about it - what does a crossbow need to fire?,"Pomyślmy o tym - czego potrzebuje kusza, żeby strzelić?"
+Examine/Crossbow front Wrong clue 2/Section ds2,...an arrow?,...strzały?
+Examine/Crossbow top Wrong clue 2/Section ds1,Let's think about it - what might attach to the top of a gun?,Pomyślmy o tym - co mogłoby się przymocować na górze broni?
+Examine/Crossbow top Wrong clue 2/Section ds2,I dunno. Sights? Some kind of scope?,Nie wiem. Celownik? Jakiś rodzaj lunety?
+Examine/Crossbow top Wrong clue 2/Section ds3,Right.,Racja.
+Examine/Crossbow underside Wrong clue 2/Section ds1,Something that fits underneath the crossbow...,"Coś, co pasuje pod kuszę..."
+Examine/Crossbow underside Wrong clue 2/Section ds2,Something with a screw on the top?,Coś z gwintem na górze?
+Examine/Delete Save/Section ds0,Do you want to delete this save?,Chcesz usunąć ten zapis?
+Examine/Delete Save/Section ds0 Choice 1,No,Nie
+Examine/Delete Save/Section ds0 Choice 2,Yes,Tak
+Examine/Delete Save/Section ds2,Are you sure?,Jesteś pewien?
+Examine/Delete Save/Section ds2 Choice 1,Delete save,Usuń zapis
+Examine/Delete Save/Section ds2 Choice 2,Don't delete,Nie usuwaj
+Examine/DemoEscape/Section ds0,There's some kind of mystical force keeping me inside this room...,Jakaś mistyczna siła trzyma mnie w tym pokoju...
+Examine/DemoEscape/Section ds1,Oh. Right. It's probably because this is the demo version.,"Och. No tak. Pewnie dlatego, że to wersja demo."
+Examine/DemoEscape/Section ds1 Choice 1,Keep playing,Graj dalej
+Examine/DemoEscape/Section ds1 Choice 2,End demo,Zakończ demo
+Examine/DeskExamBirdsInk/Section ds0,birds badly drawn in ink,ptaki kiepsko narysowane tuszem
+Examine/DeskExamBirdsInk/Section ds1,mhm,mhm
+Examine/DeskExamBirdsPen/Section ds0,birds badly drawn with a ballpoint pen,ptaki kiepsko narysowane długopisem
+Examine/DeskExamBirdsPen/Section ds1,mhm,mhm
+Examine/DeskExamBirdsPencil/Section ds0,birds badly drawn in pencil,ptaki kiepsko narysowane ołówkiem
+Examine/DeskExamBirdsPencil/Section ds1,mhm,mhm
+Examine/DeskExamInkwell/Section ds0,an old fashioned inkwell. There's a little black ink still inside.,staromodny kałamarz. Wciąż jest w nim trochę czarnego atramentu.
+Examine/DeskExamInkwell/Section ds1,mhm,mhm
+Examine/DeskExamPen/Section ds0,a ballpoint pen,długopis
+Examine/DeskExamPen/Section ds1,mhm,mhm
+Examine/DeskExamPencil/Section ds0,a pencil,ołówek
+Examine/DeskExamPencil/Section ds1,mhm,mhm
+Examine/DeskExamQuill/Section ds0,a quill,gęsie pióro
+Examine/DeskExamQuill/Section ds1,mhm,mhm
+Examine/DeskExamRip/Section ds0,A page has been ripped out,Wyrwano stronę
+Examine/DeskExamRip/Section ds1,mhm,mhm
+Examine/DeviceOffline/Section ds0,This device is currently offline. Any existing cloud saves will not be available.,To urządzenie jest obecnie offline. Wszelkie istniejące zapisy w chmurze nie będą dostępne.
+Examine/Entering Grand Hall Night/Section ds12,...how long were we [h]down[/h] there?,...jak długo byliśmy [h]tam[/h] na dole?
+Examine/Entering Grand Hall Night/Section ds8,Whoa. It's dark all of a sudden.,Ojej. Nagle zrobiło się ciemno.
+Examine/ExamineFifisBoard/Section ds0,Fifi's got something pinned up here.,Fifi ma tu coś przypięte.
+Examine/ExamineFifisBoard/Section ds2,What [h]is[/h] all this...?,Co to [h]wszystko[/h] jest...?
+Examine/ExamineFifisBoard/Section ds2 Choice 1,Look closer.,Przyjrzyj się bliżej.
+Examine/ExamineFifisBoard/Section ds2 Choice 2,Leave it alone.,Zostaw to w spokoju.
+Examine/ExamineFifisbase/Section ds0,Nice room.,Ładny pokój.
+Examine/ExamineFifisbase/Section ds2,It's a [h]mess.[/h],To [h]bałagan.[/h]
+Examine/ExamineFifisbase/Section ds4,-but yeah.,-ale tak.
+Examine/ExamineFifisbear/Section ds0,"Don't think you can get out of being questioned, just because you're a [h]bear[/h].","Nie myśl, że unikniesz przesłuchania tylko dlatego, że jesteś [h]misiem[/h]."
+Examine/ExamineFifisbear/Section ds2,A new suspect!,Nowy podejrzany!
+Examine/ExamineFifisbear/Section ds4,"I'm innocent, I promise!","Jestem niewinny, przysięgam!"
+Examine/ExamineFifisbear/Section ds8,Save it for the judge.,Zachowaj to na rozprawę.
+Examine/ExamineFifisbed/Section ds0,It's a bed.,To łóżko.
+Examine/ExamineFifisbed/Section ds2,Barely.,Ledwo.
+Examine/ExamineFifisbookshelf/Section ds0,That's a [h]whole[/h] lot of books.,To [h]naprawdę[/h] mnóstwo książek.
+Examine/ExamineFifischandeleirs/Section ds0,"Crystal chandeliers...
+[h]Extra[/h] fancy.","Kryształowe żyrandole...
+[h]Wyjątkowo[/h] wystawne."
+Examine/ExamineFifischandeleirs/Section ds2,Plus they're kinda dusty.,No i są trochę zakurzone.
+Examine/ExamineFifischandeleirs/Section ds7,"I dunno.
+They just seem old-fashioned to me.","Nie wiem.
+Dla mnie wyglądają po prostu staroświecko."
+Examine/ExamineFifisdesk/Section ds0,What's that big book on the desk?,Co to za wielka księga na biurku?
+Examine/ExamineFifisdesk/Section ds2,Looks like something Fifi's been writing...,"Wygląda na coś, co pisała Fifi..."
+Examine/ExamineFifisdesk/Section ds4,-is it a clue?,-czy to trop?
+Examine/ExamineFifisdesk/Section ds5,I hope not...,"Mam nadzieję, że nie..."
+Examine/ExamineFifisdesk/Section ds6,It's just a bunch of notes about her microbiology experiments.,To tylko notatki z jej eksperymentów mikrobiologicznych.
+Examine/ExamineFifisdrink/Section ds0,"I don't know what that drink is, but I bet it's ninety [h]nine[/h] percent sugar.","Nie wiem, co to za napój, ale założę się, że to dziewięćdziesiąt [h]dziewięć[/h] procent cukru."
+Examine/ExamineFifisdrink/Section ds2,I'd read you the ingredients... ,Przeczytałbym ci skład... 
+Examine/ExamineFifisdrink/Section ds4,That's even worse.,To jeszcze gorsze.
+Examine/ExamineFifisdrink/Section ds5,But there's nothing written on the can.,Ale na puszce nic nie ma napisane.
+Examine/ExamineFifisfloorpapers/Section ds0,Scientific formulas.,Wzory naukowe.
+Examine/ExamineFifisfloorpapers/Section ds4,I'll openly admit I have no idea what any of it means.,"Otwarcie przyznaję, że nie mam pojęcia, co to wszystko znaczy."
+Examine/ExamineFifisfloorpapers/Section ds5,Probably.,Prawdopodobnie.
+Examine/ExamineFifisjunk/Section ds0,"Boxes.
+","Pudła.
+"
+Examine/ExamineFifisjunk/Section ds4,...of stuff.,...pełne rzeczy.
+Examine/ExamineFifismagnif/Section ds0,"It's a magnifying glass.
+A big one.","To szkło powiększające.
+Duże."
+Examine/ExamineFifismagnif/Section ds2,How come [h]you[/h] don't have one of those?,Czemu [h]ty[/h] takiego nie masz?
+Examine/ExamineFifismagnif/Section ds4,Why? Because I'm a detective?,Czemu? Bo jestem detektywem?
+Examine/ExamineFifismagnif/Section ds7,"Should I start smoking a pipe, too?",Powinienem może też zacząć palić fajkę?
+Examine/ExamineFifismagnif/Section ds8,You couldn't pull off a pipe.,Nie udźwignąłbyś fajki.
+Examine/ExamineFifismagnif/Section ds9,...,...
+Examine/ExamineFifisposters/Section ds2,Homemade posters.,Domowej roboty plakaty.
+Examine/ExamineFifisposters/Section ds5,This one's about the Pythagoras theorem.,Ten jest o twierdzeniu Pitagorasa.
+Examine/ExamineFifisposters/Section ds6,"I've not heard of that band.
+Are they any good?","Nie słyszałem o tym zespole.
+Są dobrzy?"
+Examine/ExamineFifisrubbish/Section ds0,...stuff Fifi's thrown away.,"...rzeczy, które Fifi wyrzuciła."
+Examine/ExamineFifisrubbish/Section ds2,You gonna rummage through the trash can?,Zamierzasz grzebać w koszu na śmieci?
+Examine/ExamineFifisrubbish/Section ds4,"No? That is quite beneath me, thankyou.","Nie? To trochę poniżej mojej godności, dziękuję."
+Examine/ExamineFifisrubbish/Section ds5,I give it [h]five[/h] minutes before you're in there.,"Daję ci [h]pięć[/h] minut, zanim tam wylądujesz."
+Examine/ExamineFifiswindow/Section ds0,"A pretty ornate window...
+With a [h]great[/h] view of the lake.","Całkiem ozdobne okno...
+Ze [h]wspaniałym[/h] widokiem na jezioro."
+Examine/ExamineFifiswindow/Section ds2,"We're supposed to be looking for clues, not assessing the real estate value.","Mamy szukać tropów, a nie oceniać wartość nieruchomości."
+Examine/ExamineFifiswindow/Section ds4,"And over here, you'll see the owner's used sheets of paper to block out all that unnecessary natural light.","A tutaj z kolei widzą państwo, jak właścicielka użyła kartek papieru, żeby zablokować całe to niepotrzebne naturalne światło."
+Examine/ExamineFifiswindow/Section ds5,"A simple trick, but it really transforms the space.","Prosta sztuczka, ale naprawdę zmienia przestrzeń."
+Examine/ExamineSnowglobe/Section ds0,It's a model of Tangle Tower. There's the lake... and those weird mountains...,To model Tangle Tower. Tu jest jezioro... i te dziwne góry...
+Examine/ExamineSnowglobe/Section ds5,That would make an [h]amazing[/h] souvenir.,Byłaby z tego [h]niesamowita[/h] pamiątka.
+Examine/ExamineSnowglobe/Section ds6,Hey... look at that!,Hej... spójrz na to!
+Examine/ExamineSnowglobe/Section ds7,...,...
+Examine/ExamineSnowglobe/Section ds8,What are you thinking?,O czym myślisz?
+Examine/FamilyTreeBuck1/Section ds0,Buck Brackley.,Buck Brackley.
+Examine/FamilyTreeBuck1/Section ds1,What - a - name.,Co - za - imię.
+Examine/FamilyTreeBuck1/Section ds2,Do you think he still lives here?,"Myślisz, że wciąż tu mieszka?"
+Examine/FamilyTreeBuck2/Section ds0,Buck Brackley.,Buck Brackley.
+Examine/FamilyTreeBuck2/Section ds2,I guess he doesn't live here anymore...,Chyba już tu nie mieszka...
+Examine/FamilyTreeDamian1/Section ds0,"Whoa. 
+...is it too late to change my name to Detective Dusk?","Ojej. 
+...czy to za późno, żeby zmienić nazwisko na Detektyw Dusk?"
+Examine/FamilyTreeDamian1/Section ds1,Damian Dusk.,Damian Dusk.
+Examine/FamilyTreeDamian1/Section ds2,Do you think he still lives here?,"Myślisz, że wciąż tu mieszka?"
+Examine/FamilyTreeDamian1/Section ds3,...it's Freya's father.,...to ojciec Freyi.
+Examine/FamilyTreeDamian2/Section ds1,Damian Dusk.,Damian Dusk.
+Examine/FamilyTreeDamian2/Section ds2,I guess he doesn't live here anymore.,Chyba już tu nie mieszka.
+Examine/FamilyTreeDamian2/Section ds3,...it's Freya's father.,...to ojciec Freyi.
+Examine/FamilyTreeEdge/Section ds0,Pretty.,Ładne.
+Examine/FamilyTreeEdge/Section ds1,Even the little-blue-dragon-snake-thing at the bottom?,Nawet ta mała niebiesko-smoczo-wężowa rzecz na dole?
+Examine/FamilyTreeEdge/Section ds2,[h]Especially[/h] the little-blue-dragon-snake-thing at the bottom.,[h]Zwłaszcza[/h] ta mała niebiesko-smoczo-wężowa rzecz na dole.
+Examine/FamilyTreeEmily1/Section ds0,...,...
+Examine/FamilyTreeEmily1/Section ds1,Emily Everstone.,Emily Everstone.
+Examine/FamilyTreeEmily1/Section ds2,Do you think she still lives here?,"Myślisz, że wciąż tu mieszka?"
+Examine/FamilyTreeEmily2/Section ds1,Emily Everstone.,Emily Everstone.
+Examine/FamilyTreeEmily2/Section ds2,I guess she doesn't live here anymore...,Chyba już tu nie mieszka...
+Examine/FamilyTreeFelicia1/Section ds0,Felicia Fellow.,Felicia Fellow.
+Examine/FamilyTreeFelicia1/Section ds1,Freya's mother.,Matka Freyi.
+Examine/FamilyTreeFelicia1/Section ds2,Do you think she still lives here?,"Myślisz, że wciąż tu mieszka?"
+Examine/FamilyTreeFelicia2/Section ds0,Felicia Fellow.,Felicia Fellow.
+Examine/FamilyTreeFelicia2/Section ds1,Freya's mother.,Matka Freyi.
+Examine/FamilyTreeFelicia2/Section ds2,I guess she doesn't live here anymore...,Chyba już tu nie mieszka...
+Examine/FamilyTreeFelix1/Section ds0,Felix Fellow.,Felix Fellow.
+Examine/FamilyTreeFelix1/Section ds2,Do you think he still lives here?,"Myślisz, że wciąż tu mieszka?"
+Examine/FamilyTreeFelix1/Section ds3,Looks like he married his way into the Remington family.,"Wygląda, że wżenił się w rodzinę Remington."
+Examine/FamilyTreeFelix2/Section ds0,Felix Fellow.,Felix Fellow.
+Examine/FamilyTreeFelix2/Section ds2,We met him. He's one of the suspects.,Poznaliśmy go. Jest jednym z podejrzanych.
+Examine/FamilyTreeFifi1/Section ds0,Fiona Fellow.,Fiona Fellow.
+Examine/FamilyTreeFifi1/Section ds1,She's half Fellow and half Remington.,"Jest w połowie Fellow, w połowie Remington."
+Examine/FamilyTreeFifi1/Section ds2,Do you think she still lives here?,"Myślisz, że wciąż tu mieszka?"
+Examine/FamilyTreeFifi1/Section ds3,Dead centre - [i]she[/i] must be important.,Dokładnie na środku - [i]ona[/i] musi być ważna.
+Examine/FamilyTreeFifi2/Section ds0,Fiona Fellow.,Fiona Fellow.
+Examine/FamilyTreeFifi2/Section ds2,We met her. She's one of the suspects.,Poznaliśmy ją. Jest jedną z podejrzanych.
+Examine/FamilyTreeFitz1/Section ds0,Do you think he still lives here?,"Myślisz, że wciąż tu mieszka?"
+Examine/FamilyTreeFitz1/Section ds1,Fitz Fellow.,Fitz Fellow.
+Examine/FamilyTreeFitz1/Section ds3,Half Fellow. Half Everstone.,W połowie Fellow. W połowie Everstone.
+Examine/FamilyTreeFitz2/Section ds0,We met him. He's one of the suspects.,Poznaliśmy go. Jest jednym z podejrzanych.
+Examine/FamilyTreeFitz2/Section ds1,Fitz Fellow.,Fitz Fellow.
+Examine/FamilyTreeFlint1/Section ds0,Flint Fellow.,Flint Fellow.
+Examine/FamilyTreeFlint1/Section ds1,"A purebred Fellow, if there ever was one.","Czystej krwi Fellow, jeśli w ogóle jacyś tacy istnieli."
+Examine/FamilyTreeFlint1/Section ds2,Do you think he still lives here?,"Myślisz, że wciąż tu mieszka?"
+Examine/FamilyTreeFlint1/Section ds4,"Married a randomer, though.",Poślubił jednak przypadkową osobę.
+Examine/FamilyTreeFlint2/Section ds0,Flint Fellow.,Flint Fellow.
+Examine/FamilyTreeFlint2/Section ds2,I guess he doesn't live here anymore...,Chyba już tu nie mieszka...
+Examine/FamilyTreeFlora1/Section ds0,Flora Remington.,Flora Remington.
+Examine/FamilyTreeFlora1/Section ds1,I think she's mentioned in our case file...,Chyba jest wspomniana w naszych aktach...
+Examine/FamilyTreeFlora2/Section ds0,Flora Remington.,Flora Remington.
+Examine/FamilyTreeFlora2/Section ds1,We met her. She's one of the suspects.,Poznaliśmy ją. Jest jedną z podejrzanych.
+Examine/FamilyTreeFreya/Section ds0,Freya Fellow.,Freya Fellow.
+Examine/FamilyTreeFreya/Section ds1,The murder victim.,Ofiara morderstwa.
+Examine/FamilyTreeFreya/Section ds2,She's barely related to the main family at all.,Ledwo jest w ogóle spokrewniona z główną rodziną.
+Examine/FamilyTreeLadyFellow/Section ds0,Lady Fellow.,Lady Fellow.
+Examine/FamilyTreeLadyFellow/Section ds1,Do these people not have first names?,Ci ludzie nie mają imion?
+Examine/FamilyTreeLadyPoint/Section ds0,Lady Pointer.,Lady Pointer.
+Examine/FamilyTreeLadyPoint/Section ds1,How [h]do[/h] you become a Lady?,Jak [h]zostaje[/h] się Lady?
+Examine/FamilyTreeLadyPoint/Section ds2,[h]I[/h] want to be a Lady.,[h]Ja[/h] chcę być Lady.
+Examine/FamilyTreeLadyRem/Section ds0,Lady Remington.,Lady Remington.
+Examine/FamilyTreeLadyRem/Section ds1,I think I have one of those in my bathroom...,Chyba mam taką w swojej łazience...
+Examine/FamilyTreeLordFellow/Section ds0,Looks like he was married twice.,"Wygląda, że był żonaty dwukrotnie."
+Examine/FamilyTreeLordFellow/Section ds1,Lord Fellow.,Lord Fellow.
+Examine/FamilyTreeLordFellow/Section ds2,Scandal.,Skandal.
+Examine/FamilyTreeLordPoint/Section ds0,This goes back a couple of generations...,To cofa się o parę pokoleń...
+Examine/FamilyTreeLordPoint/Section ds1,Lord Pointer.,Lord Pointer.
+Examine/FamilyTreeLordRem/Section ds0,He sounds important.,Brzmi na ważnego.
+Examine/FamilyTreeLordRem/Section ds1,Lord Remington.,Lord Remington.
+Examine/FamilyTreePandora1/Section ds0,"...all this alliteration isn't happening by accident, is it?","...cała ta aliteracja nie dzieje się przypadkiem, prawda?"
+Examine/FamilyTreePandora1/Section ds1,Pandora Pointer.,Pandora Pointer.
+Examine/FamilyTreePandora1/Section ds2,Do you think she still lives here?,"Myślisz, że wciąż tu mieszka?"
+Examine/FamilyTreePandora2/Section ds1,Pandora Pointer.,Pandora Pointer.
+Examine/FamilyTreePandora2/Section ds2,I guess she doesn't live here anymore...,Chyba już tu nie mieszka...
+Examine/FamilyTreePenny1/Section ds0,"Half Pointer, half... Brackley.","W połowie Pointer, w połowie... Brackley."
+Examine/FamilyTreePenny1/Section ds1,Penelope Pointer.,Penelope Pointer.
+Examine/FamilyTreePenny1/Section ds2,Do you think she still lives here?,"Myślisz, że wciąż tu mieszka?"
+Examine/FamilyTreePenny2/Section ds1,Penelope Pointer.,Penelope Pointer.
+Examine/FamilyTreePenny2/Section ds2,We met her. She's one of the suspects.,Poznaliśmy ją. Jest jedną z podejrzanych.
+Examine/FamilyTreePercival1/Section ds0,Percival Pointer.,Percival Pointer.
+Examine/FamilyTreePercival1/Section ds1,He married into the Remington family...,Wżenił się w rodzinę Remington...
+Examine/FamilyTreePercival1/Section ds2,Do you think he still lives here?,"Myślisz, że wciąż tu mieszka?"
+Examine/FamilyTreePercival2/Section ds0,Percival Pointer.,Percival Pointer.
+Examine/FamilyTreePercival2/Section ds2,We met him. He's one of the suspects.,Poznaliśmy go. Jest jednym z podejrzanych.
+Examine/FamilyTreePercival2/Section ds3,[h]Professor[/h] Percival Pointer.,[h]Profesor[/h] Percival Pointer.
+Examine/FamilyTreePoppy1/Section ds0,Poppy Pointer.,Poppy Pointer.
+Examine/FamilyTreePoppy1/Section ds1,She's half Remington and half Pointer.,"Jest w połowie Remington, w połowie Pointer."
+Examine/FamilyTreePoppy1/Section ds2,Do you think she still lives here?,"Myślisz, że wciąż tu mieszka?"
+Examine/FamilyTreePoppy2/Section ds0,Poppy Pointer.,Poppy Pointer.
+Examine/FamilyTreePoppy2/Section ds2,We met her. She's one of the suspects.,Poznaliśmy ją. Jest jedną z podejrzanych.
+Examine/FamilyTreePrim1/Section ds0,Primrose Remington.,Primrose Remington.
+Examine/FamilyTreePrim1/Section ds1,I always liked the name Primrose...,Zawsze podobało mi się imię Primrose...
+Examine/FamilyTreePrim1/Section ds2,Do you think she still lives here?,"Myślisz, że wciąż tu mieszka?"
+Examine/FamilyTreePrim2/Section ds0,Primrose Remington.,Primrose Remington.
+Examine/FamilyTreePrim2/Section ds2,I guess she doesn't live here anymore...,Chyba już tu nie mieszka...
+Examine/FamilyTreeRichard1/Section ds1,Richard Remington.,Richard Remington.
+Examine/FamilyTreeRichard1/Section ds2,The one and only.,Ten jedyny i niepowtarzalny.
+Examine/FamilyTreeSelena/Section ds0,Selena Stonetop.,Selena Stonetop.
+Examine/FamilyTreeSelena/Section ds2,Apparently she just appeared out of nowhere.,Najwyraźniej po prostu pojawiła się znikąd.
+Examine/FamilyTreeSelena/Section ds3,No family line.,Brak linii rodowej.
+Examine/FelixSuspicionUnlock/Section ds0,There's something about Felix's painting supplies.,Jest coś w kwestii materiałów malarskich Felixa.
+Examine/FelixSuspicionUnlock/Section ds1,Let's ask him about it.,Zapytajmy go o to.
+Examine/FelixSuspicionUnlock/Section ds1 Choice 1,Let's go now.,Idźmy teraz.
+Examine/FelixSuspicionUnlock/Section ds1 Choice 2,Later.,Później.
+Examine/FelixSuspicionUnlock/Section ds2,Something... [h]suspicious.[/h],Coś... [h]podejrzanego.[/h]
+Examine/FelixsBGLamps/Section ds1,A lot of redundant light sources in here...,Mnóstwo zbędnych źródeł światła tutaj...
+Examine/FelixsBackWindows/Section ds1,You get a good view of the lake from here.,Stąd mamy niezły widok na jezioro.
+Examine/FelixsBarometer/Section ds0,"It's a barometer.
+But it's broken.","To barometr.
+Ale jest zepsuty."
+Examine/FelixsBarometer/Section ds1,I've never seen a barometer that [h]wasn't[/h] broken.,"Nigdy nie widziałam barometru, który [h]nie był[/h] zepsuty."
+Examine/FelixsBase/Section ds0,Oh it's not just [h]made[/h] of wood.,"Och, nie jest [h]tylko[/h] zrobiony z drewna."
+Examine/FelixsBase/Section ds2,The entire room is made of wood.,Cały pokój jest zrobiony z drewna.
+Examine/FelixsBase/Section ds3,I think it's the actual hull of a ship...,"Myślę, że to prawdziwy kadłub statku..."
+Examine/FelixsBigShell/Section ds0,It's a massive conch shell.,To ogromna muszla ślimaka morskiego.
+Examine/FelixsBigShell/Section ds1,I hope so.,Mam nadzieję.
+Examine/FelixsBigShell/Section ds2,Do you think there's a little crab living inside?,"Myślisz, że mieszka w niej mały krab?"
+Examine/FelixsGlobeLamp/Section ds0,It's Earth.,To Ziemia.
+Examine/FelixsGlobeLamp/Section ds2,-if Earth was made of paper and gave off a gentle pink light.,-gdyby Ziemia była zrobiona z papieru i wydzielała delikatne różowe światło.
+Examine/FelixsHammock/Section ds0,"A hammock.
+It's kinda worn out.","Hamak.
+Trochę zniszczony."
+Examine/FelixsHammock/Section ds2,I would politely describe it as 'lived-in'.,Grzecznie nazwałbym go 'dobrze wykorzystanym'.
+Examine/FelixsHorn/Section ds0,It's a drinking horn.,To róg do picia.
+Examine/FelixsHorn/Section ds4,Right now it's just full of dust.,Teraz jest po prostu pełen kurzu.
+Examine/FelixsHorn/Section ds5,"-is it full of ale?
+or mead, maybe?","-jest pełen piwa?
+Albo może miodu pitnego?"
+Examine/FelixsHorn/Section ds6,Ew.,Fuj.
+Examine/FelixsMagicLamp/Section ds0,It's a magic lamp.,To magiczna lampa.
+Examine/FelixsMagicLamp/Section ds1,Can we summon the genie?,Możemy przywołać dżina?
+Examine/FelixsMagicLamp/Section ds2,"If we get really stuck, sure.","Jeśli utkniemy na dobre, to czemu nie."
+Examine/FelixsMap/Section ds0,A map... with a dotted line... and an 'x' marked on it.,Mapa... z przerywaną linią... i zaznaczonym 'x'.
+Examine/FelixsMap/Section ds2,That's a very boring way to describe a treasure map.,To bardzo nudny sposób opisania mapy skarbów.
+Examine/FelixsMask/Section ds0,An old wooden mask.,Stara drewniana maska.
+Examine/FelixsMask/Section ds1,Probably cursed.,Pewnie przeklęta.
+Examine/FelixsMirror/Section ds0,A little mirror.,Małe lustro.
+Examine/FelixsMirror/Section ds1,Definitely cursed.,Zdecydowanie przeklęte.
+Examine/FelixsMirror/Section ds2,It's not cursed!,Nie jest przeklęte!
+Examine/FelixsMirror/Section ds3,Not everything is [h]cursed.[/h],Nie wszystko jest [h]przeklęte.[/h]
+Examine/FelixsModels/Section ds0,A little hand-painted statue.,"Mała, ręcznie malowana figurka."
+Examine/FelixsModels/Section ds1,How can you tell it's hand painted?,"Skąd wiesz, że jest malowana ręcznie?"
+Examine/FelixsModels/Section ds2,Well - the paints are right there on the desk.,Cóż - farby leżą tam na biurku.
+Examine/FelixsModels/Section ds3,"Also - I mean - no offense, but you can just tell.","Poza tym - to znaczy - bez obrazy, ale po prostu widać."
+Examine/FelixsPage/Section ds0,A pencil drawing of a mountain on a moonlit night.,Rysunek ołówkiem góry w blasku księżyca.
+Examine/FelixsPage/Section ds2,Mood.,Klimat.
+Examine/FelixsPuffer/Section ds0,Puffer... fish?,Rozdymka... ryba?
+Examine/FelixsPuffer/Section ds1,"It's also a lamp.
+For some reason.","To też lampa.
+Z jakiegoś powodu."
+Examine/FelixsPuffer/Section ds4,Yes.,Tak.
+Examine/FelixsScrolls/Section ds0,More maps?,Więcej map?
+Examine/FelixsScrolls/Section ds2,"No, they're just blank.","Nie, są po prostu puste."
+Examine/FelixsScrolls/Section ds3,Oh.,Och.
+Examine/FelixsStatue/Section ds0,What is it...?,Co to jest...?
+Examine/FelixsStatue/Section ds2,"Well, if you tell too many lies he appears at the end of your bed in the middle of the night.","Cóż, jeśli powiesz zbyt wiele kłamstw, pojawia się w nogach twojego łóżka w środku nocy."
+Examine/FelixsStatue/Section ds3,He's an imp.,To chochlik.
+Examine/FelixsStatue/Section ds5,...,...
+Examine/FelixsStatue/Section ds6,...what does he do?,...co on robi?
+Examine/FelixsStatue/Section ds7,Oh.,Och.
+Examine/FelixsTrinketsShelf/Section ds0,Shelf-junk.,Graty na półce.
+Examine/FelixsWoodShavings/Section ds0,The floor's covered in wood shavings.,Podłoga jest cała pokryta wiórami drewna.
+Examine/FifiSuspicionUnlock/Section ds0,There's something about that diary we found in Fifi's room.,"Jest coś w kwestii tego pamiętnika, który znaleźliśmy w pokoju Fifi."
+Examine/FifiSuspicionUnlock/Section ds1,Let's ask her about it.,Zapytajmy ją o to.
+Examine/FifiSuspicionUnlock/Section ds1 Choice 1,Let's go now.,Idźmy teraz.
+Examine/FifiSuspicionUnlock/Section ds1 Choice 2,Later.,Później.
+Examine/FifiSuspicionUnlock/Section ds2,Something... [h]suspicious.[/h],Coś... [h]podejrzanego.[/h]
+Examine/FifisBackout/Section ds1,I'm not sure I learned [h]anything[/h] from that.,"Nie jestem pewien, czy [h]czegokolwiek[/h] się z tego nauczyłem."
+Examine/FifisBoardArrows/Section ds0,Arrows connecting all the different suspects...,Strzałki łączące wszystkich różnych podejrzanych...
+Examine/FifisBoardArrows/Section ds1,They're not labelled though...,Nie są jednak podpisane...
+Examine/FifisBoardArrows/Section ds2,Yeah they're completely meaningless.,"Tak, są zupełnie bez znaczenia."
+Examine/FifisBoardBackout/Section ds0,Did you notice who [h]isn't[/h] on here?,"Zauważyłaś, kogo tu [h]nie ma[/h]?"
+Examine/FifisBoardBackout/Section ds2,Freya?,Freyi?
+Examine/FifisBoardBackout/Section ds4,"Mhm.
+-and Fifi herself.","Mhm.
+-i samej Fifi."
+Examine/FifisBoardBackout/Section ds5,...,...
+Examine/FifisBoardFelix/Section ds0,I think that's supposed to be Felix?,"Myślę, że to ma być Felix?"
+Examine/FifisBoardFitz/Section ds0,Looks like Fitz.,Wygląda jak Fitz.
+Examine/FifisBoardFlora/Section ds0,That's gotta be Flora.,To musi być Flora.
+Examine/FifisBoardGrimoire/Section ds1,...is that supposed to be me?? Why do I look so angry?,...to ma być ja?? Czemu wyglądam na tak wściekłego?
+Examine/FifisBoardGrimoire/Section ds3,That's just the face you make when you're thinking.,"To po prostu twarz, którą robisz, kiedy myślisz."
+Examine/FifisBoardGrimoire/Section ds4,...,...
+Examine/FifisBoardGrimoire/Section ds5,"Does make you wonder, though - when did Fifi draw all this?",Chociaż każe się zastanawiać - kiedy Fifi to wszystko narysowała?
+Examine/FifisBoardHawkshaw/Section ds0,It's Detective Hawkshaw.,To detektyw Hawkshaw.
+Examine/FifisBoardMaths/Section ds0,-is Fifi... trying to solve the mystery with math equations?,-czy Fifi... próbuje rozwiązać tę zagadkę równaniami matematycznymi?
+Examine/FifisBoardMaths/Section ds1,Maybe.,Może.
+Examine/FifisBoardMaths/Section ds2,"Did [h]you[/h] ever try that?
+Maybe it works.","[h]Ty[/h] kiedyś tego próbowałeś?
+Może to działa."
+Examine/FifisBoardNotMet/Section ds0,Who's that?,Kto to?
+Examine/FifisBoardNotMet/Section ds1,Not sure.,Nie jestem pewna.
+Examine/FifisBoardNotMet/Section ds2,No idea.,Nie mam pojęcia.
+Examine/FifisBoardNotMet/Section ds3,...who [h]is[/h] that?,...kim [h]jest[/h] ta osoba?
+Examine/FifisBoardPenny/Section ds0,It's a drawing of Penny.,To rysunek Penny.
+Examine/FifisBoardPointer/Section ds0,Looks like Professor Pointer.,Wygląda jak profesor Pointer.
+Examine/FifisBoardPoppy/Section ds0,It's Poppy. That's actually a pretty good drawing.,"To Poppy. To całkiem niezły rysunek, właściwie."
+Examine/FifisBoardSally/Section ds0,"That's you, Sally.","To ty, Sally."
+Examine/FifisBoardSally/Section ds2,[h]What.[/h],[h]Co.[/h]
+Examine/FifisBoardSally/Section ds3,I do [h]not[/h] look like that.,[h]Nie[/h] wyglądam tak.
+Examine/FifisBoardSally/Section ds4,...,...
+Examine/FifisBoardSally/Section ds5,...do I?,...czy wyglądam?
+Examine/FifisChalkMaths/Section ds0,Math equations...?,Równania matematyczne...?
+Examine/FifisChalkMaths/Section ds1,Don't look at them for too long.,Nie patrz na nie za długo.
+Examine/FifisChalkMaths/Section ds2,You'll give yourself a headache.,Rozboli cię głowa.
+Examine/FifisChalkSymbols/Section ds0,Any idea what this means?,"Masz pojęcie, co to znaczy?"
+Examine/FifisChalkSymbols/Section ds1,...not a clue.,...żadnego pojęcia.
+Examine/FitzBackout/Section ds0,...what d'you make of it?,...co o tym sądzisz?
+Examine/FitzBackout/Section ds2,Not a whole lot.,Niewiele.
+Examine/FitzBoardSymbols/Section ds0,"Greek letters, I think?","Greckie litery, jak sądzę?"
+Examine/FitzBoardTable/Section ds0,Kinda reminds me of a periodic table.,Trochę przypomina mi tablicę okresową pierwiastków.
+Examine/FitzSuspicionUnlock/Section ds0,There's something about the report of Fitz going up Pointer Tower.,Jest coś w kwestii doniesienia o Fitzu wchodzącym na wieżę Pointerów.
+Examine/FitzSuspicionUnlock/Section ds1,Let's ask him about it.,Zapytajmy go o to.
+Examine/FitzSuspicionUnlock/Section ds1 Choice 1,Let's go now.,Idźmy teraz.
+Examine/FitzSuspicionUnlock/Section ds1 Choice 2,Later.,Później.
+Examine/FitzSuspicionUnlock/Section ds2,Something... [h]suspicious.[/h],Coś... [h]podejrzanego.[/h]
+Examine/Fitzbase/Section ds4,Quit sulking.,Przestań się dąsać.
+Examine/Fitzbase/Section ds5,......,......
+Examine/Fitzbase/Section ds6,Not [h]every[/h] room is gonna be full of clues.,Nie [h]każdy[/h] pokój będzie pełen tropów.
+Examine/Fitzbed/Section ds6,Doesn't look soft.,Nie wygląda na miękkie.
+Examine/Fitzcard/Section ds4,"Inside it says;
+[i]To Fitz
+From P.P.[/i]","W środku napisano;
+[i]Dla Fitza
+Od P.P.[/i]"
+Examine/Fitzcard/Section ds5,It's a little handmade card. Someone's drawn a heart on the front.,To mała ręcznie robiona kartka. Ktoś narysował na przodzie serce.
+Examine/Fitzdoor/Section ds11,What's that thing by the handle?,Co to za rzecz przy klamce?
+Examine/Fitzdoor/Section ds11 Choice 1,Look closer.,Przyjrzyj się bliżej.
+Examine/Fitzdoor/Section ds11 Choice 2,Leave it alone.,Zostaw to w spokoju.
+Examine/Fitzdoor/Section ds4,I thought we were halfway up a tower?,"Myślałam, że jesteśmy w połowie wieży?"
+Examine/Fitzdoor/Section ds5,It's locked - but it leads outside.,Jest zamknięte na klucz - ale prowadzi na zewnątrz.
+Examine/Fitzdoor/Section ds6,We are.,Jesteśmy.
+Examine/FitzdoorSOLVED/Section ds4,"Yeah.
+But the door didn't unlock.","Tak.
+Ale drzwi się nie otworzyły."
+Examine/FitzdoorSOLVED/Section ds4 Choice 1,Look at it.,Przyjrzyj się temu.
+Examine/FitzdoorSOLVED/Section ds4 Choice 2,Leave it.,Zostaw to.
+Examine/FitzdoorSOLVED/Section ds5,"We already solved this, didn't we?","Już to rozwiązaliśmy, prawda?"
+Examine/FitzdoorUNLOCKED/Section ds5,"The door's unlocked.
+Finally.","Drzwi są otwarte.
+Nareszcie."
+Examine/FitzdoorUNLOCKED/Section ds5 Choice 1,Go outside.,Wyjdź na zewnątrz.
+Examine/FitzdoorUNLOCKED/Section ds5 Choice 2,Later.,Później.
+Examine/Fitzempy/Section ds4,What?,Co?
+Examine/Fitzempy/Section ds5,"Oh, wow!","Och, ojej!"
+Examine/Fitzempy/Section ds6,It's a big empty space.,To wielka pusta przestrzeń.
+Examine/Fitzfood/Section ds4,Looking at it is making me wanna cry.,"Patrzenie na to sprawia, że chce mi się płakać."
+Examine/Fitzfood/Section ds5,An empty glass and an empty plate.,Puste szklanka i talerz.
+Examine/Fitzfood/Section ds6,Why?,Czemu?
+Examine/Fitzfood/Section ds7,I don't know.,Nie wiem.
+Examine/Fitzlamps/Section ds4,Huh - Neither of these lights have an actual lightbulb.,Huh - żadne z tych świateł nie ma prawdziwej żarówki.
+Examine/Fitzlamps/Section ds6,They're just decorative.,Są tylko dekoracyjne.
+Examine/Fitzlamps/Section ds7,Oh - [h]so[/h] decorative.,Och - [h]jakże[/h] dekoracyjne.
+Examine/Fitzplant/Section ds4,I think it would rather be outside...,"Myślę, że wolałaby być na zewnątrz..."
+Examine/Fitzplant/Section ds5,That poor plant...,Ta biedna roślina...
+Examine/Fitzplant/Section ds6,Looks pretty healthy to me?,Dla mnie wygląda całkiem zdrowo?
+Examine/Fitzplant/Section ds7,"Healthy, but sad.","Zdrowo, ale smutno."
+Examine/Fitzwindow 2/Section ds13,[h]Told[/h] you it was just a rock.,"[h]Mówiłam[/h], że to tylko kamień."
+Examine/Fitzwindow 2/Section ds14,Just a rock? That thing has a [h]face![/h],Tylko kamień? Ta rzecz ma [h]twarz![/h]
+Examine/Fitzwindow 2/Section ds5,It's the back of that big stone frog.,To tył tej wielkiej kamiennej żaby.
+Examine/Fitzwindow/Section ds10,Some[h]thing[/h] outside the window.,Coś[h] jest[/h] za oknem.
+Examine/Fitzwindow/Section ds11,It's probably just a rock.,To pewnie tylko kamień.
+Examine/Fitzwindow/Section ds12,...you sure?,...jesteś pewien?
+Examine/Fitzwindow/Section ds5,Uh-,Yy-
+Examine/Fitzwindow/Section ds9,[i]There's someone outside the window...[/i],[i]Ktoś jest za oknem...[/i]
+Examine/Flora is Pointing/Section ds10,"Wait.
+There's something tucked inside this one.","Czekaj.
+Coś jest wsunięte w tę jedną."
+Examine/Flora is Pointing/Section ds13,...,...
+Examine/Flora is Pointing/Section ds14,...,...
+Examine/Flora is Pointing/Section ds15,...,...
+Examine/Flora is Pointing/Section ds16,Flora?,Flora?
+Examine/Flora is Pointing/Section ds17,...she's pointing at something in the corner of the room.,...wskazuje na coś w rogu pokoju.
+Examine/Flora is Pointing/Section ds9,...it's just a pile of books? They're not-,...to tylko stos książek? Nie są-
+Examine/FloraSuspicionUnlock/Section ds0,There's something about the image of Flora in the painting.,Jest coś w kwestii wizerunku Flory na tym obrazie.
+Examine/FloraSuspicionUnlock/Section ds1,Let's ask her about it.,Zapytajmy ją o to.
+Examine/FloraSuspicionUnlock/Section ds1 Choice 1,Let's go now.,Idźmy teraz.
+Examine/FloraSuspicionUnlock/Section ds1 Choice 2,Later.,Później.
+Examine/FloraSuspicionUnlock/Section ds2,Something... [h]suspicious.[/h],Coś... [h]podejrzanego.[/h]
+Examine/FreyaPaintings/Section ds0,A lot of these paintings look unfinished.,Wiele z tych obrazów wygląda na niedokończone.
+Examine/FreyaPaintings/Section ds1,.....,.....
+Examine/FreyaPaintings/Section ds2,How can you tell if they're finished or not?,"Jak poznajesz, czy są skończone, czy nie?"
+Examine/FreyaPaintings/Section ds3,Good point.,Trafna uwaga.
+Examine/Freyas Diary/Section ds12,"[h]Finally.[/h]
+What's in there?","[h]Nareszcie.[/h]
+Co tam jest?"
+Examine/Freyas Diary/Section ds8,"Alright, Fifi unlocked the diary.","Dobrze, Fifi odblokowała pamiętnik."
+Examine/FreyasBase/Section ds0,Do you think this was always supposed to be a bedroom?,"Myślisz, że to zawsze miała być sypialnia?"
+Examine/FreyasBase/Section ds1,"I dunno.
+It is kind of a weird shape.","Nie wiem.
+Ma dość dziwny kształt."
+Examine/FreyasBase/Section ds5,No windows either.,Też brak okien.
+Examine/FreyasBear/Section ds0,Freya's bear.,Miś Freyi.
+Examine/FreyasBear/Section ds3,Looks pretty depressed...,Wygląda całkiem przygnębiony...
+Examine/FreyasBear/Section ds4,He's had a rough couple of days.,Miał parę ciężkich dni.
+Examine/FreyasBed/Section ds0,It's Freya's bed.,To łóżko Freyi.
+Examine/FreyasBed/Section ds1,It's a perfectly healthy amount of messy.,To całkowicie zdrowa ilość bałaganu.
+Examine/FreyasBed/Section ds2,Little bit messy.,Trochę bałaganu.
+Examine/FreyasBelongings/Section ds0,Just little trinkets.,Tylko drobne pamiątki.
+Examine/FreyasBelongings/Section ds3,Let's leave them alone.,Zostawmy je w spokoju.
+Examine/FreyasBigPaintign/Section ds0,[h]Why[/h] would you want it looming over your bed like that?,"[h]Czemu[/h] chciałabyś, żeby wisiał tak nad twoim łóżkiem?"
+Examine/FreyasBigPaintign/Section ds1,Maybe Freya enjoyed the atmosphere it creates.,"Może Freyi podobała się atmosfera, jaką tworzył."
+Examine/FreyasBigPaintign/Section ds11,That painting... -it's really something.,Ten obraz... -to naprawdę coś.
+Examine/FreyasBigPaintign/Section ds2,Hang on.,Czekaj.
+Examine/FreyasBigPaintign/Section ds3,There's a smaller version down by the floor.,"Jest mniejsza wersja tam niżej, przy podłodze."
+Examine/FreyasBigPaintign/Section ds4,It's a photograph...,To fotografia...
+Examine/FreyasBigPaintign/Section ds7,The atmosphere of chaos and oppression?,Atmosfera chaosu i ucisku?
+Examine/FreyasBrushandRoller/Section ds0,Painting supplies.,Materiały malarskie.
+Examine/FreyasCeilingDrawings/Section ds0,Did Freya paint those animals on her ceiling?,Czy to Freya namalowała te zwierzęta na suficie?
+Examine/FreyasCeilingDrawings/Section ds1,They're kinda simplistic...,Są dość uproszczone...
+Examine/FreyasCeilingDrawings/Section ds2,Maybe she painted them when she was younger?,"Może namalowała je, gdy była młodsza?"
+Examine/FreyasDrawers/Section ds0,That's weird...,To dziwne...
+Examine/FreyasDrawers/Section ds1,What did you find in the drawers?,Co znalazłeś w szufladach?
+Examine/FreyasDrawers/Section ds2,"Nothing.
+They're completely empty.","Nic.
+Są całkowicie puste."
+Examine/FreyasFGBrushes/Section ds0,Brushes... pencils...,Pędzle... ołówki...
+Examine/FreyasFGBrushes/Section ds1,"They're clean, but they look pretty well-used.","Są czyste, ale wyglądają na całkiem wyeksploatowane."
+Examine/FreyasFishPainting/Section ds1,I think it looks more like a whale.,"Myślę, że bardziej przypomina wieloryba."
+Examine/FreyasFishPainting/Section ds2,It's a - fish? I think?,To - ryba? Chyba?
+Examine/FreyasFishPainting/Section ds3,"Fine, it's a whale.","Dobra, to wieloryb."
+Examine/FreyasFishPainting/Section ds4,Could also be a shark.,Może też być rekin.
+Examine/FreyasInsectBox/Section ds0,It's a little glass box.,To małe szklane pudełko.
+Examine/FreyasInsectBox/Section ds1,I think it's a vivarium.,"Myślę, że to wiwarium."
+Examine/FreyasInsectBox/Section ds12,See the leaves and twigs in there? ,Widzisz te liście i patyczki w środku? 
+Examine/FreyasInsectBox/Section ds4,Might have been for keeping insects.,Może było do trzymania owadów.
+Examine/FreyasInsectBox/Section ds9,Come again?,Słucham?
+Examine/FreyasLight/Section ds0,There's no natural light in here at all.,Nie ma tu w ogóle naturalnego światła.
+Examine/FreyasLight/Section ds1,I like it.,Podoba mi się.
+Examine/FreyasMudFloor/Section ds0,Even though we're halfway up a tower...,Nawet jeśli jesteśmy w połowie wieży...
+Examine/FreyasMudFloor/Section ds1,Someone's been tracking in mud from outside.,Ktoś naniósł tu błota z zewnątrz.
+Examine/FreyasPawPillow/Section ds0,A pillow with a pawprint pattern.,Poduszka z wzorem odcisków łap.
+Examine/FreyasPawPillow/Section ds6,"Yeah, but that doesn't alliterate.","Tak, ale to się nie rymuje."
+Examine/FreyasPawPillow/Section ds7,It's a cushion.,To poduszka ozdobna.
+Examine/FreyasPlants/Section ds0,Freya's plants.,Rośliny Freyi.
+Examine/FreyasPlants/Section ds3,They must... not need sunlight?,One chyba... nie potrzebują słońca?
+Examine/FreyasRedLight/Section ds0,"Not the kind of lamp I'd choose for my bedroom, but fair enough.","Nie ten rodzaj lampy, jaki wybrałbym do swojej sypialni, ale rozumiem."
+Examine/FreyasRedLight/Section ds1,It's cool. Looks like old mining equipment or something.,Fajne. Wygląda jak stary sprzęt górniczy czy coś takiego.
+Examine/FreyasWallSketches/Section ds1,What's that one on the left?,Co to za jeden po lewej?
+Examine/FreyasWallSketches/Section ds3,"Drawings, taped up on the wall.","Rysunki, przyklejone taśmą na ścianie."
+Examine/FreyasWallSketches/Section ds4,Looks like two people standing together in a garden.,Wygląda jak dwie osoby stojące razem w ogrodzie.
+Examine/FreyasWallSketches/Section ds7,One of them's holding a red rose.,Jedna z nich trzyma czerwoną różę.
+Examine/FrontDoorBase/Section ds3,Why build a house here anyway?,Po co w ogóle budować tu dom?
+Examine/FrontDoorBase/Section ds4,I'm sure they had their reasons.,"Jestem pewien, że mieli swoje powody."
+Examine/FrontDoorBell1/Section ds3,Should we... ring the doorbell?,Powinniśmy... zadzwonić dzwonkiem?
+Examine/FrontDoorBell1/Section ds4,Why would we [h]not?[/h],Czemu mielibyśmy [h]nie?[/h]
+Examine/FrontDoorBell1/Section ds6,...,...
+Examine/FrontDoorBell1/Section ds7,...it's a little [m]melody.[/m],...to mała [m]melodia.[/m]
+Examine/FrontDoorBell2/Section ds9,...,...
+Examine/FrontDoorBirdfeeders/Section ds3,Little birdfeeders.,Małe karmniki dla ptaków.
+Examine/FrontDoorBirdfeeders/Section ds4,How do you know they're for birds?,"Skąd wiesz, że są dla ptaków?"
+Examine/FrontDoorChop/Section ds3,"Looks like someone tried to chop it down, but then gave up.","Wygląda, jakby ktoś próbował to ściąć, ale się poddał."
+Examine/FrontDoorChop/Section ds4,Can you blame them?,Możesz go za to winić?
+Examine/FrontDoorDoor/Section ds4,Don't think it's locked?,Chyba nie są zamknięte?
+Examine/FrontDoorDoor/Section ds6,"That means we can just walk straight in, right?","To znaczy, że możemy po prostu wejść, tak?"
+Examine/FrontDoorDoor/Section ds7,"I'm pretty sure that's the rule, yeah.","Jestem całkiem pewien, że taka jest zasada, tak."
+Examine/FrontDoorFloor/Section ds3,"It's not soil.
+It's stone.","To nie ziemia.
+To kamień."
+Examine/FrontDoorHeart/Section ds3,I didn't know people actually did that.,"Nie wiedziałem, że ludzie naprawdę to robią."
+Examine/FrontDoorHeart/Section ds6,There's a heart engraved on the tree.,Na drzewie wyryte jest serce.
+Examine/FrontDoorHeart/Section ds7,"'P.P, F.F'","'P.P, F.F'"
+Examine/FrontDoorHouse/Section ds8,It's just... red.,Po prostu jest... czerwony.
+Examine/FrontDoorHouse/Section ds9,"It's red.
+But I don't think it's painted.","Jest czerwony.
+Ale nie sądzę, żeby był malowany."
+Examine/FrontDoorLeftPath/Section ds4,That leads back to the gardens.,To prowadzi z powrotem do ogrodów.
+Examine/FrontDoorLetter/Section ds3,-is that an envelope?,-to koperta?
+Examine/FrontDoorLetter/Section ds4,It's been opened... but the letter's still in there.,Została otwarta... ale list wciąż jest w środku.
+Examine/FrontDoorLetter/Section ds6,Let's read it.,Przeczytajmy go.
+Examine/FrontDoorLetter/Section ds7,Isn't that an invasion of someone's privacy?,Czy to nie naruszenie czyjejś prywatności?
+Examine/FrontDoorLetter/Section ds8,Oh definitely.,"Och, zdecydowanie."
+Examine/FrontDoorNameSign/Section ds11,[i]Twer.[/i],[i]Twr.[/i]
+Examine/FrontDoorNameSign/Section ds12,Tangle [i]Twer.[/i],Tangle [i]Twr.[/i]
+Examine/FrontDoorNameSign/Section ds3,Oh!,Och!
+Examine/FrontDoorNameSign/Section ds4,What?,Co?
+Examine/FrontDoorNameSign/Section ds7,"Oh.
+There's an 'Oh' on the floor.","Och.
+Na podłodze jest 'Och'."
+Examine/FrontDoorNameSign/Section ds8,Oh yeah.,A rzeczywiście.
+Examine/FrontDoorRightPath/Section ds3,A path leading towards the stone square.,Ścieżka prowadząca ku kamiennemu placowi.
+Examine/FrontDoorStatue/Section ds11,No... I think he'll just silently judge us.,"Nie... myślę, że po prostu będzie nas w milczeniu oceniał."
+Examine/FrontDoorStatue/Section ds12,Do you think he'll start to move if we try to go inside?,"Myślisz, że zacznie się ruszać, jeśli spróbujemy wejść do środka?"
+Examine/FrontDoorTrunk/Section ds11,The age old question...,Odwieczne pytanie...
+Examine/FrontDoorTrunk/Section ds13,"Which one d'you think came first, the tree or the house?","Co twoim zdaniem było pierwsze, drzewo czy dom?"
+Examine/GardenexamHarpStatue1/Section ds0,"It's a statue of some... hideous, scaly, bipedal fish-monster.","To posąg jakiegoś... paskudnego, łuskowatego, dwunożnego rybo-potwora."
+Examine/GardenexamHarpStatue1/Section ds1,-playing a harp.,-grającego na harfie.
+Examine/GardenexamHarpStatue1/Section ds4,...,...
+Examine/GardenexamHarpStatue1/Section ds5,Hang on a second.,Czekaj chwilę.
+Examine/GardenexamHarpStatue1/Section ds5 Choice 1,Look closer.,Przyjrzyj się bliżej.
+Examine/GardenexamHarpStatue1/Section ds5 Choice 2,Leave it alone.,Zostaw go w spokoju.
+Examine/GardenexamHarpStatue1/Section ds7,Playing a harp!,Grającego na harfie!
+Examine/GardenexamHarpStatue2/Section ds4,I'm still not sure about this thing.,Wciąż nie jestem pewien co do tej rzeczy.
+Examine/GardenexamHarpStatue2/Section ds5,Should we take another look?,Powinniśmy zerknąć jeszcze raz?
+Examine/GardenexamHarpStatue2/Section ds5 Choice 1,Look closer.,Przyjrzyj się bliżej.
+Examine/GardenexamHarpStatue2/Section ds5 Choice 2,Leave it alone.,Zostaw go w spokoju.
+Examine/GardenexamHarpStatue3/Section ds4,Let's try this again.,Spróbujmy jeszcze raz.
+Examine/GardenexamHarpStatue3/Section ds4 Choice 1,Look closer.,Przyjrzyj się bliżej.
+Examine/GardenexamHarpStatue3/Section ds4 Choice 2,Leave it alone.,Zostaw go w spokoju.
+Examine/GardenexamHarpStatue4/Section ds4,...is this what Freya was trying to work out?,"...czy to jest to, nad czym pracowała Freya?"
+Examine/GardenexamHarpStatue4/Section ds7,I think so.,Chyba tak.
+Examine/Gardenexambase/Section ds0,It's quiet...,Jest cicho...
+Examine/Gardenexambase/Section ds1,Mhm.,Mhm.
+Examine/Gardenexambase/Section ds2,You're supposed to say '[h]too[/h] quiet'.,Masz teraz powiedzieć '[h]zbyt[/h] cicho'.
+Examine/Gardenexambase/Section ds3,It's not.,Nie jest.
+Examine/Gardenexambase/Section ds4,It's an appropriate amount of quiet.,Jest odpowiednio cicho.
+Examine/Gardenexambase/Section ds5,...,...
+Examine/Gardenexamfoliage/Section ds0,This is some garden...,To ci dopiero ogród...
+Examine/Gardenexamfoliage/Section ds2,Do the plants all look a little strange to you?,"Nie wydaje ci się, że te rośliny wyglądają trochę dziwnie?"
+Examine/Gardenexamhouse/Section ds0,[h]That[/h] must be Tangle Tower.,[h]To[/h] musi być Tangle Tower.
+Examine/Gardenexamstonbandstand/Section ds0,It's a bandstand.,To estrada muzyczna.
+Examine/Gardenexamstonbandstand/Section ds1,Bit small for a bandstand?,Trochę mała jak na estradę?
+Examine/Gardenexamstonbandstand/Section ds2,It's a one man bandstand.,To estrada na jedną osobę.
+Examine/Gardenexamstonebench/Section ds0,"A bench of solid, cold stone.","Ławka z solidnego, zimnego kamienia."
+Examine/Gardenexamstonebench/Section ds4,My favourite kind.,Mój ulubiony rodzaj.
+Examine/Gardenexamstonegg/Section ds0,"It's a stone carving.
+Wonder how it got cracked...?","To rzeźba w kamieniu.
+Ciekawe, jak się popękała...?"
+Examine/Gardenexamstonegg/Section ds1,I think it's supposed to look like that.,Chyba tak ma wyglądać.
+Examine/Gardenexamstonegg/Section ds4,It's an [i]egg.[/i],To [i]jajko.[/i]
+Examine/Gardenexamstonehead1/Section ds0,Spooky.,Straszne.
+Examine/Gardenexamstonehead1/Section ds4,What d'you think it's for?,"Jak myślisz, do czego to jest?"
+Examine/Gardenexamstonehead1/Section ds5,I think it's to scare away detectives.,"Myślę, że po to, żeby odstraszać detektywów."
+Examine/Gardenexamstonehead1/Section ds7,-is it working?,-działa?
+Examine/Gardenexamstonehead1/Section ds8,No...,Nie...
+Examine/Gardenexamstonehead2notready/Section ds10,...are we gonna go in?,...wejdziemy?
+Examine/Gardenexamstonehead2notready/Section ds16,...but - there's a couple of things I wanna do first.,"...ale - jest parę rzeczy, które chcę najpierw zrobić."
+Examine/Gardenexamstonehead2notready/Section ds17,Yeah.,Tak.
+Examine/Gardenexamstonehead2ready/Section ds0,...where d'you think it goes?,"...jak myślisz, dokąd to prowadzi?"
+Examine/Gardenexamstonehead2ready/Section ds10,...,...
+Examine/Gardenexamstonehead2ready/Section ds12,[h]Down.[/h],[h]W dół.[/h]
+Examine/Gardenexamstonehead2ready/Section ds12 Choice 1,Go down.,Zejdź na dół.
+Examine/Gardenexamstonehead2ready/Section ds12 Choice 2,Stay here.,Zostań tutaj.
+Examine/Gardenexamstonepath/Section ds0,It's a path through the garden.,To ścieżka przez ogród.
+Examine/Gardenexamstonepath/Section ds2,"Leads up to the house.
+I assume.","Prowadzi do domu.
+Zakładam."
+Examine/Gardenexamstonfeet/Section ds0,The pond has little stone feet!,Staw ma małe kamienne stopy!
+Examine/Gardenexamstonfeet/Section ds2,...seems a bit superfluous.,...wydaje się trochę zbędne.
+Examine/Gardenexamstonfeet/Section ds3,[h]You're[/h] superfluous.,[h]Ty[/h] jesteś zbędny.
+Examine/Gardenexamstonhawk/Section ds0,...what animal [h]is[/h] that?,...co to [h]za[/h] zwierzę?
+Examine/Gardenexamstonhawk/Section ds1,Hawk... bear... lizard?,Jastrząb... niedźwiedź... jaszczurka?
+Examine/Gardenexamstonhawk/Section ds2,"Right.
+Of course.","No jasne.
+Oczywiście."
+Examine/Gardenexamstonhawk/Section ds3,A Hawkbearlizard.,Jastrzębioniedźwiedziojaszczurka.
+Examine/Gardenexamwater/Section ds0,It's full of the same weird water that was in the lake...,"Pełen tej samej dziwnej wody, co ta z jeziora..."
+Examine/Gardenexamwater/Section ds2,Any fish in there?,Są tam jakieś ryby?
+Examine/Gardenexamwater/Section ds3,Not a single one.,Ani jedna.
+Examine/Gardenexamwater/Section ds4,-Or it [h]used[/h] to be.,-a raczej [h]była[/h] nią.
+Examine/Gardenexamwater/Section ds6,It's a cassette tape.,To kaseta magnetofonowa.
+Examine/Gardenexamwater/Section ds7,Although there is [h]something[/h] in there...,Chociaż [h]coś[/h] tam jest...
+Examine/GramaphoneGreenTape/Section ds0,Let's listen to the green tape.,Posłuchajmy zielonej kasety.
+Examine/GramaphoneGreenTape/Section ds1,It's someone humming a [m]tune.[/m],Ktoś nuci [m]melodię.[/m]
+Examine/GramaphoneGreenTape/Section ds2,Weird.,Dziwne.
+Examine/GramaphoneGreenTape/Section ds4,...,...
+Examine/GramaphonePinkTape/Section ds0,Let's listen to the pink tape.,Posłuchajmy różowej kasety.
+Examine/GramaphonePinkTape/Section ds1,...it's piano music!,...to muzyka na pianino!
+Examine/GramaphonePinkTape/Section ds2,...,...
+Examine/GrandHallExamBASE/Section ds0,"[h]Finally[/h], we get to investigate a murder in a spooky mansion. ",[h]Nareszcie[/h] mamy zbadać morderstwo w upiornej rezydencji. 
+Examine/GrandHallExamBASE/Section ds1,"It's not that spooky, really.","Wcale nie jest taka upiorna, tak naprawdę."
+Examine/GrandHallExamBASE/Section ds2,Don't ruin this.,Nie psuj tego.
+Examine/GrandHallExamPlants/Section ds1,"Sally, check those plants for clues.","Sally, sprawdź te rośliny pod kątem tropów."
+Examine/GrandHallExamPlants/Section ds3,...,...
+Examine/GrandHallExamPlants/Section ds4,-is soil a clue?,-czy ziemia jest tropem?
+Examine/GrandHallExamWindows/Section ds3,We should try and be finished before it gets dark.,"Powinniśmy postarać się skończyć, zanim się ściemni."
+Examine/GrandHallExamWindows/Section ds5,No pressure.,Bez presji.
+Examine/GrandHallExamaquatube/Section ds0,"There are [h]weeds[/h] in there.
+And sand...","Są tam [h]wodorosty.[/h]
+I piasek..."
+Examine/GrandHallExamaquatube/Section ds1,It's a big glass tube... filled with water.,To wielka szklana rura... wypełniona wodą.
+Examine/GrandHallExamaquatube/Section ds2,...it's an aquarium?,...to akwarium?
+Examine/GrandHallExamaquatube/Section ds3,"Could be.
+Except there's nothing living in it.","Może być.
+Tyle że nic w nim nie żyje."
+Examine/GrandHallExamaquatube/Section ds4,...anymore.,...już.
+Examine/GrandHallExambannerF/Section ds1,A big letter F.,Wielka litera F.
+Examine/GrandHallExambannerF/Section ds5,Who [h]doesn't[/h] hang a giant banner of their initial in the lobby of their mansion?,Kto [h]nie[/h] powiesiłby wielkiego transparentu z własnym inicjałem w hallu swojej rezydencji?
+Examine/GrandHallExambannerF/Section ds7,Of course.,No jasne.
+Examine/GrandHallExambannerP/Section ds0,This one has a big P. ,Ten ma wielkie P. 
+Examine/GrandHallExambannerP/Section ds1,That's P...robably important.,To P...ewnie ważne.
+Examine/GrandHallExambannerP/Section ds2,How very P...ceptive of you.,Ale z ciebie P...ostrzegawczy geniusz.
+Examine/GrandHallExamdoorLIBRARY/Section ds2,It's not locked.,Nie jest zamknięte.
+Examine/GrandHallExamdoorMUSIC/Section ds0,A room.,Pokój.
+Examine/GrandHallExamdoorMUSIC/Section ds2,A door.,Drzwi.
+Examine/GrandHallExamdoorMUSIC/Section ds3,What's behind it?,Co za nimi jest?
+Examine/GrandHallExamfamilytree/Section ds1,I think it's a family tree.,"Myślę, że to drzewo genealogiczne."
+Examine/GrandHallExamfamilytree/Section ds1 Choice 1,Look closer.,Przyjrzyj się bliżej.
+Examine/GrandHallExamfamilytree/Section ds1 Choice 2,Sounds boring.,Brzmi nudno.
+Examine/GrandHallExamfamilytree/Section ds4,What [h]is[/h] that?,Co to [h]jest[/h]?
+Examine/GrandHallExamstairsF/Section ds0,Stairs.,Schody.
+Examine/GrandHallExamstairsP/Section ds1,Stairs!,Schody!
+Examine/GrandHallNIGHTExamAquaTube/Section ds1,This must be it. This thing goes all the way up.,To musi być to. Ta rzecz sięga na sam szczyt.
+Examine/GrandHallNIGHTExamAquaTube/Section ds5,How are we supposed to get up there...?,Jak niby mamy się tam dostać...?
+Examine/GrandHallNIGHTExamAquaTube/Section ds6,Hang on - It's pitch black...,Czekaj - jest kompletnie ciemno...
+Examine/GrandHallNIGHTExamAquaTube/Section ds7,But I think there's a switch.,"Ale wydaje mi się, że jest tam jakiś przełącznik."
+Examine/GrandHallNIGHTExamAquaTube/Section ds7 Choice 1,Pull it.,Pociągnij go.
+Examine/GrandHallNIGHTExamAquaTube/Section ds7 Choice 2,Leave it alone.,Zostaw go w spokoju.
+Examine/GrandHallNIGHTExamAquaTube/Section ds8,...,...
+Examine/GrandHallNIGHTExamAquaTube2/Section ds1,A ladder.,Drabina.
+Examine/GrandHallNIGHTExamAquaTube2/Section ds11,Wanna go up?,Chcesz wejść na górę?
+Examine/GrandHallNIGHTExamAquaTube2/Section ds11 Choice 1,Climb the ladder.,Wejdź po drabinie.
+Examine/GrandHallNIGHTExamAquaTube2/Section ds11 Choice 2,Leave it alone.,Zostaw to w spokoju.
+Examine/GrandHallNIGHTExamFamilyTree/Section ds1,The family tree.,Drzewo genealogiczne.
+Examine/GrandHallNIGHTExamFamilyTree/Section ds10,...I can just about still make it out.,...jeszcze jakoś udaje mi się je rozpoznać.
+Examine/GrandHallNIGHTExamFamilyTree/Section ds10 Choice 1,Look closer.,Przyjrzyj się bliżej.
+Examine/GrandHallNIGHTExamFamilyTree/Section ds10 Choice 2,No need.,Nie trzeba.
+Examine/GrandHallNIGHTExamNothing/Section ds1,Let's look for a way into the study.,Poszukajmy drogi do gabinetu.
+Examine/GrandHallNIGHTExamNothing/Section ds7,The room was marked on the building plans we found.,"Ten pokój był zaznaczony na planach budynku, które znaleźliśmy."
+Examine/GrandHallNIGHTExamNothing/Section ds9,It's somewhere in the middle of the house.,Jest gdzieś w środku domu.
+Examine/GreenhouseExamBase/Section ds0,It's bigger in here than I thought it would be.,"Jest tu większy, niż myślałem."
+Examine/GreenhouseExamBase/Section ds2,One of the many mystical properties of indoor landscaping.,Jedna z wielu mistycznych właściwości ogrodnictwa wewnętrznego.
+Examine/GreenhouseExamBeetle/Section ds1,That's a handsome beetle.,To przystojny żuk.
+Examine/GreenhouseExamBeetle/Section ds3,Looks like he might have magic powers...,"Wygląda, jakby mógł mieć magiczne moce..."
+Examine/GreenhouseExamBeetle/Section ds4,...,...
+Examine/GreenhouseExamBoard/Section ds0,A little chart of... uh-,Mały wykres czegoś... yy-
+Examine/GreenhouseExamBoard/Section ds2,Actually I have no idea what it's about.,"Właściwie nie mam pojęcia, o co w tym chodzi."
+Examine/GreenhouseExamBoard/Section ds2 Choice 1,Look closer.,Przyjrzyj się bliżej.
+Examine/GreenhouseExamBoard/Section ds2 Choice 2,Leave it alone.,Zostaw to w spokoju.
+Examine/GreenhouseExamFloor/Section ds1,...bit of a [h]decadent[/h] flooring choice for a greenhouse.,...dość [h]wystawny[/h] wybór podłogi jak na szklarnię.
+Examine/GreenhouseExamFlowers/Section ds4,All the flowers here look kinda poisonous...,Wszystkie kwiaty tutaj wyglądają trochę trująco...
+Examine/GreenhouseExamFlowers/Section ds5,Can flowers be poisonous?,Kwiaty mogą być trujące?
+Examine/GreenhouseExamFlowers/Section ds6,Anything can be poisonous.,Wszystko może być trujące.
+Examine/GreenhouseExamFlowers/Section ds7,Good to know.,Dobrze wiedzieć.
+Examine/GreenhouseExamHangingBaskets/Section ds0,"Hanging baskets.
+They're so high up...","Wiszące koszyki.
+Tak wysoko..."
+Examine/GreenhouseExamHangingBaskets/Section ds3,"To you, maybe.","Dla ciebie, może."
+Examine/GreenhouseExamHangingBaskets/Section ds4,...you're only [i]two inches[/i] taller than me.,...jesteś ode mnie wyższy zaledwie o [i]pięć centymetrów[/i].
+Examine/GreenhouseExamHangingBaskets/Section ds5,Two inches makes [h]all[/h] the difference.,Pięć centymetrów robi [h]całą[/h] różnicę.
+Examine/GreenhouseExamPears/Section ds0,"-is that fruit?
+It's shaped like fruit.","-czy to owoc?
+Ma kształt owocu."
+Examine/GreenhouseExamPears/Section ds1,Too shiny to be fruit.,Zbyt błyszczący jak na owoc.
+Examine/GreenhouseExamPears/Section ds3,"Safe to eat, d'you think?","Bezpieczny do jedzenia, jak myślisz?"
+Examine/GreenhouseExamPears/Section ds4,I'm gonna say no.,"Powiedziałabym, że nie."
+Examine/GreenhouseExamPears/Section ds5,"I think it's glowing a little, too.","Wydaje mi się też, że lekko się świeci."
+Examine/GreenhouseExamPottedFruit/Section ds0,This one's in a little pot.,Ten jest w małej donicy.
+Examine/GreenhouseExamPottedFruit/Section ds1,"Okay, that is [h]definitely[/h] not edible.","Dobra, to [h]zdecydowanie[/h] niejadalne."
+Examine/GreenhouseExamPottedFruit/Section ds2,"It looks like a gemstone.
+Don't you think?","Wygląda jak kamień szlachetny.
+Nie sądzisz?"
+Examine/GreenhouseExamSoil/Section ds0,Bags of soil.,Worki ziemi.
+Examine/GreenhouseExamSoil/Section ds2,It's so... [h]blue.[/h],Jest taka... [h]niebieska.[/h]
+Examine/GreenhouseExamTools/Section ds0,Tools.,Narzędzia.
+Examine/GreenhouseExamTools/Section ds3,Used by a gardener.,Używane przez ogrodnika.
+Examine/GreenhouseExamTools/Section ds4,For gardening.,Do ogrodnictwa.
+Examine/GreenhouseExamWindows/Section ds0,It's glass...,To szkło...
+Examine/GreenhouseExamWindows/Section ds2,Total oxymoron.,Całkowity oksymoron.
+Examine/GreenhouseExamWindows/Section ds3,But - I can't see through it.,Ale - nie widzę przez nie.
+Examine/GreenhouseExamWindows/Section ds4,I am not!!,Wcale nie jestem!!
+Examine/HarmonographPickup/Section ds0,What [h]is[/h] it...?,Co to [h]jest[/h]...?
+Examine/HarmonographPickup/Section ds0 Choice 1,Pick it up.,Podnieś to.
+Examine/HarmonographPickup/Section ds0 Choice 2,Leave it alone.,Zostaw to w spokoju.
+Examine/HarmonographPickup/Section ds17,...,...
+Examine/HarmonographPickup/Section ds18,What does it say?,Co tam jest napisane?
+Examine/HarmonographPickup/Section ds19,Grimoire?,Grimoire?
+Examine/HarmonographPickup/Section ds21,...this wasn't here before.,...tego tu wcześniej nie było.
+Examine/HarmonographPickup/Section ds6,It's a little wooden toy. Looks kinda like a crab...?,To mała drewniana zabawka. Wygląda trochę jak krab...?
+Examine/HarmonographPickup/Section ds7,There's a note stuck to the back...,Z tyłu przyklejona jest karteczka...
+Examine/HarpStatueBackOut/Section ds0,Something tells me we're not gonna solve this just yet.,"Coś mi mówi, że jeszcze tego nie rozwiążemy."
+Examine/HarpStatueBackOut/Section ds2,Let's come back later. ,Wróćmy do tego później. 
+Examine/HarpStatueExamineDuring/Section ds10,It's the truth I swear!,"To prawda, przysięgam!"
+Examine/HarpStatueExamineDuring/Section ds11,A little handheld one - only eight strings. ,"Małą, ręczną - tylko osiem strun. "
+Examine/HarpStatueExamineDuring/Section ds13,Looks like he's playing a semi-grand pedal harp.,"Wygląda, jakby grał na pół-koncertowej harfie pedałowej."
+Examine/HarpStatueExamineDuring/Section ds16,"You some kind of harp expert, Sally?","Jesteś jakąś ekspertką od harf, Sally?"
+Examine/HarpStatueExamineDuring/Section ds7,Did you not know? I had a harp when I was a kid.,"Nie wiedziałeś? Miałam harfę, kiedy byłam dzieckiem."
+Examine/HarpStatueExamineDuring/Section ds9,Lyre.,Lira.
+Examine/HarpStatueFINALBackOut/Section ds6,I'm [h]sure[/h] we can solve this now...,"Jestem [h]pewien[/h], że możemy to teraz rozwiązać..."
+Examine/HarpStatueFINALOnEnter/Section ds2,"You know, I think we might be able to solve this now.","Wiesz, myślę, że możemy to teraz rozwiązać."
+Examine/HarpStatueFINALSuccess1/Section ds0,...,...
+Examine/HarpStatueFINALSuccess1/Section ds2,That's [h]gotta[/h] be right...,To [h]musi[/h] być poprawne...
+Examine/HarpStatueFINALSuccess1/Section ds3,Nothing.,Nic.
+Examine/HarpStatueFINALSuccess1/Section ds4,Maybe it's broken.,Może jest zepsuty.
+Examine/HarpStatueFINALSuccess1/Section ds5,Wait...,Czekaj...
+Examine/HarpStatueFINALSuccess1/Section ds6,Do you hear that?,Słyszysz to?
+Examine/HarpStatueOnEnter/Section ds4,"This isn't just a regular statue, is it?","To nie jest zwykły posąg, prawda?"
+Examine/HarpStatueOnEnter/Section ds8,Something tells me we're not gonna solve this just yet.,"Coś mi mówi, że jeszcze tego nie rozwiążemy."
+Examine/HawkshawSuspicionUnlock/Section ds0,There's something about Hawkshaw's handheld microscope.,Jest coś w kwestii ręcznego mikroskopu Hawkshaw.
+Examine/HawkshawSuspicionUnlock/Section ds1,Let's ask her about it.,Zapytajmy ją o to.
+Examine/HawkshawSuspicionUnlock/Section ds1 Choice 1,Let's go now.,Idźmy teraz.
+Examine/HawkshawSuspicionUnlock/Section ds1 Choice 2,Later.,Później.
+Examine/HawkshawSuspicionUnlock/Section ds2,Something... [h]suspicious.[/h],Coś... [h]podejrzanego.[/h]
+Examine/Its the sky/Section ds0,It's the sky.,To niebo.
+Examine/LabBoardExamLeft/Section ds0,Reminds me of the chart from the library...,Przypomina mi wykres z biblioteki...
+Examine/LabBoardExamLeft/Section ds2,The one from the chalkboard?,Ten z tablicy?
+Examine/LabBoardExamLeft/Section ds3,Yeah...,Tak...
+Examine/LabBoardExamMiddle/Section ds0,...is that a periodic table?,...to tablica okresowa pierwiastków?
+Examine/LabBoardExamMiddle/Section ds1,No.,Nie.
+Examine/LabBoardExamMiddle/Section ds2,...But it does kinda look like one.,...Ale trochę tak wygląda.
+Examine/LabBoardExamMiddle/Section ds3,What are those symbols?,Co to za symbole?
+Examine/LabBoardExamMiddle/Section ds4,They're alchemic symbols-,To symbole alchemiczne-
+Examine/LabBoardExamMiddle/Section ds5,"-mostly based on the planets, the sun, the moon - stuff like that.","-głównie oparte na planetach, słońcu, księżycu - takie tam rzeczy."
+Examine/LabBoardExamMiddle/Section ds6,Huh.,Huh.
+Examine/LabBoardExamNoIdea/Section ds0,Any idea what this is?,"Masz pojęcie, co to jest?"
+Examine/LabBoardExamNoIdea/Section ds2,Nope.,Nie mam.
+Examine/LabBoardExamRight/Section ds0,Didn't we see those same symbols in the greenhouse?,Czy nie widzieliśmy tych samych symboli w szklarni?
+Examine/LabBoardExamRight/Section ds3,This looks like it was drawn in a hurry...,"Wygląda, jakby to narysowano w pośpiechu..."
+Examine/Let's go to the crime scene first./Section ds0,Let's head to the crime scene first.,Skierujmy się najpierw na miejsce zbrodni.
+Examine/Let's go to the crime scene first./Section ds1,"It's at the top of the West tower, I think.",Jest chyba na szczycie zachodniej wieży.
+Examine/LibraryExamBase/Section ds0,What exactly does that mean? What [h]is[/h] must?,Co to dokładnie znaczy? Co to [h]jest[/h] stęchłość?
+Examine/LibraryExamBase/Section ds1,It's musty in here.,Jest tu stęchło.
+Examine/LibraryExamBase/Section ds2,Must...,Stęchłość...
+Examine/LibraryExamBase/Section ds3,...you ask such stupid questions?,...zadajesz takie głupie pytania?
+Examine/LibraryExamBase/Section ds4,Nice.,Ładnie.
+Examine/LibraryExamBook/Section ds0,It's been left open. Looks like somebody was halfway through reading it...,"Została zostawiona otwarta. Wygląda, jakby ktoś czytał ją w połowie..."
+Examine/LibraryExamBook/Section ds1,Or...,Albo...
+Examine/LibraryExamBook/Section ds2,Ever so slightly unnerving.,Delikatnie niepokojące.
+Examine/LibraryExamBook/Section ds5,-it was left open for us to [h]find.[/h],"-została zostawiona otwarta, żebyśmy ją [h]znaleźli.[/h]"
+Examine/LibraryExamBook/Section ds6,It's an illustrated book about birds.,To ilustrowana książka o ptakach.
+Examine/LibraryExamBottles/Section ds0,Uh... what's in those bottles?,Yy... co jest w tych butelkach?
+Examine/LibraryExamBottles/Section ds1,I'm not sure.,Nie jestem pewna.
+Examine/LibraryExamBottles/Section ds2,...soil samples?,...próbki gleby?
+Examine/LibraryExamChalkboard/Section ds0,A chalkboard.,Tablica kredowa.
+Examine/LibraryExamChalkboard/Section ds2,...is this a library or a [i]classroom?[/i],...to biblioteka czy [i]sala lekcyjna?[/i]
+Examine/LibraryExamChalkboard/Section ds2 Choice 1,Look closer.,Przyjrzyj się bliżej.
+Examine/LibraryExamChalkboard/Section ds2 Choice 2,Leave it alone.,Zostaw to w spokoju.
+Examine/LibraryExamLabelBird/Section ds0,Books about birds.,Książki o ptakach.
+Examine/LibraryExamLabelBird/Section ds1,"The shelves are about...
+[i]half[/i]-empty.","Półki są w jakiejś...
+[i]połowie[/i] puste."
+Examine/LibraryExamLabelBird/Section ds2,"Oh, so you're a [i]'the shelves are half-empty'[/i] kind of person?","Och, więc jesteś typem osoby, który mówi [i]'półki są w połowie puste'[/i]?"
+Examine/LibraryExamLabelBird/Section ds3,You knew this already.,Już to wiedziałeś.
+Examine/LibraryExamLabelBug/Section ds0,Books about insects.,Książki o owadach.
+Examine/LibraryExamLabelBug/Section ds1,Well- [i]theoretically.[/i],Cóż- [i]teoretycznie.[/i]
+Examine/LibraryExamLabelBug/Section ds2,There's not a single book on that shelf.,Na tej półce nie ma ani jednej książki.
+Examine/LibraryExamLabelBug/Section ds3,Huh.,Huh.
+Examine/LibraryExamLabelCastle/Section ds0,"Books about... ancient history?
+I think?","Książki o... starożytnej historii?
+Chyba?"
+Examine/LibraryExamLabelCastle/Section ds1,These books [h]are[/h] ancient history.,Te książki [h]są[/h] starożytną historią.
+Examine/LibraryExamLabelCastle/Section ds2,I think they'd crumble into dust if I tried to pick them up.,"Myślę, że rozpadłyby się w pył, gdybym próbowała je podnieść."
+Examine/LibraryExamLabelCastle/Section ds3,Good excuse.,Niezła wymówka.
+Examine/LibraryExamLabelCastle/Section ds4,Thanks.,Dzięki.
+Examine/LibraryExamLabelMountain/Section ds0,Skip.,Pomijamy.
+Examine/LibraryExamLabelMountain/Section ds1,Books about geography.,Książki o geografii.
+Examine/LibraryExamLabelStar/Section ds0,Books about space.,Książki o kosmosie.
+Examine/LibraryExamLabelStar/Section ds1,They're relatively untouched.,Są stosunkowo nietknięte.
+Examine/LibraryExamLabelTree/Section ds0,Books about... nature?,Książki o... naturze?
+Examine/LibraryExamSnowglobe/Section ds0,Of sorts.,W pewnym sensie.
+Examine/LibraryExamSnowglobe/Section ds0 Choice 1,Look closer.,Przyjrzyj się bliżej.
+Examine/LibraryExamSnowglobe/Section ds0 Choice 2,Leave it alone.,Zostaw to w spokoju.
+Examine/LibraryExamSnowglobe/Section ds8,-is that... a snowglobe?,-czy to... kula śniegowa?
+Examine/LibraryExamWindow/Section ds0,Sure.,Jasne.
+Examine/LibraryExamWindow/Section ds1,The search for new knowledge...,Poszukiwanie nowej wiedzy...
+Examine/LibraryExamWindow/Section ds2,The archiving of old knowledge...,Archiwizacja starej wiedzy...
+Examine/LibraryExamWindow/Section ds3,It's downright [h]poetic.[/h],To wręcz [h]poetyckie.[/h]
+Examine/LibraryExamWindow/Section ds4,Why [h]not[/h] build a science lab in the corner of the library?,Czemu [h]nie[/h] zbudować laboratorium naukowego w rogu biblioteki?
+Examine/LibraryExamdroppedbook/Section ds0,A book... on the floor.,Książka... na podłodze.
+Examine/LibraryExamdroppedbook/Section ds5,'Fundamental Entomology'.,'Podstawy entomologii'.
+Examine/LibraryExamdroppedbook/Section ds6,"Hm.
+I guess somebody dropped it.","Hm.
+Chyba ktoś ją upuścił."
+Examine/Locked Bedroom/Section ds0,Locked.,Zamknięte.
+Examine/Locked Bedroom/Section ds2,...,...
+Examine/Locked Bedroom/Section ds3,...,...
+Examine/Locked Bedroom/Section ds4,Locked.,Zamknięte.
+Examine/Locked Bedroom/Section ds5,Locked.,Zamknięte.
+Examine/Locked Bedroom/Section ds6,...,...
+Examine/Locked Bedroom/Section ds7,It's locked.,Jest zamknięte.
+Examine/Locked Bedroom/Section ds8,...,...
+Examine/Locked Rooftop Garden/Section ds0,Locked.,Zamknięte.
+Examine/Locked Rooftop Garden/Section ds1,There must be [h]some[/h] way to get it open...,"Musi być [h]jakiś[/h] sposób, żeby to otworzyć..."
+Examine/Locked Rooftop Garden/Section ds2,...,...
+Examine/LockedBoxExamine/Section ds1,...is that an egg?,...to jajko?
+Examine/LockedBoxExamine/Section ds2,It's also covered in gemstones.,Jest też pokryte kamieniami szlachetnymi.
+Examine/LockedBoxExamine/Section ds3,What a completely ordinary object.,Cóż za zupełnie zwyczajny przedmiot.
+Examine/LockedBoxExamine/Section ds3 Choice 1,Look closer.,Przyjrzyj się bliżej.
+Examine/LockedBoxExamine/Section ds3 Choice 2,Leave it alone.,Zostaw to w spokoju.
+Examine/LockedBoxExamine/Section ds4,An egg... with bird feet.,Jajko... z ptasimi nóżkami.
+Examine/LockedBoxFelixDone/Section ds0,We already solved it.,Już to rozwiązaliśmy.
+Examine/LockedBoxFelixExamine/Section ds0,Nice - a real treasure chest...,Ładnie - prawdziwa skrzynia skarbów...
+Examine/LockedBoxFelixExamine/Section ds1,Why else would it be locked?,A po co innego byłaby zamknięta?
+Examine/LockedBoxFelixExamine/Section ds3,Plus there's a treasure map hanging directly above it.,Poza tym wisi nad nią bezpośrednio mapa skarbów.
+Examine/LockedBoxFelixExamine/Section ds3 Choice 1,Look closer.,Przyjrzyj się bliżej.
+Examine/LockedBoxFelixExamine/Section ds3 Choice 2,Leave it alone.,Zostaw to w spokoju.
+Examine/LockedBoxFelixExamine/Section ds5,How do you know there's treasure in there?,"Skąd wiesz, że jest w niej skarb?"
+Examine/LockedBoxFelixFailed1/Section ds0,Nothing.,Nic.
+Examine/LockedBoxFelixFailed1/Section ds1,Did you check the treasure map for clues?,Sprawdziłaś mapę skarbów pod kątem tropów?
+Examine/LockedBoxFelixFailed1/Section ds2,And what about that painting on the chest itself?,A co z tym obrazem na samej skrzyni?
+Examine/LockedBoxFelixFailed2/Section ds0,Still locked.,Wciąż zamknięte.
+Examine/LockedBoxFelixFailed2/Section ds1,I think there's a connection between the painting and the treasure map...,"Myślę, że jest jakiś związek między obrazem a mapą skarbów..."
+Examine/LockedBoxFelixFailed2/Section ds2,"Like they're... different versions of the same thing, maybe?","Jakby były... różnymi wersjami tej samej rzeczy, może?"
+Examine/LockedBoxFelixFailed3/Section ds0,That... was incorrect.,To... było niepoprawne.
+Examine/LockedBoxFelixFailed3/Section ds1,"The padlock has three different inputs - a letter, a number, and a compass direction.","Kłódka ma trzy różne pola - literę, liczbę i kierunek kompasu."
+Examine/LockedBoxFelixFailed3/Section ds2,It's just a grid reference for the map.,To po prostu odniesienie siatki do mapy.
+Examine/LockedBoxFelixOnEnter/Section ds2,What's the deal with that painting on the front?,O co chodzi z tym obrazem z przodu?
+Examine/LockedBoxFelixOnEnter/Section ds3,Not sure...,Nie jestem pewien...
+Examine/LockedBoxFelixOnEnter/Section ds4,"-we should check that treasure map, too.",-powinniśmy sprawdzić też tę mapę skarbów.
+Examine/LockedBoxFelixSuccess2/Section ds0,What was in the box?,Co było w skrzyni?
+Examine/LockedBoxFelixSuccess2/Section ds2,More wooden models...,Więcej drewnianych modeli...
+Examine/LockedBoxFelixSuccess2/Section ds4,These are a little different to the one on the desk.,Te są trochę inne od tego na biurku.
+Examine/LockedBoxFelixSuccess2/Section ds5,...,...
+Examine/LockedBoxFifiDone/Section ds0,We already solved it.,Już to rozwiązaliśmy.
+Examine/LockedBoxFifiExamine/Section ds0,"It looks like a microscope.
+A big one.","Wygląda jak mikroskop.
+Duży."
+Examine/LockedBoxFifiExamine/Section ds1,Can I touch it?,Mogę go dotknąć?
+Examine/LockedBoxFifiExamine/Section ds1 Choice 1,Look closer.,Przyjrzyj się bliżej.
+Examine/LockedBoxFifiExamine/Section ds1 Choice 2,Leave it alone.,Zostaw to w spokoju.
+Examine/LockedBoxFifiFailed1/Section ds0,I guess that's wrong...?,Chyba to źle...?
+Examine/LockedBoxFifiFailed1/Section ds1,The four lenses all have different magnification strengths.,Cztery soczewki mają różną siłę powiększenia.
+Examine/LockedBoxFifiFailed1/Section ds3,So they must each have a specific position along the rail.,Więc każda musi mieć określoną pozycję wzdłuż szyny.
+Examine/LockedBoxFifiFailed2/Section ds0,Nope.,Nie.
+Examine/LockedBoxFifiFailed2/Section ds5,You need to magnify different parts of the image - so they line up into the shape of a key.,"Musisz powiększyć różne części obrazu - tak, żeby ułożyły się w kształt klucza."
+Examine/LockedBoxFifiFailed2/Section ds6,"Looks like you might need to overlap some of the lenses, too.","Wygląda, że musisz też nałożyć niektóre soczewki na siebie."
+Examine/LockedBoxFifiFailed3/Section ds0,Nothing.,Nic.
+Examine/LockedBoxFifiFailed3/Section ds1,"Start by finding the parts that are too small, and make them bigger. ","Zacznij od znalezienia części, które są zbyt małe, i zrób je większymi. "
+Examine/LockedBoxFifiFailed3/Section ds3,Or vice versa.,Albo na odwrót.
+Examine/LockedBoxFifiFailed3/Section ds4,You want to close up all the gaps on the spine of the key - get it all to line up.,Chcesz zamknąć wszystkie przerwy na trzonku klucza - żeby wszystko się zgadzało.
+Examine/LockedBoxFifiOnEnter/Section ds0,Uh... I'm not sure this [h]is[/h] a microscope...,"Yy... nie jestem pewien, czy to [h]jest[/h] mikroskop..."
+Examine/LockedBoxFifiSuccess2/Section ds0,Sounds like it unlocked.,"Brzmi, jakby się odblokowało."
+Examine/LockedBoxFifiSuccess2/Section ds2,There's a book in here.,Jest tu książka.
+Examine/LockedBoxFifiSuccess2/Section ds3,...,...
+Examine/LockedBoxFifiSuccess2/Section ds4,"Yeah, it's built on top of a little metal box...","Tak, jest zbudowany na małym metalowym pudełku..."
+Examine/LockedBoxFifiSuccess2/Section ds5,...,...
+Examine/LockedBoxFitzDone/Section ds1,We already solved it.,Już to rozwiązaliśmy.
+Examine/LockedBoxFitzExamine/Section ds0,Hello...,Witaj...
+Examine/LockedBoxFitzExamine/Section ds1,"Doesn't need to be. 
+It's locked.","Nie musi być. 
+Jest zamknięte."
+Examine/LockedBoxFitzExamine/Section ds1 Choice 1,Look closer.,Przyjrzyj się bliżej.
+Examine/LockedBoxFitzExamine/Section ds1 Choice 2,Leave it alone.,Zostaw to w spokoju.
+Examine/LockedBoxFitzExamine/Section ds5,"Not hidden very well, is it?","Niezbyt dobrze ukryte, prawda?"
+Examine/LockedBoxFitzFailed1/Section ds0,Nothing.,Nic.
+Examine/LockedBoxFitzFailed1/Section ds2,"Maybe if you move the paper around, you'll find a clue?","Może jeśli poruszysz papierem, znajdziesz trop?"
+Examine/LockedBoxFitzFailed2/Section ds0,Still locked.,Wciąż zamknięte.
+Examine/LockedBoxFitzFailed2/Section ds1,I think the lines drawn on the paper correspond with the shapes on the combination lock.,"Myślę, że linie narysowane na papierze odpowiadają kształtom na zamku szyfrowym."
+Examine/LockedBoxFitzFailed3/Section ds0,That... was incorrect.,To... było niepoprawne.
+Examine/LockedBoxFitzFailed3/Section ds1,Looks like there are four ways the various bits of paper can fit together...,"Wygląda, że są cztery sposoby, żeby połączyć te kawałki papieru..."
+Examine/LockedBoxFitzFailed3/Section ds2,"It's like a jigsaw puzzle, but with multiple solutions.","To jak układanka, ale z wieloma rozwiązaniami."
+Examine/LockedBoxFitzOnEnter/Section ds0,"It's a combination lock.
+","To zamek szyfrowy.
+"
+Examine/LockedBoxFitzOnEnter/Section ds4,...sort of.,...w pewnym sensie.
+Examine/LockedBoxFitzSuccess2/Section ds0,...,...
+Examine/LockedBoxFitzSuccess2/Section ds2,"Huh.
+That's kind of ominous.","Huh.
+To trochę złowieszcze."
+Examine/LockedBoxFitzSuccess2/Section ds3,Anything in there?,Coś tam jest?
+Examine/LockedBoxFitzSuccess2/Section ds5,"Yeah, it's wrapped in a cloth, hold on-","Tak, jest owinięte w tkaninę, czekaj-"
+Examine/LockedBoxFloraClue/Section ds6,It's some kind of clue about where to put the gemstones...,"To jakiś rodzaj tropu odnośnie tego, gdzie umieścić kamienie szlachetne..."
+Examine/LockedBoxFloraDone/Section ds1,We already solved it.,Już to rozwiązaliśmy.
+Examine/LockedBoxFloraFailed1/Section ds0,Nope.,Nie.
+Examine/LockedBoxFloraFailed1/Section ds1,Did you check the clue on the back of the egg?,Sprawdziłeś trop z tyłu jajka?
+Examine/LockedBoxFloraFailed1/Section ds2,I'm pretty sure it explains where to put each of the gemstones.,"Jestem całkiem pewna, że wyjaśnia, gdzie umieścić każdy z kamieni."
+Examine/LockedBoxFloraFailed2/Section ds0,I guess that's wrong...?,Chyba to źle...?
+Examine/LockedBoxFloraFailed2/Section ds1,What's the deal with those lines between the gems? ,O co chodzi z tymi liniami między klejnotami? 
+Examine/LockedBoxFloraFailed2/Section ds2,They must mean [h]something.[/h],Muszą coś [h]znaczyć.[/h]
+Examine/LockedBoxFloraFailed3/Section ds0,Nothing.,Nic.
+Examine/LockedBoxFloraFailed3/Section ds1,"Each line connects two slots, forming pairs.","Każda linia łączy dwa gniazda, tworząc pary."
+Examine/LockedBoxFloraFailed3/Section ds2,The exact same pairs are represented in the clue on the back.,Dokładnie te same pary są przedstawione w tropie z tyłu.
+Examine/LockedBoxFloraFailed3/Section ds3,They're just... rearranged. And rotated.,Po prostu są... przestawione. I obrócone.
+Examine/LockedBoxFloraOnEnter/Section ds2,...I think it's a container for something?,"...myślę, że to pojemnik na coś?"
+Examine/LockedBoxFloraOnEnter/Section ds3,Those gems look like they come off.,"Te klejnoty wyglądają, jakby dało się je zdjąć."
+Examine/LockedBoxFloraSuccess2/Section ds0,"Did it unlock?
+What's in there?","Odblokowało się?
+Co tam jest?"
+Examine/LockedBoxFloraSuccess2/Section ds2,"...an empty egg is a clue, right?","...puste jajko to trop, prawda?"
+Examine/LockedBoxFloraSuccess2/Section ds3,...,...
+Examine/LockedBoxFloraSuccess2/Section ds4,...,...
+Examine/LockedBoxFloraSuccess2/Section ds5,Nothing.,Nic.
+Examine/LockedBoxFloraSuccess2/Section ds6,[h]Nothing!?[/h],[h]Nic!?[/h]
+Examine/LockedBoxFloraSuccess2/Section ds7,"Well, I'm not leaving without a clue.","Cóż, nie odchodzę bez tropu."
+Examine/LockedBoxFreyaDone/Section ds1,We already solved it.,Już to rozwiązaliśmy.
+Examine/LockedBoxFreyaExamine/Section ds0,It's a little wooden box for paintbrushes.,To małe drewniane pudełko na pędzle.
+Examine/LockedBoxFreyaExamine/Section ds1,"To the casual observer, maybe.","Dla przypadkowego obserwatora, może."
+Examine/LockedBoxFreyaExamine/Section ds1 Choice 1,Look closer.,Przyjrzyj się bliżej.
+Examine/LockedBoxFreyaExamine/Section ds1 Choice 2,Leave it alone.,Zostaw to w spokoju.
+Examine/LockedBoxFreyaFailed1/Section ds0,Nothing.,Nic.
+Examine/LockedBoxFreyaFailed1/Section ds1,Did you find a hint on those scraps of paper?,Znalazłaś podpowiedź na tych skrawkach papieru?
+Examine/LockedBoxFreyaFailed1/Section ds2,Looks like a ripped-up jigsaw puzzle.,Wygląda jak podarta układanka.
+Examine/LockedBoxFreyaFailed2/Section ds0,That... was incorrect.,To... było niepoprawne.
+Examine/LockedBoxFreyaFailed2/Section ds1,"The information we need is on the paper - once it's been rearranged, I mean.","Informacja, której potrzebujemy, jest na papierze - kiedy już zostanie ułożony na nowo, znaczy się."
+Examine/LockedBoxFreyaFailed2/Section ds3,"Each brush has various characteristics - height, bristle shape, paint colour, handle colour...","Każdy pędzel ma różne cechy - wysokość, kształt włosia, kolor farby, kolor rączki..."
+Examine/LockedBoxFreyaFailed3/Section ds0,Still locked.,Wciąż zamknięte.
+Examine/LockedBoxFreyaFailed3/Section ds1,So - the paper jigsaw puzzle shows the position of various characteristics of the brushes.,Więc - papierowa układanka pokazuje pozycję różnych cech pędzli.
+Examine/LockedBoxFreyaFailed3/Section ds2,There's a couple of brushes with each characteristic - but only one perfect solution.,Jest po parę pędzli z każdą cechą - ale tylko jedno idealne rozwiązanie.
+Examine/LockedBoxFreyaOnEnter/Section ds0,They're [h]not[/h] real paintbrushes.,To [h]nie[/h] są prawdziwe pędzle.
+Examine/LockedBoxFreyaOnEnter/Section ds2,Looks like they're part of some kinda lock mechanism.,"Wyglądają, jakby były częścią jakiegoś mechanizmu zamka."
+Examine/LockedBoxFreyaSuccess2/Section ds0,...,...
+Examine/LockedBoxFreyaSuccess2/Section ds2,"Well.
+[h]Most[/h] of a photograph.","Cóż.
+[h]Większość[/h] fotografii."
+Examine/LockedBoxFreyaSuccess2/Section ds3,What was in the box?,Co było w pudełku?
+Examine/LockedBoxFreyaSuccess2/Section ds4,Just a photograph.,Tylko fotografia.
+Examine/LockedBoxHawkshawDone/Section ds1,We already solved it.,Już to rozwiązaliśmy.
+Examine/LockedBoxHawkshawExamine/Section ds0,...is that a clock?,...to zegar?
+Examine/LockedBoxHawkshawExamine/Section ds9,If it is - it's a clock with four faces.,Jeśli tak - to zegar z czterema tarczami.
+Examine/LockedBoxHawkshawExamine/Section ds9 Choice 1,Look closer.,Przyjrzyj się bliżej.
+Examine/LockedBoxHawkshawExamine/Section ds9 Choice 2,Leave it alone.,Zostaw to w spokoju.
+Examine/LockedBoxHawkshawFailed1/Section ds0,Nope.,Nie.
+Examine/LockedBoxHawkshawFailed1/Section ds1,So moving any of the hands turns the [h]adjacent[/h] hands in the opposite direction.,Więc poruszenie którąkolwiek wskazówką obraca [h]sąsiednie[/h] wskazówki w przeciwną stronę.
+Examine/LockedBoxHawkshawFailed1/Section ds2,It's like cogs on a machine.,To jak zębatki w maszynie.
+Examine/LockedBoxHawkshawFailed2/Section ds0,I guess that's wrong...?,Chyba to źle...?
+Examine/LockedBoxHawkshawFailed2/Section ds1,Did you work out what direction each hand needs to be facing?,"Ustaliłeś, w którą stronę ma być zwrócona każda wskazówka?"
+Examine/LockedBoxHawkshawFailed2/Section ds3,Each one ends with a little hoop. Try looking through the hoop and ignoring the rest.,"Każda kończy się małą pętelką. Spróbuj patrzeć przez pętelkę, ignorując resztę."
+Examine/LockedBoxHawkshawFailed3/Section ds0,Nothing.,Nic.
+Examine/LockedBoxHawkshawFailed3/Section ds1,It's just numbers on a clock.,To po prostu liczby na zegarze.
+Examine/LockedBoxHawkshawFailed3/Section ds2,"Three on the right, six on the bottom, nine on the left and twelve on the top.","Trzy po prawej, sześć na dole, dziewięć po lewej i dwanaście na górze."
+Examine/LockedBoxHawkshawFailed3/Section ds3,You only need ninety degree angles - that should make it easier to work out.,Potrzebujesz tylko kątów prostych - to powinno ułatwić rozgryzienie.
+Examine/LockedBoxHawkshawOnEnter/Section ds0,I'm guessing it doesn't tell the time.,"Zgaduję, że nie pokazuje czasu."
+Examine/LockedBoxHawkshawOnEnter/Section ds8,So what [h]does[/h] it do?,To co [h]robi[/h]?
+Examine/LockedBoxHawkshawSuccess2/Section ds0,What's in the box?,Co jest w pudełku?
+Examine/LockedBoxHawkshawSuccess2/Section ds2,But I'm not actually sure [h]what[/h] it is.,"Ale właściwie nie jestem pewna, [h]co[/h] to jest."
+Examine/LockedBoxHawkshawSuccess2/Section ds3,"A little... tool... thing?
+Looks like a telescope.","Jakieś... narzędzie... coś?
+Wygląda jak teleskop."
+Examine/LockedBoxHawkshawSuccess2/Section ds4,...,...
+Examine/LockedBoxLabDone/Section ds1,We already solved it.,Już to rozwiązaliśmy.
+Examine/LockedBoxLabExamine/Section ds0,Looks like a safe.,Wygląda jak sejf.
+Examine/LockedBoxLabExamine/Section ds1,...is it locked?,...jest zamknięty?
+Examine/LockedBoxLabExamine/Section ds3,"Seems likely, doesn't it?","Wygląda na to, prawda?"
+Examine/LockedBoxLabExamine/Section ds3 Choice 1,Look closer.,Przyjrzyj się bliżej.
+Examine/LockedBoxLabExamine/Section ds3 Choice 2,Leave it alone.,Zostaw to w spokoju.
+Examine/LockedBoxLabFailed1/Section ds0,Nothing.,Nic.
+Examine/LockedBoxLabFailed1/Section ds3,I think we're trying to make a path between the key and lock symbols on either side.,"Myślę, że próbujemy stworzyć ścieżkę między symbolami klucza i kłódki po obu stronach."
+Examine/LockedBoxLabFailed2/Section ds0,I guess that's wrong...?,Chyba to źle...?
+Examine/LockedBoxLabFailed2/Section ds2,The easiest part should be connecting the path to the two symbols at either end - since they don't move.,Najłatwiejsze powinno być połączenie ścieżki z dwoma symbolami na obu końcach - bo się nie ruszają.
+Examine/LockedBoxLabFailed3/Section ds0,Nope.,Nie.
+Examine/LockedBoxLabFailed3/Section ds2,"Oh, and I think the path only uses nine of the ten latches...","Och, i myślę, że ścieżka używa tylko dziewięciu z dziesięciu zatrzasków..."
+Examine/LockedBoxLabFailed3/Section ds3,Just start on the left and try to work your way across to the right.,Zacznij po prostu z lewej i spróbuj przebić się w prawo.
+Examine/LockedBoxLabOnEnter/Section ds0,Weird looking safe...,Dziwnie wyglądający sejf...
+Examine/LockedBoxLabOnEnter/Section ds3,I'm pretty sure the latches can slide into the middle.,"Jestem całkiem pewien, że zatrzaski mogą się przesunąć na środek."
+Examine/LockedBoxLabSuccess2/Section ds0,...,...
+Examine/LockedBoxLabSuccess2/Section ds2,Yeah... more research.,Tak... więcej badań.
+Examine/LockedBoxLabSuccess2/Section ds3,Anything inside?,Coś w środku?
+Examine/LockedBoxPennyDone/Section ds1,We already solved it.,Już to rozwiązaliśmy.
+Examine/LockedBoxPennyExamine/Section ds0,It's a birdhouse.,To domek dla ptaków.
+Examine/LockedBoxPennyExamine/Section ds5,Are those... [i]real[/i] birds?,Czy to... [i]prawdziwe[/i] ptaki?
+Examine/LockedBoxPennyExamine/Section ds5 Choice 1,Look closer.,Przyjrzyj się bliżej.
+Examine/LockedBoxPennyExamine/Section ds5 Choice 2,Leave it alone.,Zostaw to w spokoju.
+Examine/LockedBoxPennyFailed1/Section ds0,Nope.,Nie.
+Examine/LockedBoxPennyFailed1/Section ds1,There must be some logic to how the birds are arranged.,"Musi być jakaś logika w tym, jak ptaki są rozstawione."
+Examine/LockedBoxPennyFailed1/Section ds6,Something to do with those white lines.,Coś związanego z tymi białymi liniami.
+Examine/LockedBoxPennyFailed2/Section ds0,Nothing.,Nic.
+Examine/LockedBoxPennyFailed2/Section ds5,I think the birds are... related to each other.,"Myślę, że ptaki są... ze sobą spokrewnione."
+Examine/LockedBoxPennyFailed3/Section ds0,I guess that's wrong...?,Chyba to źle...?
+Examine/LockedBoxPennyFailed3/Section ds2,"It's a family tree.
+The colours and eyes combine - as they go down the family line.","To drzewo genealogiczne.
+Kolory i oczy łączą się - w miarę schodzenia w dół linii rodowej."
+Examine/LockedBoxPennyFailed3/Section ds4,You'll need to start with blue and yellow at the top.,Musisz zacząć od niebieskiego i żółtego na górze.
+Examine/LockedBoxPennyOnEnter/Section ds11,They're using up all the perches! What if a real bird wanted to use it?,Zajmują wszystkie grzędy! A co jeśli prawdziwy ptak chciałby z nich skorzystać?
+Examine/LockedBoxPennyOnEnter/Section ds15,Nope. They're [i]wooden.[/i],Nie. Są [i]drewniane.[/i]
+Examine/LockedBoxPennySuccess2/Section ds0,"Did the door open?
+What's in there?","Drzwiczki się otworzyły?
+Co tam jest?"
+Examine/LockedBoxPennySuccess2/Section ds2,...,...
+Examine/LockedBoxPennySuccess2/Section ds3,...,...
+Examine/LockedBoxPointerDone/Section ds1,We already solved it.,Już to rozwiązaliśmy.
+Examine/LockedBoxPointerExamine/Section ds0,"You know, I've [h]always[/h] wanted one of those.","Wiesz, [h]zawsze[/h] chciałam mieć coś takiego."
+Examine/LockedBoxPointerExamine/Section ds3,I would [h]look[/h] at it.,[h]Patrzyłabym[/h] na niego.
+Examine/LockedBoxPointerExamine/Section ds3 Choice 1,Look closer.,Przyjrzyj się bliżej.
+Examine/LockedBoxPointerExamine/Section ds3 Choice 2,Leave it alone.,Zostaw to w spokoju.
+Examine/LockedBoxPointerExamine/Section ds6,A... mechanical solar system? What would you [h]do[/h] with it?,...mechaniczny układ słoneczny? Co byś z nim [h]robiła[/h]?
+Examine/LockedBoxPointerFailed1/Section ds0,Nothing.,Nic.
+Examine/LockedBoxPointerFailed1/Section ds6,So there are two ways to move the shadows.,"Więc są dwa sposoby, żeby poruszyć cieniami."
+Examine/LockedBoxPointerFailed1/Section ds8,"Rotate the planets, and rotate the sun and moon.",Obróć planety oraz obróć słońce i księżyc.
+Examine/LockedBoxPointerFailed2/Section ds0,I guess that's wrong...?,Chyba to źle...?
+Examine/LockedBoxPointerFailed2/Section ds1,I think you just need to get the shadows to line up with the shape on the base.,"Myślę, że po prostu trzeba dopasować cienie do kształtu na podstawie."
+Examine/LockedBoxPointerFailed3/Section ds0,Nope.,Nie.
+Examine/LockedBoxPointerFailed3/Section ds5,The sun and moon need to be at... one o'clock and five o'clock.,Słońce i księżyc muszą być na... godzinie pierwszej i piątej.
+Examine/LockedBoxPointerFailed3/Section ds7,"The shape on the base is symmetrical, so it doesn't matter which is which.","Kształt na podstawie jest symetryczny, więc nieważne, który jest który."
+Examine/LockedBoxPointerOnEnter/Section ds0,Wait a minute.,Chwileczkę.
+Examine/LockedBoxPointerOnEnter/Section ds6,Earth in the middle. Sun on the outside.,Ziemia na środku. Słońce na zewnątrz.
+Examine/LockedBoxPointerOnEnter/Section ds7,How old [i]is[/i] this thing?,Ile lat [i]ma[/i] ta rzecz?
+Examine/LockedBoxPointerSuccess2/Section ds0,Did you hear that? Something unlocked.,Słyszałeś to? Coś się odblokowało.
+Examine/LockedBoxPointerSuccess2/Section ds2,A bunch of paper. Looks like... somebody's research.,Sterta papierów. Wygląda na... czyjeś badania.
+Examine/LockedBoxPointerSuccess2/Section ds4,There's a little hatch underneath? What's in there?,Jest tu mała klapka od spodu? Co tam jest?
+Examine/LockedBoxPointerSuccess2/Section ds5,...,...
+Examine/LockedBoxPoppyDone/Section ds6,We already solved it.,Już to rozwiązaliśmy.
+Examine/LockedBoxPoppyExamine/Section ds0,"It's a metronome.
+For keeping time.","To metronom.
+Do utrzymywania rytmu."
+Examine/LockedBoxPoppyExamine/Section ds3,...,...
+Examine/LockedBoxPoppyExamine/Section ds3 Choice 1,Look closer.,Przyjrzyj się bliżej.
+Examine/LockedBoxPoppyExamine/Section ds3 Choice 2,Leave it alone.,Zostaw to w spokoju.
+Examine/LockedBoxPoppyFailed1/Section ds0,Nothing.,Nic.
+Examine/LockedBoxPoppyFailed1/Section ds3,We can't rotate the pendulums directly - we just have to use the buttons.,Nie możemy bezpośrednio obracać wahadeł - musimy używać przycisków.
+Examine/LockedBoxPoppyFailed2/Section ds0,Still locked.,Wciąż zamknięte.
+Examine/LockedBoxPoppyFailed2/Section ds1,The symbols on the buttons look pretty similar to the ones on the pendulums...,Symbole na przyciskach wyglądają całkiem podobnie do tych na wahadłach...
+Examine/LockedBoxPoppyFailed2/Section ds2,Yeah. I think they're the same symbols.,"Tak. Myślę, że to te same symbole."
+Examine/LockedBoxPoppyFailed3/Section ds0,That... was incorrect.,To... było niepoprawne.
+Examine/LockedBoxPoppyFailed3/Section ds1,So - the symbols on the buttons... they each represent [h]two[/h] of the pendulums.,Więc - symbole na przyciskach... każdy reprezentuje [h]dwa[/h] z wahadeł.
+Examine/LockedBoxPoppyFailed3/Section ds2,Shouldn't be too hard to get all of them to rotate up to the top.,Nie powinno być zbyt trudno obrócić je wszystkie na samą górę.
+Examine/LockedBoxPoppyFailed3/Section ds3,Pressing them seems to rotate those two pendulums by forty-five degrees.,Naciśnięcie ich wydaje się obracać te dwa wahadła o czterdzieści pięć stopni.
+Examine/LockedBoxPoppyOnEnter/Section ds0,It's ticking...,Tyka...
+Examine/LockedBoxPoppyOnEnter/Section ds2,It's [h]supposed[/h] to be ticking.,[h]Ma[/h] tykać.
+Examine/LockedBoxPoppyOnEnter/Section ds3,[i]-is it a bomb!?[/i],[i]-czy to bomba!?[/i]
+Examine/LockedBoxPoppyOnEnter/Section ds4,"Not sure what those symbols are, though.","Nie jestem jednak pewien, czym są te symbole."
+Examine/LockedBoxPoppySuccess2/Section ds0,A little hatch unlocked in the back.,Z tyłu odblokowała się mała klapka.
+Examine/LockedBoxPoppySuccess2/Section ds2,...[h]part[/h] of a photograph.,...[h]część[/h] fotografii.
+Examine/LockedBoxPoppySuccess2/Section ds3,What happened?,Co się stało?
+Examine/LockedBoxPoppySuccess2/Section ds4,...,...
+Examine/LockedBoxPoppySuccess2/Section ds5,Anything in there?,Coś tam jest?
+Examine/LockedBoxPoppySuccess2/Section ds7,"Mhm.
+It's a photograph.","Mhm.
+To fotografia."
+Examine/LookedAtHarpStatue/Section ds0,...it must do [h]something.[/h],...to musi coś [h]robić.[/h]
+Examine/LookedAtHarpStatue/Section ds2,"You'd hope so, wouldn't you?","Miałbyś taką nadzieję, prawda?"
+Examine/LowestExamBase/Section ds2,This room looks old.,Ten pokój wygląda staro.
+Examine/LowestExamBase/Section ds3,Like... [h]old[/h] old.,Jak... [h]naprawdę[/h] staro.
+Examine/LowestExamBase/Section ds4,It makes the rest of the house seem relatively modern.,Przez to reszta domu wydaje się stosunkowo nowoczesna.
+Examine/LowestExamBook/Section ds1,I think it's a [h]children's[/h] book.,"Myślę, że to [h]dziecięca[/h] książka."
+Examine/LowestExamBook/Section ds2,A single book on a little makeshift table.,Pojedyncza książka na małym prowizorycznym stoliku.
+Examine/LowestExamBook/Section ds3,...this is creeping me out slightly.,...to mnie trochę przeraża.
+Examine/LowestExamBook/Section ds4,Why?,Czemu?
+Examine/LowestExamBookcase/Section ds0,It's an empty bookcase.,To pusty regał na książki.
+Examine/LowestExamBookcase/Section ds3,Something tells me it's been empty for a long time.,"Coś mi mówi, że jest pusty od dawna."
+Examine/LowestExamBoxes/Section ds0,Old cardboard boxes.,Stare kartonowe pudła.
+Examine/LowestExamBoxes/Section ds3,How exciting.,Cóż za ekscytacja.
+Examine/LowestExamBoxes/Section ds4,"Oh, but there's more!","Och, ale to nie wszystko!"
+Examine/LowestExamBoxes/Section ds5,They're also damp.,Są też wilgotne.
+Examine/LowestExamBoxes/Section ds6,And empty.,I puste.
+Examine/LowestExamChain/Section ds0,Gives off kind of a [h]dungeon[/h] vibe...,Wydziela taki klimat [h]lochu[/h]...
+Examine/LowestExamChain/Section ds1,...what do people actually use chains [h]for?[/h],...do czego ludzie właściwie [h]używają[/h] łańcuchów?
+Examine/LowestExamChain/Section ds2,Nothing good.,Do niczego dobrego.
+Examine/LowestExamCloak/Section ds10,It's an old coat rack. Looks [h]thoroughly[/h] neglected.,To stary wieszak na płaszcze. Wygląda na [h]kompletnie[/h] zaniedbany.
+Examine/LowestExamCloak/Section ds8,Two cloaks... and a green hat draped on top for good measure.,Dwa płaszcze... i zielony kapelusz zawieszony na wierzchu dla dobrej miary.
+Examine/LowestExamEmptyFrames/Section ds0,A bunch of picture frames...,Sterta ramek na obrazy...
+Examine/LowestExamEmptyFrames/Section ds1,It's not too dark.,Nie jest zbyt ciemno.
+Examine/LowestExamEmptyFrames/Section ds2,But it's too dark to see the pictures.,"Ale jest zbyt ciemno, żeby zobaczyć obrazy."
+Examine/LowestExamEmptyFrames/Section ds3,The frames are all empty.,Wszystkie ramki są puste.
+Examine/LowestExamGutter/Section ds0,There's a weird kind of gutter running along the floor.,Wzdłuż podłogi biegnie jakiś dziwny rodzaj rynny.
+Examine/LowestExamLakeWindow/Section ds0,Basements don't normally have windows?,Piwnice normalnie nie mają okien?
+Examine/LowestExamLakeWindow/Section ds1,We're at the bottom of the lake.,Jesteśmy na dnie jeziora.
+Examine/LowestExamLakeWindow/Section ds10,"No plants.
+No anything.","Żadnych roślin.
+Niczego."
+Examine/LowestExamLakeWindow/Section ds2,We [h]must[/h] be.,[h]Musimy[/h] być.
+Examine/LowestExamLakeWindow/Section ds3,Right. ,Racja. 
+Examine/LowestExamLakeWindow/Section ds4,"But if that's the lakebed...
+-why does it [h]look[/h] like that?","Ale jeśli to dno jeziora...
+-czemu tak [h]wygląda[/h]?"
+Examine/LowestExamLakeWindow/Section ds6,Like what?,Jak co?
+Examine/LowestExamLakeWindow/Section ds7,"White.
+Smooth. ","Białe.
+Gładkie. "
+Examine/LowestExamLakeWindow/Section ds8,That's not what a lake looks like.,Tak nie wygląda jezioro.
+Examine/LowestExamMetal1/Section ds0,"This photograph...
+...has been [h]stabbed.[/h]","Ta fotografia...
+...została [h]przebita.[/h]"
+Examine/LowestExamMetal1/Section ds1,Not sure. Some kind of metal stabbing thingy.,Nie jestem pewna. Jakąś metalową rzeczą do przebijania.
+Examine/LowestExamMetal1/Section ds3,"Why?
+By what?","Czemu?
+Czym?"
+Examine/LowestExamMetal1/Section ds4,We're too late.,Jesteśmy spóźnieni.
+Examine/LowestExamMetal2/Section ds1,So what's the photo?,Więc co przedstawia zdjęcie?
+Examine/LowestExamMetal3/Section ds0,Should we take another look?,Powinniśmy zerknąć jeszcze raz?
+Examine/LowestExamMetal3/Section ds0 Choice 1,The metal rod.,Metalowy pręt.
+Examine/LowestExamMetal3/Section ds0 Choice 2,The photo.,Zdjęcie.
+Examine/LowestExamMetal3/Section ds5,Yeah...,Tak...
+Examine/LowestExamMetal3/Section ds6,Yeah...,Tak...
+Examine/LowestExamPlans/Section ds0,There's a roll of paper up there...,Jest tam na górze zwój papieru...
+Examine/LowestExamPlans/Section ds2,I'll see if I can reach it.,"Zobaczę, czy dosięgnę."
+Examine/LowestExamPlans/Section ds3,Let me guess - blank.,Zgadnę - pusty.
+Examine/LowestExamPlans/Section ds5,...,...
+Examine/LowestExamPlans/Section ds5 Choice 1,Unroll it.,Rozwiń go.
+Examine/LowestExamPlans/Section ds5 Choice 2,Leave it alone.,Zostaw go w spokoju.
+Examine/LowestExamPuddles/Section ds0,Do these puddles worry you?,Te kałuże cię niepokoją?
+Examine/LowestExamPuddles/Section ds1,Why?,Czemu?
+Examine/LowestExamPuddles/Section ds2,That's lake water.,To woda z jeziora.
+Examine/LowestExamPuddles/Section ds3,"Ah.
+I see your point.","Ach.
+Rozumiem, o co ci chodzi."
+Examine/LowestExamPuddles/Section ds6,But it's indoors.,Ale jesteśmy w środku.
+Examine/MindGameAlmostG/Section ds0,Almost... maybe just change one thing.,Prawie... może zmień tylko jedną rzecz.
+Examine/MindGameAlmostS/Section ds0,Almost... maybe just change one thing.,Prawie... może zmień tylko jedną rzecz.
+Examine/MindGameFailed1G/Section ds0,Nope.,Nie.
+Examine/MindGameFailed1G/Section ds2,Nope.,Nie.
+Examine/MindGameFailed1G/Section ds3,Nope.,Nie.
+Examine/MindGameFailed1S/Section ds0,Nope.,Nie.
+Examine/MindGameFailed1S/Section ds2,Nope.,Nie.
+Examine/MindGameFailed2G/Section ds0,That's not right.,To nie tak.
+Examine/MindGameFailed2G/Section ds3,That's not right.,To nie tak.
+Examine/MindGameFailed2G/Section ds4,That's not right.,To nie tak.
+Examine/MindGameFailed2G/Section ds5,That's not right.,To nie tak.
+Examine/MindGameFailed2S/Section ds0,That's not right.,To nie tak.
+Examine/MindGameFailed3G/Section ds0,That's not right either.,To też nie tak.
+Examine/MindGameFailed3G/Section ds3,That's not right either.,To też nie tak.
+Examine/MindGameFailed3S/Section ds0,That's not right either.,To też nie tak.
+Examine/MindGameFailed3S/Section ds3,That's not right either.,To też nie tak.
+Examine/MindGameIncompleteG/Section ds0,We still need to choose two stray thoughts and put them into the slots.,Wciąż musimy wybrać dwie zabłąkane myśli i umieścić je w gniazdach.
+Examine/MindGameIncompleteG/Section ds2,That's not a complete sentence.,To niepełne zdanie.
+Examine/MindGameIncompleteS/Section ds0,We still need to highlight a detail of each clue.,Wciąż musimy podświetlić szczegół każdego tropu.
+Examine/MindGameIncompleteS/Section ds2,That's... not a sentence.,To... nie jest zdanie.
+Examine/Nothing there/Section ds0,Nothing there.,Nic tam nie ma.
+Examine/PathwayArch/Section ds0,crossbow ask,pytanie o kuszę
+Examine/PathwayArch/Section ds0 Choice 1,crossbow attach,dołączenie kuszy
+Examine/PathwayArch/Section ds0 Choice 2,next,dalej
+Examine/PathwayArch/Section ds1,Like - walking through it might give you bad luck.,Jakby... przejście przez nie mogło przynieść pecha.
+Examine/PathwayArch/Section ds2,pin ask,pytanie o pinezkę
+Examine/PathwayArch/Section ds2 Choice 1,pin board attach,dołączenie tablicy z pinezkami
+Examine/PathwayArch/Section ds2 Choice 2,next,dalej
+Examine/PathwayArch/Section ds3,research ask,pytanie o badania
+Examine/PathwayArch/Section ds3 Choice 1,research attach,dołączenie badań
+Examine/PathwayArch/Section ds3 Choice 2,next,dalej
+Examine/PathwayArch/Section ds4,Too late.,Za późno.
+Examine/PathwayArch/Section ds5,photo ask,pytanie o zdjęcie
+Examine/PathwayArch/Section ds5 Choice 1,photo attach,dołączenie zdjęcia
+Examine/PathwayArch/Section ds5 Choice 2,end,koniec
+Examine/PathwayArch/Section ds6,It's just an archway... but it seems a little ominous.,To po prostu przejście łukowe... ale wygląda trochę złowieszczo.
+Examine/PathwayBirdbath1/Section ds0,The birds seem to like it.,Ptaki chyba je lubią.
+Examine/PathwayBirdbath1/Section ds1,It's a birdbath.,To poidło dla ptaków.
+Examine/PathwayBirdbath1/Section ds2,They're even singing a little [m]tune.[/m],Śpiewają nawet małą [m]melodię.[/m]
+Examine/PathwayBirdbath1/Section ds3,"Do do do-do, do do do-do~","Da da da-da, da da da-da~"
+Examine/PathwayBirdbath1/Section ds4,Please don't do that.,"Proszę, nie rób tego."
+Examine/PathwayBirdbath1/Section ds5,...,...
+Examine/PathwayBirdbath1/Section ds6,"...is that just rainwater?
+Looks a little weird.","...czy to tylko deszczówka?
+Wygląda trochę dziwnie."
+Examine/PathwayBirdbath2/Section ds7,...,...
+Examine/PathwayBoat/Section ds0,-it's the only way on or off the island...,"-to jedyny sposób, żeby dostać się na wyspę lub z niej wyjść..."
+Examine/PathwayBoat/Section ds2,What a comforting thought.,Cóż za pokrzepiająca myśl.
+Examine/PathwayBoat/Section ds4,It's the little boat we used to cross the lake.,"To ta mała łódka, którą przepłynęliśmy przez jezioro."
+Examine/PathwayChimes/Section ds0,What [h]are[/h] they?,Co to [h]jest[/h]?
+Examine/PathwayChimes/Section ds1,"...silent, wooden windchimes.","...ciche, drewniane dzwonki wietrzne."
+Examine/PathwayChimes/Section ds5,Windchimes.,Wiatrowe dzwonki.
+Examine/PathwayGardens/Section ds1,It's a garden.,To ogród.
+Examine/PathwayGardens/Section ds2,"I think.
+It's currently far away.","Chyba.
+W tej chwili jest daleko."
+Examine/PathwayGardens/Section ds3,We could... walk closer to it?,Moglibyśmy... podejść bliżej?
+Examine/PathwayGardens/Section ds4,Ready when you are.,"Gotowa, kiedy ty."
+Examine/PathwayMountains/Section ds0,Nope. They're too steep and too smooth to be mountains.,"Nie. Są zbyt strome i zbyt gładkie, żeby być górami."
+Examine/PathwayMountains/Section ds1,They're more like cliffs.,Są bardziej jak klify.
+Examine/PathwayMountains/Section ds2,"Whatever they are, they go all the way around the lake - like a barrier.","Czymkolwiek są, otaczają całe jezioro - jak bariera."
+Examine/PathwayMountains/Section ds3,Mountains.,Góry.
+Examine/PathwayPath/Section ds2,Wonder how often it rains here...?,"Ciekawe, jak często tu pada...?"
+Examine/PathwayPath/Section ds3,I cannot [h]believe[/h] how exciting this murder investigation is already.,"Nie mogę [h]uwierzyć[/h], jak ekscytujące jest już samo to śledztwo w sprawie morderstwa."
+Examine/PathwayPath/Section ds4,The ground's moist... but it's not muddy.,Ziemia jest wilgotna... ale nie błotnista.
+Examine/PathwayPathway/Section ds3,"It's a path.
+","To ścieżka.
+"
+Examine/PathwayPathway/Section ds5,...for walking.,...do chodzenia.
+Examine/PathwayRocks/Section ds0,Fascinating.,Fascynujące.
+Examine/PathwayRocks/Section ds1,Aren't they?,Prawda?
+Examine/PathwayRocks/Section ds2,Rocks.,Skały.
+Examine/PathwaySallyEarly post crime scene/Section ds12,What now?,Co teraz?
+Examine/PathwaySallyEarly post crime scene/Section ds13,"Instead of talking to [h]me[/h]...
+why don't you go talk to the [h]suspects?[/h]","Zamiast rozmawiać ze [h]mną[/h]...
+może pójdziesz porozmawiać z [h]podejrzanymi?[/h]"
+Examine/PathwaySallyEarly post crime scene/Section ds15,Maybe you [h]are[/h] one of the suspects.,Może [h]ty jesteś[/h] jednym z podejrzanych.
+Examine/PathwaySallyEarly post crime scene/Section ds17,...,...
+Examine/PathwaySallyEarly post crime scene/Section ds18,"I'm just saying, I reckon you'd be capable of murder. Given the right motivation.","Po prostu mówię, że uważam, że byłabyś zdolny do morderstwa. Przy odpowiedniej motywacji."
+Examine/PathwaySallyEarly post crime scene/Section ds19,Wow. Thanks. That means a lot.,Wow. Dzięki. To wiele dla mnie znaczy.
+Examine/PathwaySallyEarly pre crime scene/Section ds11,So - who do you think did it?,"Więc - jak myślisz, kto to zrobił?"
+Examine/PathwaySallyEarly pre crime scene/Section ds12,We haven't even been to the [h]crime scene.[/h],Nie byliśmy nawet na [h]miejscu zbrodni.[/h]
+Examine/PathwaySallyEarly pre crime scene/Section ds25,Still... I reckon I've got it all worked out.,"Mimo to... myślę, że już to wszystko rozgryzłam."
+Examine/PathwaySallyEarly pre crime scene/Section ds26,"...Sally, you know full well we haven't met a single suspect yet.","...Sally, dobrze wiesz, że nie spotkaliśmy jeszcze ani jednego podejrzanego."
+Examine/PathwaySallyEarly pre crime scene/Section ds28,...,...
+Examine/PathwaySallyEarly/Section ds0,"Uh, yeah. But it's basically blank.","Yy, tak. Ale jest w zasadzie pusta."
+Examine/PathwaySallyEarly/Section ds1,I'll read it on the way to the crime scene.,Przeczytam po drodze na miejsce zbrodni.
+Examine/PathwaySallyEarly/Section ds11,You ready Sally?,"Gotowa, Sally?"
+Examine/PathwaySallyEarly/Section ds12,"Grimoire, I've been standing here for seven and a half minutes.","Grimoire, stoję tu już siedem i pół minuty."
+Examine/PathwaySallyEarly/Section ds14,...just checking.,...tylko sprawdzam.
+Examine/PathwaySallyEarly/Section ds15,Do you have the map?,Masz mapę?
+Examine/PathwaySallyEarly/Section ds21,...did you read the case file? What do you think?,...czytałaś akta sprawy? Co myślisz?
+Examine/PathwaySallyEarly/Section ds22,"I'm not sure yet.
+It's really not a lot to go on.","Jeszcze nie jestem pewien.
+Naprawdę niewiele mamy, na czym się oprzeć."
+Examine/PathwaySallyEarly/Section ds23,...did [h]you[/h] read it?,...ty [h]to[/h] czytałeś?
+Examine/PathwaySky/Section ds0,"Not everything is a mystery, Grimoire.","Nie wszystko jest tajemnicą, Grimoire."
+Examine/PathwaySky/Section ds1,...why is the sky yellow?,...czemu niebo jest żółte?
+Examine/PathwaySky/Section ds2,The sky can be whatever colour it likes.,"Niebo może być, jakiego koloru mu się podoba."
+Examine/PathwayTie/Section ds1,Loving the confidence.,Uwielbiam tę pewność siebie.
+Examine/PathwayTie/Section ds2,"I tied the boat up to the mooring post, so... it'll stay put.","Przywiązałam łódkę do cumy, więc... zostanie na miejscu."
+Examine/PathwayTie/Section ds5,"For now.
+Probably.","Na razie.
+Pewnie."
+Examine/PathwayTower/Section ds0,"Let's wave, just in case.","Pomachajmy, na wszelki wypadek."
+Examine/PathwayTower/Section ds2,Maybe.,Może.
+Examine/PathwayTower/Section ds4,...do you think anybody's watching us from one of those windows?,"...myślisz, że ktoś obserwuje nas z jednego z tych okien?"
+Examine/PathwayWater/Section ds0,I think it's just water.,"Myślę, że to po prostu woda."
+Examine/PathwayWater/Section ds1,Yeah.,Tak.
+Examine/PathwayWater/Section ds2,Water with poison in it.,Woda z trucizną w środku.
+Examine/PathwayWater/Section ds3,That's a big lake.,To wielkie jezioro.
+Examine/PathwayWater/Section ds4,"It's kinda purple.
+Looks poisonous.","Jest jakieś fioletowe.
+Wygląda trująco."
+Examine/PennyRoomBase/Section ds0,This is the fanciest room so far.,To jak dotąd najbardziej wystawny pokój.
+Examine/PennyRoomBase/Section ds3,[h]Too[/h] fancy...,[h]Zbyt[/h] wystawny...
+Examine/PennyRoomBase/Section ds4,What does [h]that[/h] mean?,Co to ma [h]znaczyć[/h]?
+Examine/PennyRoomBase/Section ds5,I dunno.,Nie wiem.
+Examine/PennyRoomBed/Section ds3,That bed... it's like something from a fairy tale.,To łóżko... to jak coś z bajki.
+Examine/PennyRoomBed/Section ds4,...,...
+Examine/PennyRoomBed/Section ds5,"Does it feel [h]warm[/h] over here, or is it just me?","Jest tutaj [h]ciepło[/h], czy to tylko ja?"
+Examine/PennyRoomBed/Section ds6,"No, you're right... maybe the bed has some kind of heater?","Nie, masz rację... może łóżko ma jakiś rodzaj grzejnika?"
+Examine/PennyRoomBed/Section ds7,"It's not [h]coming[/h] from the bed.
+It's coming from the [h]wall.[/h]","Nie [h]dochodzi[/h] to od łóżka.
+Dochodzi od [h]ściany.[/h]"
+Examine/PennyRoomBedBooks/Section ds2,A little bedtime reading?,Trochę lektury na dobranoc?
+Examine/PennyRoomBedBooks/Section ds3,Let's see...,Zobaczmy...
+Examine/PennyRoomBedBooks/Section ds5,"Romance novels...
+Detective novels...","Powieści romantyczne...
+Powieści detektywistyczne..."
+Examine/PennyRoomBedBooks/Section ds6,And uh-,I yy-
+Examine/PennyRoomBedBooks/Section ds7,What?,Co?
+Examine/PennyRoomBedBooks/Section ds8,This one appears to be both.,Ta wygląda na jedno i drugie naraz.
+Examine/PennyRoomBedBooks/Section ds9,Nice.,Ładnie.
+Examine/PennyRoomCagesBirds/Section ds2,You know... the birds can easily get in and out of those cages.,Wiesz... ptaki mogą swobodnie wchodzić i wychodzić z tych klatek.
+Examine/PennyRoomCagesBirds/Section ds3,If that's true... can they even be considered cages?,Jeśli to prawda... czy w ogóle można je nazwać klatkami?
+Examine/PennyRoomCases/Section ds0,Travelling cases.,Walizki podróżne.
+Examine/PennyRoomCases/Section ds2,Empty - all of them.,Puste - wszystkie.
+Examine/PennyRoomChest/Section ds0,Anything in there?,Coś tam jest?
+Examine/PennyRoomChest/Section ds2,Bedsheets.,Prześcieradła.
+Examine/PennyRoomChest/Section ds3,That's not even [h]remotely[/h] suspicious.,To nie jest nawet [h]odrobinę[/h] podejrzane.
+Examine/PennyRoomMannequins/Section ds0,Ever get the feeling you're being watched?,"Miewasz uczucie, że jesteś obserwowany?"
+Examine/PennyRoomMannequins/Section ds2,"The mannequins don't have eyes, though.",Manekiny jednak nie mają oczu.
+Examine/PennyRoomMannequins/Section ds3,That's... [h]not[/h] a comforting sentence.,To... [h]wcale[/h] nie pokrzepiające zdanie.
+Examine/PennyRoomOtherBooks/Section ds2,Penny's books - mostly novels.,Książki Penny - głównie powieści.
+Examine/PennyRoomPottedFlower/Section ds0,That's [h]some[/h] flower.,To [h]jakiś[/h] kwiat.
+Examine/PennyRoomPottedFlower/Section ds2,It just feels out of place.,Po prostu wydaje się nie na miejscu.
+Examine/PennyRoomPottedFlower/Section ds3,There's something weird about it.,Jest w nim coś dziwnego.
+Examine/PennyRoomStairs/Section ds0,That might be the most pointless staircase I've ever seen.,"To chyba najbardziej bezcelowe schody, jakie w życiu widziałem."
+Examine/PennyRoomTea/Section ds10,Birdseed.,Ziarno dla ptaków.
+Examine/PennyRoomTea/Section ds11,[h]One[/h] of the cups has tea in it.,[h]Jedna[/h] z filiżanek ma w sobie herbatę.
+Examine/PennyRoomTea/Section ds12,What's in the other one?,A co jest w drugiej?
+Examine/PennyRoomTea/Section ds2,"A little teaset.
+Looks recently used.","Mały serwis do herbaty.
+Wygląda na niedawno używany."
+Examine/PennyRoomTree/Section ds0,Looks like nature invited itself in.,"Wygląda, jakby natura zaprosiła się sama."
+Examine/PennyRoomTree/Section ds3,Rude.,Niegrzecznie.
+Examine/PennyRoomWindow/Section ds0,That's a big window.,To wielkie okno.
+Examine/PennySuspicionUnlock/Section ds0,There's something about those petals we found in Penny's room.,"Jest coś w kwestii tych płatków, które znaleźliśmy w pokoju Penny."
+Examine/PennySuspicionUnlock/Section ds1,Let's ask her about it.,Zapytajmy ją o to.
+Examine/PennySuspicionUnlock/Section ds1 Choice 1,Let's go now.,Idźmy teraz.
+Examine/PennySuspicionUnlock/Section ds1 Choice 2,Later.,Później.
+Examine/PennySuspicionUnlock/Section ds2,Something... [h]suspicious.[/h],Coś... [h]podejrzanego.[/h]
+Examine/Photo Base/Section ds0,This is the left side. We're looking for the [h]right[/h] side.,To lewa strona. Szukamy strony [h]prawej.[/h]
+Examine/Photo OnEnter/Section ds0,Let's put the photo back together.,Złóżmy tę fotografię z powrotem.
+Examine/Photo Wrong clue/Section ds0,We just need to find the right side of the photo.,Musimy po prostu znaleźć prawą stronę zdjęcia.
+Examine/Photo Wrong clue/Section ds1,Nope.,Nie.
+Examine/Pinboard Base/Section ds0,We need something that could attach to the pin board...,"Potrzebujemy czegoś, co dałoby się przypiąć do tablicy z pinezkami..."
+Examine/Pinboard Notebook/Section ds0,That's definitely the right kind of paper.,To zdecydowanie odpowiedni rodzaj papieru.
+Examine/Pinboard Notebook/Section ds4,But none of the pages match up to what's on the pin board...,"Ale żadna ze stron nie pasuje do tego, co jest na tablicy..."
+Examine/Pinboard OnEnter/Section ds0,Let's see if we can work out what's missing.,"Zobaczmy, czy uda nam się rozgryźć, czego brakuje."
+Examine/Pinboard OnEnter/Section ds4,I think we have everything we need already.,"Myślę, że mamy już wszystko, czego potrzebujemy."
+Examine/Pinboard Wrong clue/Section ds0,We need something that could attach to the pin board...,"Potrzebujemy czegoś, co dałoby się przypiąć do tablicy z pinezkami..."
+Examine/Pinboard Wrong clue/Section ds1,That... doesn't seem right.,To... nie wygląda dobrze.
+Examine/Pinboard Wrong place/Section ds0,I think that [h]might[/h] attach the pin board...,"Myślę, że [h]to[/h] mogłoby się przypiąć do tablicy..."
+Examine/Pinboard Wrong place/Section ds2,But not [h]this[/h] part of the pin board...,Ale nie do [h]tej[/h] części tablicy...
+Examine/Pinboard drawing Wrong clue 2/Section ds1,"We're looking for a piece of lined paper, ripped from a ringbound notebook.","Szukamy kawałka papieru w linie, wyrwanego z notatnika na spirali."
+Examine/Pinboard drawing Wrong clue 2/Section ds2,I think it might have been found with a couple of other items...,"Myślę, że mógł zostać znaleziony wraz z parą innych przedmiotów..."
+Examine/Pinboard drawing Wrong clue 2/Section ds4,That's not right.,To nie tak.
+Examine/Pinboard photo Wrong clue 2/Section ds1,That's not right.,To nie tak.
+Examine/Pinboard photo Wrong clue 2/Section ds2,Something that's been taped at the top... with lines drawn on top of it...,"Coś, co zostało przyklejone taśmą na górze... z liniami narysowanymi na wierzchu..."
+Examine/PointerSuspicionUnlock/Section ds0,There's something about Pointer's [i]'astronomy'[/i] habits.,Jest coś w kwestii 'astronomicznych' [i]nawyków[/i] Pointera.
+Examine/PointerSuspicionUnlock/Section ds1,Let's ask him about it.,Zapytajmy go o to.
+Examine/PointerSuspicionUnlock/Section ds1 Choice 1,Let's go now.,Idźmy teraz.
+Examine/PointerSuspicionUnlock/Section ds1 Choice 2,Later.,Później.
+Examine/PointerSuspicionUnlock/Section ds2,Something... [h]suspicious.[/h],Coś... [h]podejrzanego.[/h]
+Examine/PoppySuspicionUnlock/Section ds0,There's something about that pink cassette tape.,Jest coś w kwestii tej różowej kasety magnetofonowej.
+Examine/PoppySuspicionUnlock/Section ds1,Let's ask Poppy about it.,Zapytajmy o to Poppy.
+Examine/PoppySuspicionUnlock/Section ds1 Choice 1,Let's go now.,Idźmy teraz.
+Examine/PoppySuspicionUnlock/Section ds1 Choice 2,Later.,Później.
+Examine/PoppySuspicionUnlock/Section ds2,Something... [h]suspicious.[/h],Coś... [h]podejrzanego.[/h]
+Examine/Poppydoor/Section ds11,There's a little mechanism by the handle.,Przy klamce jest jakiś mały mechanizm.
+Examine/Poppydoor/Section ds11 Choice 1,Look closer.,Przyjrzyj się bliżej.
+Examine/Poppydoor/Section ds11 Choice 2,Leave it alone.,Zostaw to w spokoju.
+Examine/Poppydoor/Section ds15,"Leads out into a garden.
+...somehow.","Prowadzą do ogrodu.
+...jakoś."
+Examine/Poppydoor/Section ds5,A big glass door.,Wielkie szklane drzwi.
+Examine/PoppydoorSOLVED/Section ds4,"We did.
+But the door's still locked.","Tak.
+Ale drzwi wciąż są zamknięte."
+Examine/PoppydoorSOLVED/Section ds4 Choice 1,Look at it.,Przyjrzyj się temu.
+Examine/PoppydoorSOLVED/Section ds4 Choice 2,Leave it.,Zostaw to.
+Examine/PoppydoorSOLVED/Section ds5,Didn't we solve this already?,"Już to rozwiązaliśmy, prawda?"
+Examine/PoppydoorUNLOCKED/Section ds5,It's open.,Są otwarte.
+Examine/PoppydoorUNLOCKED/Section ds5 Choice 1,Go outside.,Wyjdź na zewnątrz.
+Examine/PoppydoorUNLOCKED/Section ds5 Choice 2,Later.,Później.
+Examine/PoppysRoomExamBase/Section ds2,Gloomy.,Ponuro.
+Examine/PoppysRoomExamBase/Section ds5,But roomy!,Ale przestronnie!
+Examine/PoppysRoomExamBed/Section ds0,That - is the bed of a vampire.,To - łóżko wampira.
+Examine/PoppysRoomExamBed/Section ds2,I thought vampires slept in coffins.,"Myślałam, że wampiry śpią w trumnach."
+Examine/PoppysRoomExamBed/Section ds5,This is a vampire who needs firm support for their lower back.,"To wampir, który potrzebuje solidnego wsparcia dla dolnej części pleców."
+Examine/PoppysRoomExamCandles/Section ds0,"Oh, thank [h]goodness[/h] there are seven lit candles.","Och, dzięki [h]Bogu[/h], jest siedem zapalonych świec."
+Examine/PoppysRoomExamCandles/Section ds1,Wouldn't want it to be [h]dark[/h] in here.,"Nie chcielibyśmy, żeby było tu [h]ciemno.[/h]"
+Examine/PoppysRoomExamCeiling/Section ds0,How do you even get drapes on the ceiling like that?,Jak w ogóle wiesza się w ten sposób zasłony na suficie?
+Examine/PoppysRoomExamCeiling/Section ds1,That's the [h]real[/h] mystery.,To [h]prawdziwa[/h] tajemnica.
+Examine/PoppysRoomExamClothes/Section ds0,Just a bunch of clothes on the floor.,Po prostu sterta ubrań na podłodze.
+Examine/PoppysRoomExamClothes/Section ds2,Nothing weird about that.,Nic w tym dziwnego.
+Examine/PoppysRoomExamClothes/Section ds3,To [h]you.[/h],Dla [h]ciebie.[/h]
+Examine/PoppysRoomExamCupboard/Section ds0,Anything in the wardrobe?,Coś w szafie?
+Examine/PoppysRoomExamCupboard/Section ds1,"Dresses, mostly.",Głównie sukienki.
+Examine/PoppysRoomExamCupboard/Section ds4,...I never realised there were so many shades of black...,"...nigdy nie zdawałam sobie sprawy, że jest tyle odcieni czerni..."
+Examine/PoppysRoomExamDrawersBig/Section ds0,Anything in the drawers?,Coś w szufladach?
+Examine/PoppysRoomExamDrawersBig/Section ds1,Nothing [h]you[/h] need to know about.,"Nic, o czym [h]ty[/h] musisz wiedzieć."
+Examine/PoppysRoomExamDrawersSmall/Section ds0,Empty.,Puste.
+Examine/PoppysRoomExamLamp/Section ds0,A lamp. ,Lampa. 
+Examine/PoppysRoomExamLamp/Section ds1,It is - [i]most definitely[/i] - turned off.,Jest - [i]zdecydowanie[/i] - wyłączona.
+Examine/PoppysRoomExamMessPapers/Section ds0,More handwritten sheet music.,Więcej nut pisanych ręcznie.
+Examine/PoppysRoomExamOcto/Section ds0,It's an octopus.,To ośmiornica.
+Examine/PoppysRoomExamOcto/Section ds2,"No.
+It's not.","Nie.
+Wcale nie."
+Examine/PoppysRoomExamOcto/Section ds3,"It has [h]six[/h] legs.
+Not eight.","Ma [h]sześć[/h] nóg.
+Nie osiem."
+Examine/PoppysRoomExamOcto/Section ds4,...,...
+Examine/PoppysRoomExamOcto/Section ds5,Don't say it.,Nie mów tego.
+Examine/PoppysRoomExamOcto/Section ds6,Sextapus.,Sześciornica.
+Examine/PoppysRoomExamOcto/Section ds7,...,...
+Examine/PoppysRoomExamOcto/Section ds8,...,...
+Examine/PoppysRoomExamPiano/Section ds0,There's a [i]name[/i] for this kind of piano...,Jest [i]nazwa[/i] na ten rodzaj pianina...
+Examine/PoppysRoomExamPiano/Section ds2,...,...
+Examine/PoppysRoomExamPiano/Section ds3,"You know?
+These ones that stand upright?","No wiesz?
+Te, które stoją pionowo?"
+Examine/PoppysRoomExamRose/Section ds0,A single red rose.,Pojedyncza czerwona róża.
+Examine/PoppysRoomExamRose/Section ds1,"Yeah.
+[h]Weird.[/h]","Tak.
+[h]Dziwne.[/h]"
+Examine/PoppysRoomExamRose/Section ds2,How very... [i]traditional.[/i],Cóż za... [i]tradycyjne.[/i]
+Examine/PoppysRoomExamSheetMusic/Section ds0,"Sheet music.
+Presumably for piano.","Nuty.
+Przypuszczalnie na pianino."
+Examine/PoppysRoomExamSheetMusic/Section ds1,"It's been framed, though. Must be important for some reason.",Zostały jednak oprawione w ramkę. Z jakiegoś powodu muszą być ważne.
+Examine/PoppysRoomExamSheetMusic/Section ds3,It's only a few notes - I'd barely even call that music.,To tylko parę nut - ledwo nazwałabym to muzyką.
+Examine/PoppysRoomExamSymbol/Section ds0,"Ah yes, a giant symbol drawn in chalk on the floor.","Ach tak, wielki symbol narysowany kredą na podłodze."
+Examine/PoppysRoomExamSymbol/Section ds1,It's an eye.,To oko.
+Examine/PoppysRoomExamSymbol/Section ds2,Always a good omen...,Zawsze dobry omen...
+Examine/PoppysRoomExamWallPosters/Section ds0,Various handmade posters...,Różne domowej roboty plakaty...
+Examine/PoppysRoomExamWallPosters/Section ds1,What do you think those [i]symbols[/i] mean?,"Co myślisz, że znaczą te [i]symbole[/i]?"
+Examine/PoppysRoomExamWallPosters/Section ds2,"...hopefully?
+Nothing.","...miejmy nadzieję?
+Nic."
+Examine/PresentClue COMPARE TWIN Grim/Section ds5,We need a clue that's got some [h]connection[/h] to this one.,"Potrzebujemy tropu, który ma jakiś [h]związek[/h] z tym."
+Examine/PresentClue COMPARE TWIN Sal/Section ds5,We need a clue that's got a [h]connection[/h] to this one.,"Potrzebujemy tropu, który ma [h]związek[/h] z tym."
+Examine/PresentClue Fail Grim Not gonna work/Section ds0,That's... not gonna work.,To... nie zadziała.
+Examine/PresentClue Fail Grim Not gonna work/Section ds4,That's... not gonna work.,To... nie zadziała.
+Examine/PresentClue Fail Grim/Section ds0,That's not right...,To nie tak...
+Examine/PresentClue Fail Grim/Section ds4,That's not right...,To nie tak...
+Examine/PresentClue Fail Grim/Section ds5,That's not right...,To nie tak...
+Examine/PresentClue Fail Grim/Section ds6,That's not right...,To nie tak...
+Examine/PresentClue Fail Sal Not gonna work/Section ds0,That's... not gonna work.,To... nie zadziała.
+Examine/PresentClue Fail Sal/Section ds0,That's not it.,To nie to.
+Examine/PresentClue Not yet Grim/Section ds0,We'll get to that later.,Zajmiemy się tym później.
+Examine/PresentClue Not yet Sal/Section ds0,We'll get to that in a minute.,Zajmiemy się tym za chwilę.
+Examine/PresentClue Similar Grim/Section ds0,That... almost makes sense?,To... prawie ma sens?
+Examine/PresentClue Similar Grim/Section ds6,But it's not right.,Ale to nie tak.
+Examine/PresentClue Similar Sal/Section ds0,"That... kinda makes sense?
+But no.","To... jakby ma sens?
+Ale nie."
+Examine/PuzzleBackOutGrimoire/Section ds1,I'll do this later.,Zrobię to później.
+Examine/PuzzleBackOutGrimoire/Section ds2,Just gonna rest my brain.,Po prostu dam odpocząć mózgowi.
+Examine/PuzzleBackOutSally/Section ds1,Let's take a break.,Zróbmy sobie przerwę.
+Examine/PuzzleBackOutSally/Section ds2,I'll... come back later.,Ja... wrócę do tego później.
+Examine/PuzzleFail/Section ds0,Nope.,Nie.
+Examine/PuzzleFail/Section ds1,Nothing.,Nic.
+Examine/PuzzleFail/Section ds10,Nope.,Nie.
+Examine/PuzzleFail/Section ds11,Nope.,Nie.
+Examine/PuzzleFail/Section ds12,Nothing.,Nic.
+Examine/PuzzleFail/Section ds13,Nothing.,Nic.
+Examine/PuzzleFail/Section ds3,I guess that's wrong...?,Chyba to źle...?
+Examine/PuzzleFail/Section ds4,Still locked.,Wciąż zamknięte.
+Examine/PuzzleFail/Section ds6,That... was incorrect.,To... było niepoprawne.
+Examine/PuzzleFail/Section ds8,Nope.,Nie.
+Examine/PuzzleFail/Section ds9,Nope.,Nie.
+Examine/PuzzleSolved/Section ds0,We already solved it.,Już to rozwiązaliśmy.
+Examine/PuzzleSolved/Section ds5,We already solved it.,Już to rozwiązaliśmy.
+Examine/PuzzleSolved/Section ds6,We already solved it.,Już to rozwiązaliśmy.
+Examine/PuzzleSuccessGrimoire/Section ds0,Oh! That was it!,Och! O to chodziło!
+Examine/PuzzleSuccessGrimoire/Section ds13,Nice work.,Niezła robota.
+Examine/PuzzleSuccessGrimoire/Section ds16,I'm impressed.,Jestem pod wrażeniem.
+Examine/PuzzleSuccessGrimoire/Section ds17,"Hey, not bad.","Hej, nieźle."
+Examine/PuzzleSuccessGrimoire/Section ds2,I got it!,Mam to!
+Examine/PuzzleSuccessGrimoire/Section ds3,That's the one!,To ten!
+Examine/PuzzleSuccessSally/Section ds0,There we go.,Proszę bardzo.
+Examine/PuzzleSuccessSally/Section ds1,I did it. What do I win?,Udało mi się. Co wygrywam?
+Examine/PuzzleSuccessSally/Section ds10,That's done it.,To załatwia sprawę.
+Examine/PuzzleSuccessSally/Section ds13,Perfect.,Idealnie.
+Examine/PuzzleSuccessSally/Section ds14,Neat.,Fajnie.
+Examine/PuzzleSuccessSally/Section ds15,Not bad.,Nieźle.
+Examine/Quit Game/Section ds0,"Quit to the title screen?
+(Progress is autosaved)","Wyjść do ekranu tytułowego?
+(Postęp jest zapisywany automatycznie)"
+Examine/Quit Game/Section ds0 Choice 1,Continue playing.,Kontynuuj grę.
+Examine/Quit Game/Section ds0 Choice 2,Quit.,Wyjdź.
+Examine/QuitTheGame/Section ds0,Quit the game?,Wyjść z gry?
+Examine/QuitTheGame/Section ds0 Choice 1,Continue playing.,Kontynuuj grę.
+Examine/QuitTheGame/Section ds0 Choice 2,Quit.,Wyjdź.
+Examine/READY TO GO DOWN NOTICE/Section ds1,...are we done?,...skończyliśmy?
+Examine/READY TO GO DOWN NOTICE/Section ds3,It's about time we found out what's beneath the garden...,"Najwyższy czas dowiedzieć się, co jest pod ogrodem..."
+Examine/READY TO GO DOWN NOTICE/Section ds3 Choice 1,Let's go now.,Idźmy teraz.
+Examine/READY TO GO DOWN NOTICE/Section ds3 Choice 2,Hang on.,Czekaj.
+Examine/READY TO GO DOWN NOTICE/Section ds6,For now.,Na razie.
+Examine/Research OnEnter/Section ds0,Let's see if we can put this thing back together...,"Zobaczmy, czy uda się to złożyć z powrotem..."
+Examine/Research OnEnter/Section ds2,You think we have everything we need?,"Myślisz, że mamy wszystko, czego trzeba?"
+Examine/Research OnEnter/Section ds3,Mhm.,Mhm.
+Examine/Reset Puzzle Grim/Section ds0,Reset the puzzle?,Zresetować zagadkę?
+Examine/Reset Puzzle Grim/Section ds0 Choice 1,Reset,Resetuj
+Examine/Reset Puzzle Grim/Section ds0 Choice 2,Cancel,Anuluj
+Examine/Reset Puzzle Sal/Section ds0,Reset the puzzle?,Zresetować zagadkę?
+Examine/Reset Puzzle Sal/Section ds0 Choice 1,Reset,Resetuj
+Examine/Reset Puzzle Sal/Section ds0 Choice 2,Cancel,Anuluj
+Examine/RooftopExamineBase/Section ds1,I might just stay here.,Chyba po prostu tu zostanę.
+Examine/RooftopExamineBase/Section ds3,...it's so relaxing.,...to takie relaksujące.
+Examine/RooftopExamineBase/Section ds4,"Oh, shall I go finish the investigation on my own?","Och, to może dokończę śledztwo sam?"
+Examine/RooftopExamineBase/Section ds5,...that'd be great.,...to by było wspaniałe.
+Examine/RooftopExamineBoggyStatue/Section ds0,It's another little statue - doing a really bad job of hiding in the bushes.,To kolejny mały posąg - naprawdę kiepsko ukrywający się w krzakach.
+Examine/RooftopExamineBoggyStatue/Section ds1,He's playing a [i]lute[/i] this time.,Tym razem gra na [i]lutni[/i].
+Examine/RooftopExamineBoggyStatue/Section ds2,He's also... wearing... headphones.,Ma też... na sobie... słuchawki.
+Examine/RooftopExamineBoggyStatue/Section ds3,"And they're not headphones.
+They're earmuffs.","I to nie słuchawki.
+To ochronniki na uszy."
+Examine/RooftopExamineBoggyStatue/Section ds4,"Well, they're not part of the statue...","Cóż, nie są częścią posągu..."
+Examine/RooftopExamineEggStatues/Section ds0,More egg statues.,Więcej posągów jajek.
+Examine/RooftopExamineEggStatues/Section ds1,"I don't get it.
+Why eggs?","Nie rozumiem.
+Czemu jajka?"
+Examine/RooftopExamineEggStatues/Section ds2,"Well, either they have some special significance...","Cóż, albo mają jakieś specjalne znaczenie..."
+Examine/RooftopExamineEggStatues/Section ds3,Or the sculptor was just really lazy.,Albo rzeźbiarz był po prostu bardzo leniwy.
+Examine/RooftopExamineEggStatues/Section ds4,An egg has gotta be the [h]easiest[/h] shape to make.,Jajko to musi być [h]najłatwiejszy[/h] kształt do zrobienia.
+Examine/RooftopExamineEggStatues/Section ds5,What d'you mean?,Co masz na myśli?
+Examine/RooftopExamineFitzWindow/Section ds0,It's the window into Fitz's bedroom.,To okno do sypialni Fitza.
+Examine/RooftopExamineFitzWindow/Section ds1,I wish [h]my[/h] bedroom window had a view this nice.,"Chciałabym, żeby okno [h]mojej[/h] sypialni miało tak ładny widok."
+Examine/RooftopExamineFitzWindow/Section ds2,"You know, he's pretty lucky.","Wiesz, ma niezłe szczęście."
+Examine/RooftopExamineFlowingWater/Section ds0,A little water feature.,Mała fontanna wodna.
+Examine/RooftopExamineFlowingWater/Section ds1,...it's making me sleepy.,...robi mi się od tego sennie.
+Examine/RooftopExamineFlowingWater/Section ds2,Wonder how it's hooked up?,"Ciekawe, jak jest podłączona?"
+Examine/RooftopExamineFrogandFeathers/Section ds0,He's got his tongue out like he's catching snowflakes...,"Wystawia język, jakby łapała płatki śniegu..."
+Examine/RooftopExamineFrogandFeathers/Section ds1,"Except those aren't snowflakes.
+They're [i]feathers.[/i]","Tylko że to nie płatki śniegu.
+To [i]pióra.[/i]"
+Examine/RooftopExamineFrogandFeathers/Section ds2,"Giant stone frog?
+Love it.","Wielka kamienna żaba?
+Uwielbiam ją."
+Examine/RooftopExaminePillars/Section ds0,"Stone pillars.
+","Kamienne filary.
+"
+Examine/RooftopExaminePillars/Section ds2,...or - what's left of them.,"...a raczej - to, co z nich zostało."
+Examine/RooftopExamineSky/Section ds0,"Careful, we're pretty high up...","Uważaj, jesteśmy dość wysoko..."
+Examine/RooftopExamineSky/Section ds1,"Yeah.
+We're on a roof.","Tak.
+Jesteśmy na dachu."
+Examine/RooftopExaminerBench/Section ds0,It's a two-person bench.,To ławka dla dwóch osób.
+Examine/RooftopExaminerBench/Section ds1,"...what makes it a two-person bench, specifically?",...co konkretnie czyni ją ławką dla dwóch osób?
+Examine/RooftopExaminerBench/Section ds2,It looks pretty standard to me.,Dla mnie wygląda całkiem standardowo.
+Examine/RooftopExaminerBench/Section ds3,...,...
+Examine/RooftopExaminerBridge/Section ds0,Oh good - a bridge.,Och dobrze - mostek.
+Examine/RooftopExaminerBridge/Section ds1,Not all bridges are about getting across stuff.,Nie każdy mostek jest o przechodzeniu przez coś.
+Examine/RooftopExaminerBridge/Section ds2,"I'm glad to know there's a way to get across that tiny, tiny pond.","Cieszę się, że jest sposób, żeby przejść przez ten malutki, malutki stawek."
+Examine/RooftopExaminerBridge/Section ds3,...,...
+Examine/RooftopExaminerDragonfly/Section ds0,That's one big dragonfly.,To ci dopiero wielka ważka.
+Examine/RooftopExaminerDragonfly/Section ds4,Or one [h]very[/h] small dragon.,Albo bardzo [h]mały[/h] smok.
+Examine/RooftopExaminerFellowTower/Section ds1,Leads up towards Flora's tower.,"Prowadzi w górę, do wieży Flory."
+Examine/RooftopExaminerFitzDoor/Section ds0,It's the door into Fitz's room.,To drzwi do pokoju Fitza.
+Examine/RooftopExaminerFitzDoor/Section ds2,One of only [i]two[/i] ways to get into the garden.,"Jeden z tylko [i]dwóch[/i] sposobów, żeby dostać się do ogrodu."
+Examine/RooftopExaminerFitzDoor/Section ds3,Oh yeah...,Ach tak...
+Examine/RooftopExaminerPond/Section ds0,A little pond.,Mały staw.
+Examine/RooftopExaminerPond/Section ds1,"It looks really, really deep...
+-for some reason.","Wygląda naprawdę, naprawdę głęboko...
+-z jakiegoś powodu."
+Examine/RooftopExaminerPond/Section ds3,"See those metal bars around the edges, too?",Widzisz też te metalowe pręty wokół krawędzi?
+Examine/RooftopExaminerPond/Section ds4,Oh yeah... what d'you suppose they're for?,"Ach tak... jak myślisz, do czego są?"
+Examine/RooftopExaminerPond/Section ds5,Nothing - anymore.,Do niczego - już.
+Examine/RooftopExaminerPond/Section ds6,Looks like somebody broke them and then never bothered to fix it.,"Wygląda, że ktoś je złamał, a potem nigdy nie zawracał sobie głowy naprawą."
+Examine/RooftopExaminerPoppyDoor/Section ds0,The door into Poppy's room.,Drzwi do pokoju Poppy.
+Examine/RooftopExaminerPoppyDoor/Section ds1,So... only Poppy and Fitz can get into the garden?,Więc... tylko Poppy i Fitz mogą dostać się do ogrodu?
+Examine/RooftopExaminerPoppyDoor/Section ds2,Uh - I guess so?,Yy - chyba tak?
+Examine/RooftopExaminerRosebush/Section ds0,"It's a rosebush, growing on a little patch of blue-ish soil.","To krzew róży, rosnący na małej łatce niebieskawej ziemi."
+Examine/RooftopExaminerRosebush/Section ds1,"Apart from a couple of loose petals on one side, the whole thing looks very well cared for.","Poza kilkoma luźnymi płatkami z jednej strony, cała ta rzecz wygląda na bardzo dobrze zadbaną."
+Examine/RooftopExaminerRosebush/Section ds2,"The roses are bright red, too.",Róże są też jaskrawoczerwone.
+Examine/RooftopExaminerRosebush/Section ds3,-aren't roses normally that colour?,-czy róże nie są normalnie właśnie takiego koloru?
+Examine/RooftopExaminerRosebush/Section ds4,Exactly.,Właśnie.
+Examine/RooftopExaminerStairs/Section ds0,Stairs up to Fitz's room.,Schody na górę do pokoju Fitza.
+Examine/RooftopExaminerStairs/Section ds1,[h]Why[/h] though.,[h]Czemu[/h] jednak.
+Examine/RooftopExaminerStairs/Section ds2,Hm?,Hm?
+Examine/RooftopExaminerStairs/Section ds3,"So there are two doors into the garden, right?","Więc są dwoje drzwi do ogrodu, prawda?"
+Examine/RooftopExaminerStairs/Section ds4,But they weren't built at the same level.,Ale nie zostały zbudowane na tym samym poziomie.
+Examine/RooftopExaminerStairs/Section ds5,"One from the Fellow side, and one from the Pointer side.","Jedne od strony Fellowów, a drugie od strony Pointerów."
+Examine/RooftopExaminerStairs/Section ds6,Just seems kinda... sloppy.,Wygląda po prostu na... niechlujne.
+Examine/RooftopExaminerTrees/Section ds0,"Trees.
+On a roof.","Drzewa.
+Na dachu."
+Examine/RooftopExaminerTrees/Section ds1,-in a [i]garden.[/i],-w [i]ogrodzie.[/i]
+Examine/RooftopExaminerTrees/Section ds2,"Mhm, in a garden.
+On a [i]roof.[/i]","Mhm, w ogrodzie.
+Na [i]dachu.[/i]"
+Examine/RooftopGardenFitzBackOut/Section ds0,Let's come back once we... know what to do.,"Wróćmy do tego, kiedy... będziemy wiedzieć, co robić."
+Examine/RooftopGardenFitzFailed1/Section ds0,Nothing. Still locked.,Nic. Wciąż zamknięte.
+Examine/RooftopGardenFitzFailed1/Section ds1,The tiles have all got that same sun symbol on them...,Wszystkie płytki mają ten sam symbol słońca...
+Examine/RooftopGardenFitzFailed1/Section ds2,Those moon symbols in the slots... are they connected?,Te symbole księżyca w gniazdach... są połączone?
+Examine/RooftopGardenFitzFailed1/Section ds3,Maybe they're connected... but also [h]not[/h] connected.,Może są połączone... ale też [h]nie[/h] są połączone.
+Examine/RooftopGardenFitzFailed1/Section ds4,...,...
+Examine/RooftopGardenFitzFailed2/Section ds0,Nope. It's not budging.,Nie. Nie rusza się.
+Examine/RooftopGardenFitzFailed2/Section ds1,Maybe the information we need isn't here.,"Może informacja, której potrzebujemy, nie jest tutaj."
+Examine/RooftopGardenFitzFailed2/Section ds2,So where is it?,Więc gdzie jest?
+Examine/RooftopGardenFitzFailed2/Section ds3,Somewhere else.,Gdzie indziej.
+Examine/RooftopGardenFitzFailed3/Section ds0,"Ah.
+Didn't work.","Ach.
+Nie zadziałało."
+Examine/RooftopGardenFitzFailed3/Section ds1,"You know, I think this might be one of a pair.","Wiesz, myślę, że to może być jedna z pary."
+Examine/RooftopGardenFitzFailed3/Section ds2,"What, the whole thing?","Co, cała ta rzecz?"
+Examine/RooftopGardenFitzFailed3/Section ds3,Yeah... something about those symbols.,Tak... coś w związku z tymi symbolami.
+Examine/RooftopGardenFitzFailed3/Section ds4,"The duality of the sun and moon, you know?","Dwoistość słońca i księżyca, wiesz?"
+Examine/RooftopGardenFitzFailed3/Section ds5,If you say so...,Jeśli tak mówisz...
+Examine/RooftopGardenFitzSOLVEDEXAMINE/Section ds2,The sun tiles are in the right place.,Płytki słońca są na właściwym miejscu.
+Examine/RooftopGardenFitzSOLVEDEXAMINE/Section ds4,But the moon symbols might be important for something else.,Ale symbole księżyca mogą być ważne dla czegoś innego.
+Examine/RooftopGardenFitzSuccess1/Section ds0,I guess that was right?,"Zgaduję, że to było dobrze?"
+Examine/RooftopGardenFitzSuccess1/Section ds2,...,...
+Examine/RooftopGardenFitzSuccess1/Section ds3,It made a noise!,Wydało dźwięk!
+Examine/RooftopGardenFitzSuccess2/Section ds0,-aaaand the door's still locked.,-i drzwi wciąż zamknięte.
+Examine/RooftopGardenFitzSuccess2/Section ds2,...I still feel like we made some sort of progress.,"...wciąż czuję, że zrobiliśmy jakiś postęp."
+Examine/RooftopGardenFitzSuccess2/Section ds3,...,...
+Examine/RooftopGardenFitzSuccess2Both/Section ds0,"Finally.
+It's open.","Nareszcie.
+Otwarte."
+Examine/RooftopGardenFitzSuccess2Both/Section ds2,Whatever's on the other side - better be worth it.,"Cokolwiek jest po drugiej stronie - lepiej, żeby było tego warte."
+Examine/RooftopGardenFitzSuccess2Both/Section ds2 Choice 1,Go outside.,Wyjdź na zewnątrz.
+Examine/RooftopGardenFitzSuccess2Both/Section ds2 Choice 2,Later.,Później.
+Examine/RooftopGardenFitzSuccess2Both/Section ds3,...,...
+Examine/RooftopGardenPoppyBackOut/Section ds0,I guess we'll come back later.,"Zgaduję, że wrócimy do tego później."
+Examine/RooftopGardenPoppyFailed1/Section ds0,Nothing. Still locked.,Nic. Wciąż zamknięte.
+Examine/RooftopGardenPoppyFailed1/Section ds1,All four tiles have a moon symbol.,Wszystkie cztery płytki mają symbol księżyca.
+Examine/RooftopGardenPoppyFailed1/Section ds2,Those other symbols look like suns. Surely that's something to do with it?,Te inne symbole wyglądają jak słońca. Na pewno mają z tym coś wspólnego?
+Examine/RooftopGardenPoppyFailed1/Section ds3,"I think it is...
+But in an abstract kinda way.","Myślę, że tak...
+Ale w jakiś abstrakcyjny sposób."
+Examine/RooftopGardenPoppyFailed1/Section ds4,...,...
+Examine/RooftopGardenPoppyFailed2/Section ds0,Nope. It's not budging.,Nie. Nie rusza się.
+Examine/RooftopGardenPoppyFailed2/Section ds1,Maybe the information we need isn't here.,"Może informacja, której potrzebujemy, nie jest tutaj."
+Examine/RooftopGardenPoppyFailed2/Section ds2,So where is it?,Więc gdzie jest?
+Examine/RooftopGardenPoppyFailed2/Section ds3,Somewhere else.,Gdzie indziej.
+Examine/RooftopGardenPoppyFailed3/Section ds0,"Ah.
+Didn't work.","Ach.
+Nie zadziałało."
+Examine/RooftopGardenPoppyFailed3/Section ds1,"You know, I think this might be one of a pair.","Wiesz, myślę, że to może być jedna z pary."
+Examine/RooftopGardenPoppyFailed3/Section ds2,"What, the whole thing?","Co, cała ta rzecz?"
+Examine/RooftopGardenPoppyFailed3/Section ds3,Yeah... something about those symbols.,Tak... coś w związku z tymi symbolami.
+Examine/RooftopGardenPoppyFailed3/Section ds4,"The duality of the sun and moon, you know?","Dwoistość słońca i księżyca, wiesz?"
+Examine/RooftopGardenPoppyFailed3/Section ds5,If you say so...,Jeśli tak mówisz...
+Examine/RooftopGardenPoppySOLVEDEXAMINE/Section ds2,The moon tiles are in the right place.,Płytki księżyca są na właściwym miejscu.
+Examine/RooftopGardenPoppySOLVEDEXAMINE/Section ds4,But the sun symbols might be important for something else.,Ale symbole słońca mogą być ważne dla czegoś innego.
+Examine/RooftopGardenPoppySuccess1/Section ds0,That must be it.,To musi być to.
+Examine/RooftopGardenPoppySuccess1/Section ds2,...,...
+Examine/RooftopGardenPoppySuccess1/Section ds3,Something happened!,Coś się stało!
+Examine/RooftopGardenPoppySuccess2/Section ds0,-aaaand the door's still locked.,-i drzwi wciąż zamknięte.
+Examine/RooftopGardenPoppySuccess2/Section ds2,...I still feel like we make some sort of progress.,"...wciąż czuję, że robimy jakiś postęp."
+Examine/RooftopGardenPoppySuccess2/Section ds3,...,...
+Examine/RooftopGardenPoppySuccess2Both/Section ds0,"Finally.
+It's open.","Nareszcie.
+Otwarte."
+Examine/RooftopGardenPoppySuccess2Both/Section ds2,Whatever's on the other side - better be worth it.,"Cokolwiek jest po drugiej stronie - lepiej, żeby było tego warte."
+Examine/RooftopGardenPoppySuccess2Both/Section ds2 Choice 1,Go outside.,Wyjdź na zewnątrz.
+Examine/RooftopGardenPoppySuccess2Both/Section ds2 Choice 2,Later.,Później.
+Examine/RooftopGardenPoppySuccess2Both/Section ds3,...,...
+Examine/STORY FAKE ENDING FLOW/Section ds13,Grimoire and Sally are knocked out by the noise which emits from inside.,Grimoire i Sally zostają ogłuszeni hałasem dochodzącym ze środka.
+Examine/STORY FAKE ENDING FLOW/Section ds17,Fade to black.,Ściemnienie do czerni.
+Examine/STORY FAKE ENDING FLOW/Section ds18,Penny's bird taps its beak onto the gramophone.,Ptak Penny stuka dziobem w gramofon.
+Examine/STORY HARMONOGRAPH 1 SPAWN/Section ds0,"Something to do with the statue in garden, I think.","Coś związanego z tym posągiem w ogrodzie, jak sądzę."
+Examine/STORY HARMONOGRAPH 1 SPAWN/Section ds8,Freya was definitely up to [h]something.[/h],Freya zdecydowanie knuła [h]coś.[/h]
+Examine/STORY HARMONOGRAPH 1 SPAWN/Section ds9,Maybe we should go back and check - we could've missed something.,Może powinniśmy wrócić i sprawdzić - mogliśmy coś przegapić.
+Examine/STORY HARMONOGRAPH 1 SPAWN/Section ds9 Choice 1,Go to the Gardens.,Idź do ogrodów.
+Examine/STORY HARMONOGRAPH 1 SPAWN/Section ds9 Choice 2,Later.,Później.
+Examine/STORY HARMONOGRAPH 2 READ THE NOTE/Section ds14,Why don't we check the handwriting with Freya's diary?,Czemu nie sprawdzimy pisma z pamiętnikiem Freyi?
+Examine/STORY HARMONOGRAPH 2 READ THE NOTE/Section ds15,Well. It's confirmed.,Cóż. To potwierdzone.
+Examine/STORY HARMONOGRAPH 2 READ THE NOTE/Section ds20,How can it be...?,Jak to możliwe...?
+Examine/STORY HARMONOGRAPH 2 READ THE NOTE/Section ds21,Well?,I?
+Examine/STORY HARMONOGRAPH 2 READ THE NOTE/Section ds22,"Good idea, hold on.","Dobry pomysł, czekaj."
+Examine/STORY HARMONOGRAPH 2 READ THE NOTE/Section ds23,...,...
+Examine/STORY HARMONOGRAPH 2 READ THE NOTE/Section ds24,It's a perfect match.,Idealnie pasuje.
+Examine/STORY HARMONOGRAPH 2 READ THE NOTE/Section ds25,We have a ghost helping us.,Pomaga nam duch.
+Examine/STORY HARMONOGRAPH 2 READ THE NOTE/Section ds26,...let's keep this to ourselves for now.,...zatrzymajmy to na razie dla siebie.
+Examine/STORY HARMONOGRAPH 2 READ THE NOTE/Section ds28,Maybe we can put it to some kind of use...,Może znajdziemy dla niej jakieś zastosowanie...
+Examine/STORY HARMONOGRAPH 2 READ THE NOTE/Section ds30,"What do you think?
+-is it really from her?","Co myślisz?
+-czy to naprawdę od niej?"
+Examine/STORY HARMONOGRAPH 2 READ THE NOTE/Section ds34,What about the little wooden toy thingy?,A co z tą małą drewnianą zabawką?
+Examine/STORY HARMONOGRAPH 2 READ THE NOTE/Section ds9,...,...
+Examine/STORY HARMONOGRAPH 3 FOUR MELODIES/Section ds0,So... what do we do with them?,Więc... co z nimi zrobimy?
+Examine/STORY HARMONOGRAPH 3 FOUR MELODIES/Section ds8,That's all four melodies I think.,To chyba wszystkie cztery melodie.
+Examine/STORY HARMONOGRAPH 3 FOUR MELODIES/Section ds9,Should we go back to the gardens again?,Powinniśmy wrócić jeszcze raz do ogrodów?
+Examine/STORY HARMONOGRAPH 3 FOUR MELODIES/Section ds9 Choice 1,Go to the Gardens.,Idź do ogrodów.
+Examine/STORY HARMONOGRAPH 3 FOUR MELODIES/Section ds9 Choice 2,Later.,Później.
+Examine/STORY LEAVING 1 THE LAB/Section ds10,Ready to go down? Again?,"Gotowi, żeby zejść na dół? Znowu?"
+Examine/STORY LEAVING 1 THE LAB/Section ds10 Choice 1,Let's go.,Chodźmy.
+Examine/STORY LEAVING 1 THE LAB/Section ds10 Choice 2,Hold on.,Czekaj.
+Examine/STORY LEAVING 1 THE LAB/Section ds8,We're done.,Skończyliśmy.
+Examine/STORY LEAVING 2 THE LOWEST LEVEL/Section ds10,I want to find that last room...,Chcę znaleźć ten ostatni pokój...
+Examine/STORY LEAVING 2 THE LOWEST LEVEL/Section ds10 Choice 1,Let's go.,Chodźmy.
+Examine/STORY LEAVING 2 THE LOWEST LEVEL/Section ds10 Choice 2,Hold on.,Czekaj.
+Examine/STORY LEAVING 2 THE LOWEST LEVEL/Section ds13,Let's head back up to the Grand Hall.,"Wróćmy na górę, do wielkiej sali."
+Examine/STORY LEAVING 2 THE LOWEST LEVEL/Section ds8,...,...
+Examine/STORY LEAVING 3 THE STUDY/Section ds10,Let's go back to the crime scene.,Wróćmy na miejsce zbrodni.
+Examine/STORY LEAVING 3 THE STUDY/Section ds10 Choice 1,Go to Flora's Tower.,Idź do wieży Flory.
+Examine/STORY LEAVING 3 THE STUDY/Section ds10 Choice 2,Hold on.,Czekaj.
+Examine/STORY LEAVING 3 THE STUDY/Section ds13,...,...
+Examine/STORY LEAVING 3 THE STUDY/Section ds14,What?,Co?
+Examine/STORY LEAVING 3 THE STUDY/Section ds15,I just... want to check something.,Po prostu... chcę coś sprawdzić.
+Examine/STORY LEAVING 3 THE STUDY/Section ds8,There's something bothering me.,Coś mnie niepokoi.
+Examine/STORY MELODY 2 HUMMING/Section ds0,...,...
+Examine/STORY MELODY 3 PIANO/Section ds0,...,...
+Examine/STORY SEEN THE BUILDING PLANS/Section ds13,Agreed.,Zgadzam się.
+Examine/STORY SEEN THE BUILDING PLANS/Section ds8,This... seems pretty significant.,To... wydaje się całkiem istotne.
+Examine/STORY THE HARMONOGRAPH/Section ds0,I don't know what... but Freya was up to [h]something.[/h],Nie wiem co... ale Freya knuła [h]coś.[/h]
+Examine/STORY THE HARMONOGRAPH/Section ds1,It's something to do with that statue in the garden. That guy with the harp.,To coś związanego z tym posągiem w ogrodzie. Ten gość z harfą.
+Examine/STORY THE HARMONOGRAPH/Section ds2,Yeah...,Tak...
+Examine/STORY THE HARMONOGRAPH/Section ds3,Let's go check it out! Maybe we missed something.,Chodźmy to sprawdzić! Może coś przegapiliśmy.
+Examine/STORY THE HARMONOGRAPH/Section ds3 Choice 1,Let's go now.,Idźmy teraz.
+Examine/STORY THE HARMONOGRAPH/Section ds3 Choice 2,Later.,Później.
+Examine/TelescopeExamineAttic1/Section ds1,...is that a window?,...to okno?
+Examine/TelescopeExamineAttic1/Section ds2,...is there another room - above Flora's room?,...jest tam jeszcze jeden pokój - nad pokojem Flory?
+Examine/TelescopeExamineAttic1/Section ds3,...we should check that next time we're over there.,"...powinniśmy to sprawdzić następnym razem, kiedy tam będziemy."
+Examine/TelescopeExamineAttic1/Section ds5,I think it is!,"Myślę, że tak!"
+Examine/TelescopeExamineAttic2/Section ds3,That's the attic above Flora's room.,To strych nad pokojem Flory.
+Examine/TelescopeExamineAttic2/Section ds4,Somebody covered the window with black paint. It's impossible to see into the room from here.,Ktoś zamalował okno czarną farbą. Niemożliwe jest zobaczyć do pokoju stąd.
+Examine/TelescopeExamineBackOutLock/Section ds0,"Hold on.
+I think we might've missed something...","Czekaj.
+Myślę, że mogliśmy coś przegapić..."
+Examine/TelescopeExamineDoor/Section ds0,"I can see the doorway, it leads into the hall.","Widzę drzwi, prowadzą do korytarza."
+Examine/TelescopeExamineDoor/Section ds3,The door itself is on the floor - knocked off its hinges.,Same drzwi leżą na podłodze - zerwane z zawiasów.
+Examine/TelescopeExamineFlora/Section ds0,You can see right into Flora's room...,Widać prosto do pokoju Flory...
+Examine/TelescopeExamineFlora/Section ds1,Not by accident.,Nie przez przypadek.
+Examine/TelescopeExamineFlora/Section ds6,I can see Flora... but she's not looking this way. She's looking up.,Widzę Florę... ale nie patrzy w tę stronę. Patrzy do góry.
+Examine/TelescopeExamineFlora/Section ds8,Behind her is the back side of the easel holding Freya's unfinished painting.,Za nią jest tylna strona sztalugi z niedokończonym obrazem Freyi.
+Examine/TelescopeExamineFlora/Section ds9,I can't really see anything behind it. Not from this angle.,Nie widzę tak naprawdę nic za nią. Nie pod tym kątem.
+Examine/TelescopeExamineGramaphone/Section ds3,I can just about see the gramophone.,Ledwo widzę gramofon.
+Examine/TelescopeExamineNothing/Section ds0,"It's too dark back there.
+Can't really see anything.","Tam z tyłu jest zbyt ciemno.
+Nic tak naprawdę nie widać."
+Examine/TelescopeExamineOnEnter/Section ds2,...isn't this supposed to be an [h]astronomy[/h] telescope?,...to nie powinien być teleskop [h]astronomiczny[/h]?
+Examine/TelescopeExamineOnEnter/Section ds3,I'm pretty sure you need to see the [h]sky[/h] for astronomy to work.,"Jestem całkiem pewien, że do astronomii trzeba widzieć [h]niebo.[/h]"
+Examine/TelescopeExamineOnEnter/Section ds5,I can't move it.,Nie mogę go poruszyć.
+Examine/TelescopeExamineOnEnter/Section ds6,I think this is just how it's set up.,"Myślę, że tak po prostu jest ustawiony."
+Examine/TelescopeExaminePlant/Section ds0,It's that little plant Flora keeps on the window ledge.,"To ta mała roślina, którą Flora trzyma na parapecie."
+Examine/TelescopeExaminePlant/Section ds3,Don't you think it would fall off? In the wind?,"Nie myślisz, że spadłaby? Na wietrze?"
+Examine/TelescopeExaminePlant/Section ds4,Maybe it's glued down.,Może jest przyklejona.
+Examine/TelescopeExamineSky/Section ds0,I can [h]just[/h] about see the sky behind the tower.,[h]Ledwo[/h] widzę niebo za wieżą.
+Examine/TelescopeExamineSky/Section ds1,I can't get the telescope to look up any higher.,Nie mogę skierować teleskopu wyżej.
+Examine/TelescopeExamineSky/Section ds2,Weird.,Dziwne.
+Examine/TelescopeExamineTower/Section ds0,It's the tower opposite this one.,To wieża naprzeciwko tej.
+Examine/TelescopeExamineTrees1/Section ds0,"Trees.
+For some reason.","Drzewa.
+Z jakiegoś powodu."
+Examine/TelescopeExamineTrees2/Section ds0,The rooftop garden is right underneath Flora's window.,Ogród na dachu jest dokładnie pod oknem Flory.
+Examine/UNLOCK SALLYSTORY 1 THE STATEMENTS/Section ds10,Let's go over them all.,Przejrzyjmy je wszystkie.
+Examine/UNLOCK SALLYSTORY 1 THE STATEMENTS/Section ds10 Choice 1,Let's go now.,Idźmy teraz.
+Examine/UNLOCK SALLYSTORY 1 THE STATEMENTS/Section ds10 Choice 2,Later.,Później.
+Examine/UNLOCK SALLYSTORY 1 THE STATEMENTS/Section ds13,...,...
+Examine/UNLOCK SALLYSTORY 1 THE STATEMENTS/Section ds8,That's all the statements.,To wszystkie zeznania.
+Examine/UNLOCK SALLYSTORY 10 THE MISSING CLUE/Section ds0,...,...
+Examine/UNLOCK SALLYSTORY 10 THE MISSING CLUE/Section ds14,...,...
+Examine/UNLOCK SALLYSTORY 2 THE CRIME SCENE/Section ds10,Let's go over what we know about the crime scene.,"Przejrzyjmy to, co wiemy o miejscu zbrodni."
+Examine/UNLOCK SALLYSTORY 2 THE CRIME SCENE/Section ds10 Choice 1,Let's go now.,Idźmy teraz.
+Examine/UNLOCK SALLYSTORY 2 THE CRIME SCENE/Section ds10 Choice 2,Later.,Później.
+Examine/UNLOCK SALLYSTORY 2 THE CRIME SCENE/Section ds13,...,...
+Examine/UNLOCK SALLYSTORY 3 THE LABORATORY/Section ds10,...,...
+Examine/UNLOCK SALLYSTORY 3 THE LABORATORY/Section ds8,Who's research is this...?,Czyje to badania...?
+Examine/UNLOCK SALLYSTORY 4 THE LAKE/Section ds10,...,...
+Examine/UNLOCK SALLYSTORY 4 THE LAKE/Section ds8,...where are we?,...gdzie jesteśmy?
+Examine/UNLOCK SALLYSTORY 5 THE DAMAGED PHOTO/Section ds10,...,...
+Examine/UNLOCK SALLYSTORY 5 THE DAMAGED PHOTO/Section ds8,Do you know who it is? in the photo?,"Wiesz, kto to jest? na zdjęciu?"
+Examine/UNLOCK SALLYSTORY 6 THE STUDY/Section ds0,Someone's been using this room...,Ktoś korzysta z tego pokoju...
+Examine/UNLOCK SALLYSTORY 6 THE STUDY/Section ds13,...,...
+Examine/UNLOCK SALLYSTORY 7 THE GROUP PHOTO/Section ds13,...,...
+Examine/UNLOCK SALLYSTORY 7 THE GROUP PHOTO/Section ds8,That photo is important. I'm sure of it.,To zdjęcie jest ważne. Jestem tego pewna.
+Examine/UNLOCK SALLYSTORY 8 THE WEAPON/Section ds13,...,...
+Examine/UNLOCK SALLYSTORY 8 THE WEAPON/Section ds8,What is it...?,Co to jest...?
+Examine/UNLOCK SALLYSTORY 9 THE MURDER/Section ds0,Time to solve this.,Czas to rozwiązać.
+Examine/UNLOCK SALLYSTORY 9 THE MURDER/Section ds13,...,...
+Examine/Unlock Bedroom Fifi/Section ds0,"Fifi's bedroom should be unlocked, now.",Sypialnia Fifi powinna być teraz odblokowana.
+Examine/Unlock Bedroom Fifi/Section ds1,Can't wait.,Nie mogę się doczekać.
+Examine/Unlock Bedroom Fifi/Section ds1 Choice 1,Let's go now.,Idźmy teraz.
+Examine/Unlock Bedroom Fifi/Section ds1 Choice 2,Later.,Później.
+Examine/Unlock Bedroom Fitz/Section ds0,Fitz's room is unlocked - it's up in the Fellow tower.,Pokój Fitza jest odblokowany - jest na górze w wieży Fellow.
+Examine/Unlock Bedroom Fitz/Section ds1,This could be interesting...,To może być ciekawe...
+Examine/Unlock Bedroom Fitz/Section ds1 Choice 1,Let's go now.,Idźmy teraz.
+Examine/Unlock Bedroom Fitz/Section ds1 Choice 2,Later.,Później.
+Examine/Unlock Bedroom Penny/Section ds0,We can get into Penny's room now.,Możemy teraz dostać się do pokoju Penny.
+Examine/Unlock Bedroom Penny/Section ds1,Now - like... [h]right[/h] now?,Teraz - czyli... [h]zaraz[/h] teraz?
+Examine/Unlock Bedroom Penny/Section ds1 Choice 1,Let's go now.,Idźmy teraz.
+Examine/Unlock Bedroom Penny/Section ds1 Choice 2,Later.,Później.
+Examine/Unlock Bedroom Poppy/Section ds0,Alright... Poppy's bedroom is unlocked.,Dobrze... sypialnia Poppy jest odblokowana.
+Examine/Unlock Bedroom Poppy/Section ds1,...I wonder what's in there?,"...ciekawe, co tam jest?"
+Examine/Unlock Bedroom Poppy/Section ds1 Choice 1,Let's go now.,Idźmy teraz.
+Examine/Unlock Bedroom Poppy/Section ds1 Choice 2,Later.,Później.
+Examine/florasroomNIGHTbase/Section ds0,It's dark.,Jest ciemno.
+Examine/florasroomNIGHTbase2/Section ds0,...,...
+Examine/florasroomNIGHTbird/Section ds0,...,...
+Examine/florasroomNIGHTbird/Section ds11,But she's a very [h]good[/h] listener.,Ale jest bardzo [h]dobrą[/h] słuchaczką.
+Examine/florasroomNIGHTbird/Section ds12,Our little thief.,Nasza mała złodziejka.
+Examine/florasroomNIGHTbird/Section ds15,...how long has it been there?,...jak długo tam jest?
+Examine/florasroomNIGHTbird/Section ds3,There she is.,Oto i ona.
+Examine/florasroomNIGHTbird/Section ds5,Did it hear the whole conversation?,Słyszała całą rozmowę?
+Examine/florasroomNIGHTbird/Section ds6,She did.,Słyszała.
+Examine/florasroomNIGHTbrushpallete/Section ds1,Freya... did you leave us a clue?,Freya... zostawiłaś nam jakiś trop?
+Examine/florasroomNIGHTbrushpallete/Section ds3,...,...
+Examine/florasroomNIGHTcanvas/Section ds11,"The answer is in the painting, I'm sure of it.","Odpowiedź jest w tym obrazie, jestem tego pewien."
+Examine/florasroomNIGHTcanvas/Section ds12,...,...
+Examine/florasroomNIGHTceiling/Section ds0,...,...
+Examine/florasroomNIGHTdoor/Section ds0,...,...
+Examine/florasroomNIGHTgramaphone/Section ds4,...,...
+Examine/florasroomNIGHTpaintsupplies/Section ds0,...,...
+Examine/florasroomNIGHTplant/Section ds0,The plant.,Roślina.
+Examine/florasroomNIGHTplant/Section ds2,It's in the book...,Jest w książce...
+Examine/florasroomNIGHTplant/Section ds3,What?,Co?
+Examine/florasroomNIGHTplant/Section ds4,Look.,Spójrz.
+Examine/florasroomNIGHTwhiteline/Section ds9,...,...
+Examine/florasroomNIGHTwindow/Section ds0,I can see the stars.,Widzę gwiazdy.
+Examine/florasroomPrePainting/Section ds0,...let's take a look at that painting first.,...przyjrzyjmy się najpierw temu obrazowi.
+Examine/florasroombase/Section ds0,The whole room has a strange feeling about it.,Cały pokój ma w sobie coś dziwnego.
+Examine/florasroombase/Section ds2,"Yeah, there [h]might[/h] be a reason for that.","Tak, [h]może[/h] być na to powód."
+Examine/florasroombooks/Section ds0,A bunch of old books.,Sterta starych książek.
+Examine/florasroombooks/Section ds1,"Covered in dust now, but they look well-read.","Teraz pokryte kurzem, ale wyglądają na dobrze wyczytane."
+Examine/florasroombrushpallete/Section ds0,...looks like she was still holding her paintbrush and palette when she fell.,"...wygląda, że wciąż trzymała pędzel i paletę, kiedy upadła."
+Examine/florasroombrushpallete/Section ds1,Didn't even get a chance to clean her brush...,Nie miała nawet szansy umyć pędzla...
+Examine/florasroombrushpallete/Section ds2,Supposedly Freya was working on the painting when she was killed.,"Podobno Freya pracowała nad obrazem, gdy została zabita."
+Examine/florasroomcanvas/Section ds1,The unfinished portrait of Flora Fellow.,Niedokończony portret Flory Fellow.
+Examine/florasroomcanvas/Section ds10,So... what - Freya was killed halfway through painting it?,Więc... co - Freya została zabita w połowie jego malowania?
+Examine/florasroomcanvas/Section ds11,...looks that way.,...na to wygląda.
+Examine/florasroomcanvas/Section ds4,There it is.,Oto i on.
+Examine/florasroomceiling1/Section ds0,"...we're at the top of the tower, right?","...jesteśmy na szczycie wieży, prawda?"
+Examine/florasroomceiling1/Section ds2,I think so. Why?,Chyba tak. Czemu?
+Examine/florasroomceiling1/Section ds3,"Doesn't matter.
+It's nothing.","Nieważne.
+To nic."
+Examine/florasroomceiling1/Section ds5,...,...
+Examine/florasroomceiling2/Section ds2,"The attic's directly above us, right?","Strych jest dokładnie nad nami, prawda?"
+Examine/florasroomceiling2/Section ds6,Yeah...,Tak...
+Examine/florasroomdoor/Section ds0,That's the only door in and out of the room.,To jedyne drzwi prowadzące do i z tego pokoju.
+Examine/florasroomdoor/Section ds1,It's also... on the floor.,Są też... na podłodze.
+Examine/florasroomdoor/Section ds3,"Sure is.
+Guessing it's not supposed to be down there.","Rzeczywiście.
+Zgaduję, że nie mają tam leżeć."
+Examine/florasroomgramaphone1/Section ds0,...is that a gramophone?,...to gramofon?
+Examine/florasroomgramaphone1/Section ds1,I think so.,Chyba tak.
+Examine/florasroomgramaphone1/Section ds3,Except it's got a tape-deck instead of a turntable.,Tyle że ma odtwarzacz kasetowy zamiast talerza.
+Examine/florasroomgramaphone1/Section ds4,...It's also got a big crack down the middle.,...ma też wielkie pęknięcie na środku.
+Examine/florasroomgramaphone2/Section ds0,It sure is... pink.,Jest zdecydowanie... różowa.
+Examine/florasroomgramaphone2/Section ds7,What about the cassette tape?,A co z kasetą magnetofonową?
+Examine/florasroomgramaphone3/Section ds5,"The gramophone?
+We could give it a go.","Gramofon?
+Możemy spróbować."
+Examine/florasroomgramaphone3/Section ds9,Do you think it still works?,"Myślisz, że wciąż działa?"
+Examine/florasroomgramaphonepuzzle/Section ds0,...,...
+Examine/florasroomgramaphonepuzzle/Section ds0 Choice 1,Try it.,Spróbuj.
+Examine/florasroomgramaphonepuzzle/Section ds0 Choice 2,Leave it alone.,Zostaw to w spokoju.
+Examine/florasroompaintsupplies/Section ds0,Freya's painting supplies.,Materiały malarskie Freyi.
+Examine/florasroompictures/Section ds0,Somehow the sunlight doesn't seem to be making it very far into the room.,Jakoś światło słoneczne nie sięga zbyt daleko w głąb tego pokoju.
+Examine/florasroompictures/Section ds4,It's so dark back there...,Tam z tyłu jest tak ciemno...
+Examine/florasroomplant/Section ds0,"A little pot plant, balanced on the windowledge.","Mała donica z rośliną, oparta na parapecie."
+Examine/florasroomplant/Section ds1,...it's the only plant in the entire room.,...to jedyna roślina w całym pokoju.
+Examine/florasroomwhiteline/Section ds0,...,...
+Examine/florasroomwhiteline/Section ds1,The outline of Freya Fellow. Looks like she fell onto her back.,"Zarys Freyi Fellow. Wygląda, że upadła na plecy."
+Examine/florasroomwhiteline/Section ds2,"There's a single patch of blood.
+Right in the middle.","Jest jedna plama krwi.
+Dokładnie na środku."
+Examine/florasroomwhiteline/Section ds3,Her feet were right up by the canvas.,Jej stopy były tuż przy płótnie.
+Examine/florasroomwhiteline/Section ds4,So she was probably standing really close to the canvas when she fell.,"Więc pewnie stała bardzo blisko płótna, gdy upadła."
+Examine/florasroomwhiteline/Section ds5,So?,I co z tego?
+Examine/florasroomwhiteline/Section ds6,That's weird.,To dziwne.
+Examine/florasroomwhiteline/Section ds7,No real signs of a struggle...,Nie widać żadnych prawdziwych oznak szamotaniny...
+Examine/florasroomwhiteline/Section ds8,What?,Co?
+Examine/florasroomwhiteline/Section ds9,Let's check the case file again.,Sprawdźmy jeszcze raz akta sprawy.
+Examine/florasroomwindow/Section ds0,Half the room is a big open window.,Połowa pokoju to wielkie otwarte okno.
+Examine/florasroomwindow/Section ds1,I don't know if you can call it an open window.,"Nie wiem, czy można to nazwać otwartym oknem."
+Examine/florasroomwindow/Section ds2,It's more like...,To bardziej jak...
+Examine/florasroomwindow/Section ds3,The sudden absence of wall.,Nagły brak ściany.
+Examine/labexamBASE/Section ds0,I can barely tell what I'm looking at.,"Ledwo widzę, na co patrzę."
+Examine/labexamBASE/Section ds2,It's so dark.,Tu jest tak ciemno.
+Examine/labexamBIGWATER/Section ds1,Thirsty?,Spragniony?
+Examine/labexamBOOKS/Section ds2,Forensic Entomology - volume three.,Entomologia sądowa - tom trzeci.
+Examine/labexamBOOKS/Section ds3,That's an [h]incredibly[/h] specific area of study...,To [h]niesamowicie[/h] wąska dziedzina badań...
+Examine/labexamBOTTLES/Section ds0,It [h]looks[/h] like they're being boiled...,"[h]Wygląda[/h], jakby się gotowały..."
+Examine/labexamBOTTLES/Section ds2,...but the liquid is ice cold.,...ale ciecz jest lodowato zimna.
+Examine/labexamCANDELBARREL/Section ds0,"A candle.
+Perched on a barrel.","Świeca.
+Usadowiona na beczce."
+Examine/labexamCANDELBARREL/Section ds1,Very medieval.,Bardzo średniowieczne.
+Examine/labexamCANDELBARREL/Section ds2,I was thinking pirates.,"Ja bym powiedział, że pirackie."
+Examine/labexamCANDELBARREL/Section ds3,Medieval pirates.,Średniowieczni piraci.
+Examine/labexamCEILING/Section ds5,That really doesn't look like the ceiling of a basement...,To naprawdę nie wygląda na sufit piwnicy...
+Examine/labexamCEILING/Section ds7,Nope. It looks like the inside of a roof.,Nie. Wygląda jak wnętrze dachu.
+Examine/labexamCHEMISTRY/Section ds0,Chemistry apparatus.,Aparatura chemiczna.
+Examine/labexamHANGINGBUGS/Section ds3,"Bugs.
+[h]Big[/h] ones.","Owady.
+[h]Duże[/h]."
+Examine/labexamHANGINGBUGS/Section ds4,Looks like they're made of [h]metal...[/h],"Wyglądają, jakby były zrobione z [h]metalu...[/h]"
+Examine/labexamHANGINGFIRE/Section ds0,This place would [h]never[/h] pass a fire safety inspection.,To miejsce [h]nigdy[/h] nie przeszłoby kontroli przeciwpożarowej.
+Examine/labexamHATCH/Section ds0,It's a hatch.,To klapa.
+Examine/labexamHATCH/Section ds1,We're already in the basement.,Jesteśmy już w piwnicy.
+Examine/labexamHATCH/Section ds2,But...,Ale...
+Examine/labexamHATCH/Section ds3,Depends on your perspective.,Zależy z jakiej perspektywy.
+Examine/labexamHATCH/Section ds6,"Let's not go down, just yet.",Nie schodźmy jeszcze na dół.
+Examine/labexamHATCH/Section ds7,We still haven't explored this room properly.,Wciąż nie zbadaliśmy porządnie tego pokoju.
+Examine/labexamHATCH/Section ds8,...,...
+Examine/labexamHATCH2/Section ds0,It's a hatch.,To klapa.
+Examine/labexamHATCH2/Section ds1,We're already in the basement.,Jesteśmy już w piwnicy.
+Examine/labexamHATCH2/Section ds2,But...,Ale...
+Examine/labexamHATCH2/Section ds3,Depends on your perspective.,Zależy z jakiej perspektywy.
+Examine/labexamHATCH2/Section ds3 Choice 1,Go down.,Zejdź na dół.
+Examine/labexamHATCH2/Section ds3 Choice 2,Stay here.,Zostań tutaj.
+Examine/labexamINSECTTRAY/Section ds0,What's in there?,Co tam jest?
+Examine/labexamINSECTTRAY/Section ds2,...,...
+Examine/labexamINSECTTRAY/Section ds2 Choice 1,Look closer.,Przyjrzyj się bliżej.
+Examine/labexamINSECTTRAY/Section ds2 Choice 2,Leave it alone.,Zostaw to w spokoju.
+Examine/labexamLABCOAT/Section ds0,-is that a lab coat?,-to fartuch laboratoryjny?
+Examine/labexamLABCOAT/Section ds2,Size: Small,Rozmiar: mały
+Examine/labexamLABCOAT/Section ds3,Warning: Hand wash only.,Uwaga: prać tylko ręcznie.
+Examine/labexamLADDER/Section ds0,The ladder leading back up to the gardens.,Drabina prowadząca z powrotem do ogrodów.
+Examine/labexamPILEOFPAPER/Section ds3,What a mess.,Co za bałagan.
+Examine/labexamPILEOFPAPER/Section ds4,Any idea what this is all about...?,"Masz pojęcie, o co w tym wszystkim chodzi...?"
+Examine/labexamPILEOFPAPER/Section ds4 Choice 1,Look closer.,Przyjrzyj się bliżej.
+Examine/labexamPILEOFPAPER/Section ds4 Choice 2,Leave it alone.,Zostaw to w spokoju.
+Examine/labexamPLANTS/Section ds0,"Rows of plants, growing in wide wooden boxes.","Rzędy roślin, rosnących w szerokich drewnianych skrzyniach."
+Examine/labexamPLANTS/Section ds1,What colour is the soil?,Jakiego koloru jest ziemia?
+Examine/labexamPLANTS/Section ds3,"It looks black, but it's too dark to tell.","Wygląda na czarną, ale jest zbyt ciemno, żeby to stwierdzić."
+Examine/labexamPOSTERS/Section ds0,Hand-drawn entomology charts.,Ręcznie rysowane wykresy entomologiczne.
+Examine/labexamTANK BG/Section ds0,"A glass tank.
+It's full of plants.","Szklany zbiornik.
+Pełen roślin."
+Examine/labexamTANK BG/Section ds1,There's a layer of condensation on the inside.,Od wewnątrz pokryty warstwą skroplin.
+Examine/labexamTANKMID/Section ds0,A cracked glass tank with nine little rooms.,Pęknięty szklany zbiornik z dziewięcioma małymi pomieszczeniami.
+Examine/labexamTANKMID/Section ds1,I like that you called them 'rooms.',"Podoba mi się, że nazwałeś je 'pomieszczeniami'."
+Examine/labexamTANKMID/Section ds2,Each one has one or two insects inside.,W każdym jest jeden lub dwa owady.
+Examine/labexamTANKMID/Section ds3,I... can't tell if they're still alive.,"Ja... nie mogę stwierdzić, czy wciąż żyją."
+Examine/musicexam floor papers/Section ds2,"That's a lot of notes...
+Looks pretty difficult.","To mnóstwo nutek...
+Wygląda na całkiem trudne."
+Examine/musicexam floor papers/Section ds4,"Sheet music.
+It's handwritten.","Nuty.
+Są pisane ręcznie."
+Examine/musicexam floor papers/Section ds6,Probably why they're on the floor.,Pewnie dlatego leżą na podłodze.
+Examine/musicexam globe/Section ds0,For globing.,Do globusowania.
+Examine/musicexam globe/Section ds1,It's a globe.,To globus.
+Examine/musicexam lanterns/Section ds0,Are they... paper lanterns?,Czy to... papierowe latarnie?
+Examine/musicexam lanterns/Section ds1,"Whatever they are, I like them.","Czymkolwiek są, podobają mi się."
+Examine/musicexam lanterns/Section ds2,It's like a little parade of floating spirits.,To jak mała parada unoszących się duchów.
+Examine/musicexam piano/Section ds0,It's one of those big pianos with the open lids.,To jeden z tych wielkich fortepianów z otwartą klapą.
+Examine/musicexam piano/Section ds1,Don't touch it.,Nie dotykaj go.
+Examine/musicexam piano/Section ds3,Why not?,Czemu nie?
+Examine/musicexam piano/Section ds4,Might be haunted.,Może być nawiedzony.
+Examine/musicexam violin/Section ds0,"Who plays the violin, I wonder?","Ciekawe, kto gra na skrzypcach?"
+Examine/musicexam violin/Section ds2,It's pretty dusty.,Jest całkiem zakurzone.
+Examine/musicexam violin/Section ds3,So I'm guessing - nobody.,Więc zgaduję - nikt.
+Examine/musicexambase/Section ds0,Alright... you got your wish.,"Dobrze... masz, czego chciałaś."
+Examine/musicexambase/Section ds1,Spooky murder mansion?,Straszną rezydencję z morderstwem?
+Examine/musicexambase/Section ds2,Spooky murder mansion.,Straszną rezydencję z morderstwem.
+Examine/musicexamboggy/Section ds0,Well it [h]is[/h] the music room.,"Cóż, to [h]jest[/h] sala muzyczna."
+Examine/musicexamboggy/Section ds1,...what's with all the broken glass?,...o co chodzi z tym całym rozbitym szkłem?
+Examine/musicexamboggy/Section ds4,"Whatever it is...
+-it's playing a little trumpet.","Czymkolwiek to jest...
+-gra na małej trąbce."
+Examine/musicexamboggy/Section ds5,He's gotta practice.,Musi ćwiczyć.
+Examine/musicexambookcandles/Section ds0,"One - old, wooden bookcase.","Jeden - stary, drewniany regał na książki."
+Examine/musicexambookcandles/Section ds1,Yup.,Ta.
+Examine/musicexambookcandles/Section ds2,Twenty-five dry old books.,"Dwadzieścia pięć starych, suchych książek."
+Examine/musicexambookcandles/Section ds3,Mhm.,Mhm.
+Examine/musicexambookcandles/Section ds4,Four lit candles.,Cztery zapalone świece.
+Examine/musicexambookcandles/Section ds5,Yeah.,Tak.
+Examine/musicexambookcandles/Section ds6,...am I the only one seeing the problem?,...czy tylko ja widzę tu problem?
+Examine/musicexamceilingplants/Section ds0,>sniff<,>wąchanie<
+Examine/musicexamceilingplants/Section ds1,Smells like a forest in here.,Pachnie tu jak w lesie.
+Examine/musicexamwallpainting/Section ds0,There's a faded mural on the wall.,Na ścianie jest wyblakły mural.
+Examine/musicexamwallpainting/Section ds3,When I was a kid I never knew the difference between a mural and a mosaic.,"Kiedy byłam dzieckiem, nigdy nie znałam różnicy między muralem a mozaiką."
+Examine/musicexamwallpainting/Section ds4,...,...
+Examine/musicexamwallpainting/Section ds5,"You still don't know, do you?","Wciąż nie znasz, prawda?"
+Examine/musicexamwallpainting/Section ds6,No.,Nie.
+Examine/musicexamwindow/Section ds0,"...that's just daylight, right?","...to po prostu światło dzienne, prawda?"
+Examine/musicexamwindow/Section ds1,What else would it be?,A czym miałoby być?
+Examine/stoneexambase/Section ds2,First one too.,Też pierwszy.
+Examine/stoneexambase/Section ds8,It's a big stone dais.,To wielki kamienny podest.
+Examine/stoneexambase/Section ds9,Biggest one I've ever seen.,"Największy, jaki w życiu widziałam."
+Examine/stoneexambench/Section ds1,There's a metal plaque on the bench.,Na ławce jest metalowa tabliczka.
+Examine/stoneexambench/Section ds4,...I think there was at [h]one[/h] point.,"...myślę, że w [h]pewnym[/h] momencie była."
+Examine/stoneexambench/Section ds6,But someone's scratched it off.,Ale ktoś ją zdrapał.
+Examine/stoneexambench/Section ds7,-is there a message engraved on it?,-jest na niej wyryta jakaś wiadomość?
+Examine/stoneexambridgeleft/Section ds1,A little bridge leading back to the gardens.,Mały mostek prowadzący z powrotem do ogrodów.
+Examine/stoneexambridgeright/Section ds1,Looks like it might be about to fall apart...,"Wygląda, jakby zaraz miał się rozpaść..."
+Examine/stoneexambridgeright/Section ds2,"Grimoire, you go first.","Grimoire, ty pierwszy."
+Examine/stoneexamdesk/Section ds0,I want one.,Chcę takie.
+Examine/stoneexamdesk/Section ds1,A wooden trunk - that opens up into a full desk.,Drewniany kufer - który rozkłada się w pełne biurko.
+Examine/stoneexamgardenbush/Section ds2,These plants are giving off a relaxing smell...,Te rośliny wydzielają relaksujący zapach...
+Examine/stoneexamgardenbush/Section ds3,I didn't know we were supposed to be [h]smelling[/h] things.,"Nie wiedziałam, że mamy tu [h]wąchać[/h] rzeczy."
+Examine/stoneexamgreenhouse/Section ds0,A giant glowing gemstone full of plants...,Ogromny świecący kamień szlachetny pełen roślin...
+Examine/stoneexamgreenhouse/Section ds1,"AKA, a greenhouse.","Inaczej mówiąc, szklarnia."
+Examine/stoneexamgreenhousebush/Section ds0,Bushes.,Krzewy.
+Examine/stoneexamhouse/Section ds0,It's Tangle Tower.,To Tangle Tower.
+Examine/stoneexamhouse/Section ds1,"Or, at least - it's the mansion at the [h]base[/h] of Tangle Tower.",A przynajmniej - to rezydencja u [h]podstawy[/h] Tangle Tower.
+Examine/stoneexamlongtail/Section ds1,How long [h]is[/h] that thing...?,Jak długi [h]jest[/h] ten ogon...?
+Examine/stoneexammushroom/Section ds0,Not in real life.,Nie w prawdziwym życiu.
+Examine/stoneexammushroom/Section ds1,You ever see a mushroom [h]that[/h] big before?,Widziałaś kiedyś [h]tak[/h] wielkiego grzyba?
+Examine/stoneexammushroom/Section ds2,...?,...?
+Examine/stoneexamserpent/Section ds1,It's a sea serpent.,To wąż morski.
+Examine/stoneexamserpent/Section ds10,Beheaded.,Ścięty.
+Examine/stoneexamserpent/Section ds11,By the same wizard.,Przez tego samego czarodzieja.
+Examine/stoneexamserpent/Section ds4,Turned into stone by a wizard.,Zamieniony w kamień przez czarodzieja.
+Examine/stoneexamserpent/Section ds5,-if you... say so.,-jeśli tak... mówisz.
+Examine/stoneexamserpent/Section ds6,What happened to its head?,Co się stało z jego głową?
+Examine/stoneexamstatue/Section ds1,Hii!,Hii!
+Examine/stoneexamstonestruc/Section ds1,A pointless little stone tower.,Bezcelowa mała kamienna wieżyczka.
+Examine/stoneexamstonestruc/Section ds2,"I dunno, might be a good hiding place.","Nie wiem, może to dobra kryjówka."
+Examine/stoneexamstonestruc/Section ds3,Wanna play hide-and-seek?,Chcesz zagrać w chowanego?
+Examine/stoneexamstonestruc/Section ds4,I could be persuaded.,Dałbym się przekonać.
+Examine/stoneexamwater/Section ds0,Really makes me wonder how this structure is supported...,"Naprawdę zastanawia mnie, jak ta konstrukcja jest podtrzymywana..."
+Examine/stoneexamwater/Section ds1,More of that weird lake water...,Więcej tej dziwnej wody z jeziora...
+Examine/stoneexamwater/Section ds2,"-are we on an island, or what?","-jesteśmy na wyspie, czy jak?"
+Examine/stoneexamwater/Section ds3,Beats me.,Nie mam pojęcia.

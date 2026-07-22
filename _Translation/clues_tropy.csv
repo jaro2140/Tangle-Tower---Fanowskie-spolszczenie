@@ -1,0 +1,414 @@
+term,en,pl
+Clue/BuildingPlans/aviary,aviary,ptaszarnia
+Clue/BuildingPlans/bed room,"bed
+room","sypial
+nia"
+Clue/BuildingPlans/grand hall,grand hall,wielka sala
+Clue/BuildingPlans/library,library,biblioteka
+Clue/BuildingPlans/music room,"music
+room","sala
+muzyczna"
+Clue/BuildingPlans/mystid mansion,mystid mansion,mystid mansion
+Clue/BuildingPlans/north side cross section,north side cross section,przekrój strony północnej
+Clue/BuildingPlans/rooftop garden,"rooftop
+garden","ogród
+na dachu"
+Clue/BuildingPlans/storage,storage,magazyn
+Clue/BuildingPlans/study,study,gabinet
+Clues/Info/AngryLetter 1,"The envelope has been ripped open.
+There is a single piece of paper inside.","Koperta została rozerwana.
+W środku jest pojedyncza kartka papieru."
+Clues/Info/AngryLetter 2,"The combination is drawn on the other sheet.
+
+Once you have it memorized, destroy it.
+
+I do not agree with your reasons.
+
+You will not find it down there.","Kombinacja jest narysowana na drugiej kartce.
+
+Gdy już ją zapamiętasz, zniszcz ją.
+
+Nie zgadzam się z twoimi powodami.
+
+Nie znajdziesz tego tam na dole."
+Clues/Info/BirdBook 1,"The 'Inkdip' is a remarkably intelligent bird with
+a very long lifespan, even among avian Mystids.","'Inkdip' to niezwykle inteligentny ptak o
+bardzo długiej długości życia, nawet jak na Mystidy ptasie."
+Clues/Info/BirdBook 2,"Other birds are often aggressive towards it,
+and the Inkdip lives most of its life alone.","Inne ptaki są wobec niego często agresywne,
+a Inkdip spędza większość życia samotnie."
+Clues/Info/BirdBook 3,"It has particular feeding habits and usually only
+eats the seeds of the 'Tantum Amica' (pictured)","Ma szczególne nawyki żywieniowe i zwykle
+żywi się jedynie nasionami 'Tantum Amica' (na obrazku)"
+Clues/Info/BirdBook 4,"Fifi says the book belongs to Flora, who hasn't been in the library for a long time.","Fifi mówi, że książka należy do Flory, która nie była w bibliotece od dawna."
+Clues/Info/BirdBook 5,"Penny says the book is outdated, as this bird has been extinct for a number of years.","Penny mówi, że książka jest nieaktualna, bo ten ptak wymarł już wiele lat temu."
+Clues/Info/BuildingPlans 1,"mystid mansion
+north side cross-section","mystid mansion
+przekrój strony północnej"
+Clues/Info/BuildingPlans 2,"A roll of parchment on which the plans
+for a grand mansion have been drawn.","Zwój pergaminu, na którym narysowano
+plany okazałej rezydencji."
+Clues/Info/BuildingPlans 3,"A horizontal line marks where the lake was before, and a second marks where it is now.","Pozioma linia zaznacza, gdzie było jezioro wcześniej, a druga - gdzie jest teraz."
+Clues/Info/BuildingPlans 4,"The mansion has been built on top of a large structure above the lake, supported by pillars.","Rezydencja została zbudowana na wielkiej konstrukcji nad jeziorem, wspartej na filarach."
+Clues/Info/BuildingPlans 5,Freya's room is listed as 'storage.',Pokój Freyi jest oznaczony jako 'magazyn'.
+Clues/Info/BuildingPlans 6,A room labelled 'study' is in the centre.,Pokój oznaczony 'gabinet' znajduje się na środku.
+Clues/Info/BurntItems 1,Not much more than a pile of dust and ash.,Niewiele więcej niż sterta pyłu i popiołu.
+Clues/Info/BurntItems 2,Among the ashes are several black buttons.,Wśród popiołu jest kilka czarnych guzików.
+Clues/Info/BurntItems 3,Red-coloured scraps of fabric are still visible.,Wciąż widoczne są czerwonawe skrawki materiału.
+Clues/Info/CaseFile 1,"Murder victim: Freya Fellow (19)
+Died whilst painting a portrait of Flora Fellow (58)","Ofiara morderstwa: Freya Fellow (19)
+Zginęła podczas malowania portretu Flory Fellow (58)"
+Clues/Info/CaseFile 2,"Location: Flora's Tower.
+Flora was present, as she was posing for a portrait.","Miejsce: Wieża Flory.
+Flora była obecna, gdyż pozowała do portretu."
+Clues/Info/CaseFile 3,"Freya Fellow was found lying on her back,
+with a single stab wound on her chest.","Freyę Fellow znaleziono leżącą na plecach,
+z pojedynczą raną kłutą na klatce piersiowej."
+Clues/Info/CaseFile 4,"No weapon was found at the scene, but the subject of Freya's unfinished painting is holding a knife.","Nie znaleziono broni na miejscu zbrodni, ale postać na niedokończonym obrazie Freyi trzyma nóż."
+Clues/Info/CaseFile 5,"The red colour on the tip of the knife is not paint.
+It was discovered to be blood.","Czerwony kolor na czubku noża to nie farba.
+Odkryto, że to krew."
+Clues/Info/CeramicEgg 1,"Once unlocked, the egg can be opened.
+It's currently empty.","Po odblokowaniu jajko można otworzyć.
+Obecnie jest puste."
+Clues/Info/CeramicEgg 2,"The lining of the egg is a soft, velvet-like material.","Wyściółka jajka to miękki, aksamitny materiał."
+Clues/Info/CeramicEgg 3,"The egg is supported by a stand made of brass.
+It rests on three strange feet with pointed claws.","Jajko jest podparte na mosiężnej podstawce.
+Spoczywa na trzech dziwnych stopach z ostrymi pazurami."
+Clues/Info/CeramicEgg 4,Flora usually keeps a feather locked inside this egg.,Flora zwykle trzyma pióro zamknięte w tym jajku.
+Clues/Info/ChildrensBook 1,A children's picture book. It looks very old.,Dziecięca książka z obrazkami. Wygląda bardzo staro.
+Clues/Info/ChildrensBook 10,Mystids of the Sea and Sky,Mystidy Morza i Nieba
+Clues/Info/ChildrensBook 2,The Inkdip,Inkdip
+Clues/Info/ChildrensBook 3,An elegant bird with red and white plumage.,Elegancki ptak o czerwono-białym upierzeniu.
+Clues/Info/ChildrensBook 4,The Silversnake,Srebrny Wąż
+Clues/Info/ChildrensBook 5,An aquatic reptile with no eyes and a long tongue.,Wodny gad bez oczu i z długim językiem.
+Clues/Info/ChildrensBook 6,The Soulbearer,Nosiciel Dusz
+Clues/Info/ChildrensBook 7,A crab with three differently sized claws.,Krab z trzema szczypcami różnej wielkości.
+Clues/Info/ChildrensBook 8,The Amphobi,Amfobi
+Clues/Info/ChildrensBook 9,A frog-like creature walking on two legs.,Żabopodobne stworzenie chodzące na dwóch nogach.
+Clues/Info/CrackedTape 1,The cassette tape has a crack down the middle.,Kaseta magnetofonowa ma pęknięcie przez środek.
+Clues/Info/CrackedTape 2,There is a handwritten message on the label:,Na etykiecie jest odręczna wiadomość:
+Clues/Info/CrackedTape 3,To Freya.,Dla Freyi.
+Clues/Info/CrackedTape 4,"It's a recording of piano music.
+It plays for a short while before stopping.","To nagranie muzyki fortepianowej.
+Gra przez krótką chwilę, po czym się zatrzymuje."
+Clues/Info/CrackedTape 5,"Poppy recorded the piano music for Freya,
+and gave the tape to her as a gift.","Poppy nagrała muzykę fortepianową dla Freyi
+i podarowała jej tę taśmę w prezencie."
+Clues/Info/CrackedTape 6,"The tape seems to have received the crack
+recently, possibly during the murder.","Wygląda na to, że taśma pękła
+niedawno, możliwe że podczas morderstwa."
+Clues/Info/CrumpledPetals 1,"A ripped piece of paper, crumpled into a ball.
+Red flower petals were found inside.","Podarty kawałek papieru, zgnieciony w kulkę.
+W środku znaleziono czerwone płatki kwiatów."
+Clues/Info/CrumpledPetals 2,A message is angrily scrawled onto the paper:,Na papierze wściekle nabazgrano wiadomość:
+Clues/Info/CrumpledPetals 3,NOW I'LL GET HER!,TERAZ JĄ DOSTANĘ!
+Clues/Info/CrumpledPetals 4,"The flower petals originate from red roses, growing the Rooftop Garden.","Płatki kwiatów pochodzą z czerwonych róż, rosnących w ogrodzie na dachu."
+Clues/Info/CrumpledPetals 5,"The petals were taken from the rooftop
+garden by Penny's yellow bird.","Płatki zostały zabrane z ogrodu
+na dachu przez żółtego ptaka Penny."
+Clues/Info/DamagedPhoto 1,"It's been framed, but is slightly damp.","Zostało oprawione w ramkę, ale jest lekko wilgotne."
+Clues/Info/DamagedPhoto 2,"The photograph shows a young girl.
+","Fotografia przedstawia młodą dziewczynę.
+"
+Clues/Info/DamagedPhoto 3,A large man is sitting next to her.,Obok niej siedzi wielki mężczyzna.
+Clues/Info/DamagedPhoto 4,Around them are several red and white birds.,Wokół nich jest kilka czerwono-białych ptaków.
+Clues/Info/DamagedPhoto 5,"A metal object was stabbed into the photo,
+leaving a hole near the man's chest.","Metalowy przedmiot został wbity w zdjęcie,
+pozostawiając dziurę blisko klatki piersiowej mężczyzny."
+Clues/Info/DamagedTape 1,"The cassette tape has been damaged by water.
+The ink on the label is blurred and illegible.","Kaseta magnetofonowa została uszkodzona przez wodę.
+Atrament na etykiecie jest rozmazany i nieczytelny."
+Clues/Info/DamagedTape 2,"It's a recording of someone walking outdoors.
+A distorting humming melody can be heard.","To nagranie kogoś idącego na zewnątrz.
+Słychać zniekształconą, nuconą melodię."
+Clues/Info/DamagedTape 3,"Poppy says it looks like a tape she
+gave to Freya a few weeks ago.","Poppy mówi, że wygląda jak taśma, którą
+dała Freyi kilka tygodni temu."
+Clues/Info/DamagedTape 4,The humming melody caused a reaction from the wooden toy...,Nucona melodia wywołała reakcję u drewnianej zabawki...
+Clues/Info/FelixsModels 1,"A wooden carving of a man holding a sword.
+The model has been hand-painted, but the paint is not skilfully applied.","Drewniana rzeźba mężczyzny trzymającego miecz.
+Model został ręcznie pomalowany, ale farba nie jest nałożona umiejętnie."
+Clues/Info/FelixsModels 2,"Yellow, blue, black and white
+paints were found nearby.","W pobliżu znaleziono żółtą, niebieską,
+czarną i białą farbę."
+Clues/Info/FelixsModels 3,Fifi was confused as to how Felix painted this without any red paint.,"Fifi była zdezorientowana, jak Felix pomalował to bez żadnej czerwonej farby."
+Clues/Info/FelixsModels 4,"Felix said he does own a sword, but he doesn't keep any weapons at Tangle Tower.","Felix powiedział, że owszem, posiada miecz, ale nie trzyma żadnej broni w Tangle Tower."
+Clues/Info/FlorasDrawings 1,Drawings of Flora and a small bird.,Rysunki Flory i małego ptaka.
+Clues/Info/FlorasDrawings 2,There is a handwritten message on the back:,Z tyłu jest odręczna wiadomość:
+Clues/Info/FlorasDrawings 3,"These are for you.
+Love, Freya x","To dla ciebie.
+Kocham, Freya x"
+Clues/Info/FourFeathers 1,The feathers were mostly found resting on the tongue of the large stone frog.,Pióra znaleziono głównie na języku wielkiej kamiennej żaby.
+Clues/Info/FourFeathers 2,Fitz says he doesn't clear up the rooftop garden.,"Fitz mówi, że nie sprząta ogrodu na dachu."
+Clues/Info/FourFeathers 3,"The yellow and green feather was dropped by Penny's yellow and green bird, Tabatha.","Żółto-zielone pióro upuścił żółto-zielony ptak Penny, Tabatha."
+Clues/Info/FourFeathers 4,None of the feathers are from the Inkdip bird.,Żadne z piór nie pochodzi od ptaka Inkdip.
+Clues/Info/FreyasDrawings 1,A drawing of a man standing with a woman in a garden. He's holding a red rose.,Rysunek mężczyzny stojącego z kobietą w ogrodzie. Trzyma czerwoną różę.
+Clues/Info/FreyasDrawings 2,"A drawing of Poppy and Fitz, standing in a garden. Fitz is holding a red rose.","Rysunek Poppy i Fitza, stojących w ogrodzie. Fitz trzyma czerwoną różę."
+Clues/Info/FreyasDrawings 3,A drawing of a young woman.,Rysunek młodej kobiety.
+Clues/Info/FreyasDrawings 4,A drawing of Fifi.,Rysunek Fifi.
+Clues/Info/FreyasDrawings 5,A drawing of a person wearing a cloak.,Rysunek osoby w płaszczu z kapturem.
+Clues/Info/FreyasDrawings 6,A drawing of Detective Hawkshaw.,Rysunek detektyw Hawkshaw.
+Clues/Info/FreyasDrawings 7,Hawkshaw said she doesn't know when Freya drew the picture of her.,"Hawkshaw powiedziała, że nie wie, kiedy Freya narysowała jej portret."
+Clues/Info/FreyasDrawings 8,The drawing of Poppy and Fitz was done in the Rooftop Garden.,Rysunek Poppy i Fitza powstał w ogrodzie na dachu.
+Clues/Info/FreyasPaints 1,"Small glass pots of red, yellow, blue, black and white paint.","Małe szklane pojemniki z czerwoną, żółtą, niebieską, czarną i białą farbą."
+Clues/Info/FreyasPaints 2,The glass pots are all cracked down one side.,Wszystkie szklane pojemniki są pęknięte z jednej strony.
+Clues/Info/FreyasPaints 3,"Fifi says that the red substance is blood, not paint.","Fifi mówi, że czerwona substancja to krew, nie farba."
+Clues/Info/FreyasPaints 4,"The red paint pot originally belonged to Felix.
+He swapped it with Freya's paint pot.","Czerwony pojemnik z farbą pierwotnie należał do Felixa.
+Zamienił go z pojemnikiem Freyi."
+Clues/Info/GoldenBeetle 1,Various research notes and diagrams.,Różne notatki badawcze i diagramy.
+Clues/Info/GoldenBeetle 2,"IV. The Golden Beetle (named for its exoskeleton, composed of a mineral approximately 90% identical to gold) has a lifespan of several years. It fends off predators with a loud hiss (records of over 95 decibels) and by being completely undigestible.
+This Mystid has a somewhat spurious reputation
+for causing 'ill-fortune' to those that see it.","IV. Złoty Żuk (nazwany tak od egzoszkieletu, złożonego z minerału w około 90% identycznego ze złotem) żyje przez kilka lat. Odstrasza drapieżniki głośnym syczeniem (zapisy powyżej 95 decybeli) oraz będąc całkowicie niestrawnym.
+Ten Mystid ma nieco naciąganą reputację
+przynoszenia 'pecha' tym, którzy go zobaczą."
+Clues/Info/GoldenBeetle 3,"Pointer owned one of these rare beetles, but it went missing recently. He thinks it was stolen.","Pointer posiadał jednego z tych rzadkich żuków, ale ostatnio zaginął. Myśli, że został skradziony."
+Clues/Info/GoldenBeetle 4,It's possible that Pointer has been trying to breed this beetle in a laboratory beneath Tangle Tower.,"Możliwe, że Pointer próbował wyhodować tego żuka w laboratorium pod Tangle Tower."
+Clues/Info/Gramaphone 1,"It plays cassette tapes instead of vinyl records.
+It's pointed towards the middle of the room.","Odtwarza kasety magnetofonowe zamiast płyt winylowych.
+Jest skierowany ku środkowi pokoju."
+Clues/Info/Gramaphone 2,"There's noticeable crack running through it, all the way from the horn down through the tape deck.","Widać wyraźne pęknięcie biegnące przez niego, od tuby aż w dół, przez odtwarzacz kasetowy."
+Clues/Info/Gramaphone 3,"It originally belonged to Poppy's mother, but Freya often used it while she was painting.","Pierwotnie należał do matki Poppy, ale Freya często go używała podczas malowania."
+Clues/Info/Gramaphone 4,Fifi says the gramophone must have been cracked some time in the last two days.,"Fifi mówi, że gramofon musiał pęknąć gdzieś w ciągu ostatnich dwóch dni."
+Clues/Info/GroupPhoto 1,The Ambassadors of Mystid Mansion,Ambasadorowie Mystid Mansion
+Clues/Info/GroupPhoto 2,"A photograph in a sturdy wooden frame.
+It's dusty and looks several years old.","Fotografia w solidnej drewnianej ramce.
+Jest zakurzona i wygląda na kilka lat starą."
+Clues/Info/GroupPhoto 3,A brass plaque at the base of the frame reads;,Na mosiężnej tabliczce u podstawy ramki widnieje napis;
+Clues/Info/GroupPhoto 4,The Ambassadors of Mystid Mansion,Ambasadorowie Mystid Mansion
+Clues/Info/GroupPhoto 5,"The photo shows two women and three men, wearing a variety of different styles of clothing.","Zdjęcie przedstawia dwie kobiety i trzech mężczyzn, ubranych w różne style strojów."
+Clues/Info/GroupPhoto 6,"All five people have had their faces
+crudely covered with black ink.","Wszystkim pięciu osobom prymitywnie
+zakryto twarze czarnym atramentem."
+Clues/Info/HarpStatue 1,"An old, weathered statue of an amphibious
+creature holding a large harp.","Stary, zwietrzały posąg płazowatego
+stworzenia trzymającego wielką harfę."
+Clues/Info/HarpStatue 2,"Symbols are engraved on each of
+the harp's four column segments.","Na każdym z czterech segmentów kolumny harfy
+wyryte są symbole."
+Clues/Info/HarpStatue 3,The symbols represent melodies which cause a reaction from the wooden toy...,"Symbole reprezentują melodie, które wywołują reakcję u drewnianej zabawki..."
+Clues/Info/HarpStatue 4,"The harp statue was the key to opening
+a secret passage in the garden.","Posąg z harfą był kluczem do otwarcia
+tajnego przejścia w ogrodzie."
+Clues/Info/HornStatue 1,"A shiny statue of a strange creature
+holding a large horn.","Lśniący posąg dziwnego stworzenia
+trzymającego wielką trąbkę."
+Clues/Info/HornStatue 2,"There's a noticeable crack running along
+the length of the statue's horn.","Wzdłuż trąbki posągu biegnie
+wyraźne pęknięcie."
+Clues/Info/HornStatue 3,"Inside the horn and on the ground below
+are various shards of cracked glass.","Wewnątrz trąbki i na ziemi poniżej
+znajdują się różne odłamki potłuczonego szkła."
+Clues/Info/HornStatue 4,Poppy says she didn't break the statue.,"Poppy mówi, że to nie ona rozbiła posąg."
+Clues/Info/LuteStatue 1,"A slightly weathered statue of a strange creature, holding a lute.","Lekko zwietrzały posąg dziwnego stworzenia, trzymającego lutnię."
+Clues/Info/LuteStatue 2,A pair of earmuffs has been placed on the head of the statue.,Na głowie posągu umieszczono parę ochronników na uszy.
+Clues/Info/LuteStatue 3,Poppy found the earmuffs and placed them on the statue so that Fitz would find them.,"Poppy znalazła ochronniki na uszy i umieściła je na posągu, żeby Fitz je znalazł."
+Clues/Info/LuteStatue 4,"The earmuffs belong to Fitz. He uses them for gardening, but they went missing.","Ochronniki na uszy należą do Fitza. Używa ich do ogrodnictwa, ale zaginęły."
+Clues/Info/MetalRod 1,"A sleek but sturdy metal rod.
+It has been stabbed into a photograph.","Smukły, ale solidny metalowy pręt.
+Został wbity w fotografię."
+Clues/Info/MetalRod 2,"The rod has a curved and pointed tip, like an arrow, or the hand of a clock.","Pręt ma zakrzywiony, spiczasty czubek, jak strzała lub wskazówka zegara."
+Clues/Info/MetalRod 3,It has a small loop at the back with a short length of red rope connected to it.,"Z tyłu ma małą pętelkę, do której przywiązany jest krótki kawałek czerwonej linki."
+Clues/Info/MetalRod 4,The metal is perfectly clean and polished.,Metal jest idealnie czysty i wypolerowany.
+Clues/Info/Notebook 1,"Several pages have been ripped out, but a few remain;","Wyrwano kilka stron, ale kilka pozostało;"
+Clues/Info/Notebook 2,"Fifth Ambassador located - finally.
+Can't say I harboured any optimism - but still somehow disappointed. No better than the rest of them.","Piąty Ambasador znaleziony - nareszcie.
+Nie mogę powiedzieć, żebym żywił jakikolwiek optymizm - ale mimo to jakoś rozczarowany. Niczym lepszy od reszty."
+Clues/Info/Notebook 3,Took my Mystid friend into the Music Room for experiments. It works. Perhaps too well.,Zabrałem mojego przyjaciela Mystida do sali muzycznej na eksperymenty. Działa. Może aż za dobrze.
+Clues/Info/Notebook 4,"The laboratory was another disappointment.
+All that effort, for what!? He's even more short-sighted than I could have guessed.","Laboratorium było kolejnym rozczarowaniem.
+Cały ten wysiłek, po co!? Jest jeszcze bardziej krótkowzroczny, niż mogłem przypuszczać."
+Clues/Info/Notebook 5,"Went to the bottom. Nice view.
+It's been mostly cleaned out, but I have what I need.","Poszedłem na sam dół. Ładny widok.
+Jest w większości wysprzątane, ale mam to, czego potrzebuję."
+Clues/Info/Notebook 6,"She got in. She was careful, nothing was moved.
+But I know. It's time.","Ona się dostała do środka. Była ostrożna, nic nie zostało poruszone.
+Ale wiem. Czas nadszedł."
+Clues/Info/OrnateTrowel 1,A metal gardening trowel with a decorative pattern.,Metalowa łopatka ogrodnicza z ozdobnym wzorem.
+Clues/Info/OrnateTrowel 2,"It has a decorative pattern engraved onto it, and letters either side of a heart:","Ma na sobie wyryty ozdobny wzór, oraz litery po obu stronach serca:"
+Clues/Info/OrnateTrowel 3,P.P.        F.F.,P.P.        F.F.
+Clues/Info/OrnateTrowel 4,Fitz received the trowel as a gift from Penny.,Fitz otrzymał łopatkę w prezencie od Penny.
+Clues/Info/OrnateTrowel 5,"Fitz only uses it to tend to Penny's potted flower, which she keeps in her room.","Fitz używa jej tylko do pielęgnacji kwiatu Penny w donicy, który trzyma w swoim pokoju."
+Clues/Info/PaintedFigurine 1,"A model resembling a child with green hair.
+A model resembling a woman with grey hair.
+A model resembling a red and white bird.
+A model resembling a broad-shouldered man.","Model przypominający dziecko o zielonych włosach.
+Model przypominający kobietę o siwych włosach.
+Model przypominający czerwono-białego ptaka.
+Model przypominający barczystego mężczyznę."
+Clues/Info/PaintedFigurine 2,"The wooden models have been hand-painted.
+The paint is not skilfully applied.","Drewniane modele zostały ręcznie pomalowane.
+Farba nie jest nałożona umiejętnie."
+Clues/Info/PaintedFigurine 3,"A pot of red paint and a brush is laying nearby.
+The brush has some dried red paint on it.","Obok leży pojemnik z czerwoną farbą i pędzel.
+Pędzel ma na sobie zaschniętą czerwoną farbę."
+Clues/Info/PaintedFigurine 4,"The red paint pot originally belonged to Freya.
+Felix borrowed it when he ran out of red paint.","Czerwony pojemnik z farbą pierwotnie należał do Freyi.
+Felix pożyczył go, gdy skończyła mu się czerwona farba."
+Clues/Info/PaintedPortrait 1,"Freya was unable to finish the painting,
+as she died some time during the process.","Freya nie zdołała ukończyć obrazu,
+ponieważ zginęła w trakcie pracy nad nim."
+Clues/Info/PaintedPortrait 2,Flora appears to be wielding a knife. The red substance on the tip was discovered to be blood.,"Flora zdaje się dzierżyć nóż. Odkryto, że czerwona substancja na czubku to krew."
+Clues/Info/PaintedPortrait 3,"Freya added the blood to the painting herself.
+Her red paint was swapped out with blood.","Freya sama dodała krew do obrazu.
+Jej czerwona farba została zamieniona na krew."
+Clues/Info/PaintedPortrait 4,"Flora is not holding a knife.
+She's holding a red and white Inkdip bird feather.","Flora nie trzyma noża.
+Trzyma czerwono-białe pióro ptaka Inkdip."
+Clues/Info/PaintingTools 1,The palette has a variety of paints loaded onto it. The largest is a blob of black in the middle.,Na palecie znajduje się różnorodna farba. Największa to plama czerni na środku.
+Clues/Info/PaintingTools 2,The paintbrush is still covered with dried red paint.,Pędzel wciąż jest pokryty zaschniętą czerwoną farbą.
+Clues/Info/PaintingTools 3,Poppy says that Freya would mix all the colours she would need before starting her painting.,"Poppy mówi, że Freya mieszała wszystkie potrzebne kolory, zanim zaczęła malować."
+Clues/Info/PaintingTools 4,"The red substance on the palette and brush was discovered to be blood, not paint.","Odkryto, że czerwona substancja na palecie i pędzlu to krew, nie farba."
+Clues/Info/PennysBirds 1,"Three brightly-coloured birds in a heavy, ornate cage.","Trzy jaskrawo kolorowe ptaki w ciężkiej, wystawnej klatce."
+Clues/Info/PennysBirds 2,"The three birds belong to Penny, who looks after them.","Trzy ptaki należą do Penny, która się nimi opiekuje."
+Clues/Info/PennysBirds 3,"The birds are rare specimens.
+Penny doesn't usually let them out of the cage.","Ptaki to rzadkie okazy.
+Penny zwykle nie wypuszcza ich z klatki."
+Clues/Info/PennysBirds 4,Penny sent the yellow bird to spy on Fitz and Poppy in the Rooftop Garden.,"Penny wysłała żółtego ptaka, żeby szpiegował Fitza i Poppy w ogrodzie na dachu."
+Clues/Info/PhotoCorner 1,The ripped photo shows a young girl with blonde hair and pink clothes.,Podarte zdjęcie przedstawia młodą dziewczynę o blond włosach i różowych ubraniach.
+Clues/Info/PhotoCorner 2,The girl in the photo is using a bright pink cassette player with matching headphones.,Dziewczyna na zdjęciu używa jaskrawo różowego odtwarzacza kasetowego z pasującymi słuchawkami.
+Clues/Info/PhotoCorner 3,"The rest of the photo shows Fifi and Freya.
+It was hidden in Freya's room.","Reszta zdjęcia przedstawia Fifi i Freyę.
+Było ukryte w pokoju Freyi."
+Clues/Info/PhotoCorner 4,"The girl in the photo is Poppy.
+It is unknown exactly why she changed her look.","Dziewczyną na zdjęciu jest Poppy.
+Nie wiadomo dokładnie, czemu zmieniła swój wygląd."
+Clues/Info/PhotoOfPainting 1,A small photograph of Freya's abstract painting.,Małe zdjęcie abstrakcyjnego obrazu Freyi.
+Clues/Info/PhotoOfPainting 2,A piece of adhesive tape is stuck on it. Lines have been drawn with black ink around the edges.,Przyklejony jest do niego kawałek taśmy klejącej. Wokół krawędzi narysowano linie czarnym atramentem.
+Clues/Info/PhotoOfPainting 3,Poppy says Freya painted this about a year ago. Freya was reluctant to discuss its meaning.,"Poppy mówi, że Freya namalowała to jakiś rok temu. Freya niechętnie rozmawiała o jego znaczeniu."
+Clues/Info/PhotoOfPainting 4,"Fifi says she thinks this painting made Freya unhappy, but she cannot say why.","Fifi mówi, że jej zdaniem ten obraz zasmucał Freyę, ale nie potrafi powiedzieć czemu."
+Clues/Info/PinBoard 1,A large central sheet of paper has been pinned to it. Four lines have been drawn from a gap in the centre.,Do tablicy przypięto dużą centralną kartkę papieru. Z przerwy na środku wychodzą cztery linie.
+Clues/Info/PinBoard 2,A smaller sheet underneath features a drawing resembling the silhouette of a cloaked figure.,Mniejsza kartka pod spodem zawiera rysunek przypominający sylwetkę postaci w płaszczu z kapturem.
+Clues/Info/PinBoard 3,The photograph of the painting found in Freya's room had been removed from this pin board.,Fotografia obrazu znaleziona w pokoju Freyi została usunięta z tej tablicy z pinezkami.
+Clues/Info/PinBoard 4,The sketch of Hawkshaw found in Freya's room had been removed from this pin board.,Szkic Hawkshaw znaleziony w pokoju Freyi został usunięty z tej tablicy z pinezkami.
+Clues/Info/PottedPlant 1,"A brightly coloured flower with an unusual shape.
+It looks very healthy and well looked after.","Jaskrawo kolorowy kwiat o niezwykłym kształcie.
+Wygląda bardzo zdrowo i na dobrze zadbany."
+Clues/Info/PottedPlant 2,"The soil in the pot looks fresh and moist.
+It's also an unusual blue colour.","Ziemia w donicy wygląda na świeżą i wilgotną.
+Ma też niezwykły niebieski kolor."
+Clues/Info/PottedPlant 3,"Penny received the flower from Fitz, as a gift.","Penny otrzymała kwiat od Fitza, w prezencie."
+Clues/Info/PottedPlant 4,"Fitz says he has to look after the flower himself, because Penny ignores it.","Fitz mówi, że sam musi zajmować się kwiatem, bo Penny go ignoruje."
+Clues/Info/RippedPhoto 1,"A photograph of two young girls.
+One with red hair, the other with green hair.","Zdjęcie dwóch młodych dziewczyn.
+Jedna o rudych włosach, druga o zielonych."
+Clues/Info/RippedPhoto 2,"The photo has a large piece missing.
+It seems to have been ripped off.","Ze zdjęcia brakuje dużego kawałka.
+Wygląda, jakby został oderwany."
+Clues/Info/RippedPhoto 3,The girls in this part of the photo are Fifi and Freya.,Dziewczynami na tej części zdjęcia są Fifi i Freya.
+Clues/Info/RippedPhoto 4,The rest of the photo reveals that Poppy was also present when the picture was taken.,"Reszta zdjęcia ujawnia, że Poppy również była obecna, gdy robiono to zdjęcie."
+Clues/Info/SecretDiary 1,"A well-used book, resembling a diary.
+It's locked with a strange metal device.","Dobrze wyczytana książka, przypominająca pamiętnik.
+Jest zamknięta dziwnym metalowym urządzeniem."
+Clues/Info/SecretDiary 2,"It's back - in the flesh this time.
+Was it me? Did I let it out?
+Maybe I should rip up that painting.","Wróciło - tym razem we własnej osobie.
+Czy to byłam ja? Czy to ja to wypuściłam?
+Może powinnam rozerwać ten obraz."
+Clues/Info/SecretDiary 3,"Soulbearer works. Impressive little thing.
+I have two now. Need two more.","Nosiciel Dusz działa. Imponująca mała rzecz.
+Mam teraz dwa. Potrzebuję jeszcze dwóch."
+Clues/Info/SecretDiary 4,"Found my way into the middle.
+Surprisingly simple, compared to the harp.
+I saw them. All five. Eyes blacked out.
+","Znalazłam drogę do środka.
+Zaskakująco proste, w porównaniu z harfą.
+Widziałam ich. Wszystkich pięciu. Oczy zaczernione.
+"
+Clues/Info/SecretDiary 5,"Despite everything, I still have a promise to keep.
+I'll do my best. She could do with a little company.","Mimo wszystko, wciąż mam obietnicę do dotrzymania.
+Zrobię, co w mojej mocy. Przydałoby jej się trochę towarzystwa."
+Clues/Info/SecretResearch 1,A folder containing research notes and diagrams.,Teczka zawierająca notatki badawcze i diagramy.
+Clues/Info/SecretResearch 2,I. Our unique flora and fauna is the by-product of a number of as-yet unidentified chemicals.,I. Nasza unikalna flora i fauna są produktem ubocznym szeregu jak dotąd niezidentyfikowanych substancji chemicznych.
+Clues/Info/SecretResearch 3,"II. These chemicals are continually present in the water, forming clouds and filling the 'lake'. This causes a variety of mutations in plants and animals.","II. Te substancje chemiczne są stale obecne w wodzie, tworząc chmury i wypełniając 'jezioro'. Powoduje to różnorodne mutacje u roślin i zwierząt."
+Clues/Info/SecretResearch 4,"III. Smaller creatures such as arachnids, insects, molluscs, amphibians and crustaceans are the most affected. However, the chemicals may travel up the food-chain and cause mutations in birds and reptiles.
+As far as we know, mammals remain completely unaffected.","III. Mniejsze stworzenia, takie jak pajęczaki, owady, mięczaki, płazy i skorupiaki, są najbardziej dotknięte. Jednak substancje chemiczne mogą wędrować w górę łańcucha pokarmowego i powodować mutacje u ptaków i gadów.
+O ile nam wiadomo, ssaki pozostają całkowicie nietknięte."
+Clues/Info/SheetMusic 1,"The sheet music has been framed, and is decorated with delicate, old-fashioned illustrations.","Nuty zostały oprawione w ramkę i ozdobione delikatnymi, staromodnymi ilustracjami."
+Clues/Info/SheetMusic 2,"Poppy says this is the first piece 
+she ever learnt on the piano.","Poppy mówi, że to pierwszy utwór, 
+jakiego kiedykolwiek nauczyła się na pianinie."
+Clues/Info/SheetMusic 3,"Poppy received this from her mother, 
+who was her piano teacher.","Poppy otrzymała to od swojej matki, 
+która była jej nauczycielką gry na pianinie."
+Clues/Info/SheetMusic 4,"The piano melody caused a reaction 
+from the wooden toy...","Melodia z pianina wywołała reakcję 
+u drewnianej zabawki..."
+Clues/Info/ShortTelescope 1,"A small brass tool with a curved, glass lens.
+It has a screw at the base.","Małe mosiężne narzędzie z zakrzywioną szklaną soczewką.
+Ma gwint u podstawy."
+Clues/Info/ShortTelescope 2,Hawkshaw says it's a handheld microscope used for detective work.,"Hawkshaw mówi, że to ręczny mikroskop używany do pracy detektywistycznej."
+Clues/Info/ShortTelescope 3,"Fifi says it's not a microscope of any kind, as it has a telescopic lens.","Fifi mówi, że to w ogóle nie jest mikroskop, bo ma soczewkę teleskopową."
+Clues/Info/ShortTelescope 4,Hawkshaw admitted it's a telescope she carries around for sentimental reasons.,"Hawkshaw przyznała, że to teleskop, który nosi ze względów sentymentalnych."
+Clues/Info/SparklyFruit 1,"A potted fruit with a hard, gemstone-like skin.
+The soil in the pot is an unusual blue colour.","Owoc w donicy o twardej, przypominającej klejnot skórce.
+Ziemia w donicy ma niezwykły niebieski kolor."
+Clues/Info/SparklyFruit 2,"The soil is made by Fitz, using the water from the lake around Tangle Tower.","Ziemię tworzy Fitz, używając wody z jeziora otaczającego Tangle Tower."
+Clues/Info/SparklyFruit 3,Fitz uses this unique blue soil to grow all his plants.,Fitz używa tej unikalnej niebieskiej ziemi do hodowania wszystkich swoich roślin.
+Clues/Info/SparklyFruit 4,The fruit is inedible. But it has some value as a precious mineral.,Owoc jest niejadalny. Ale ma pewną wartość jako cenny minerał.
+Clues/Info/TangleTower 1,"A small painting on a scrap of paper.
+A few notes have been written on the back.","Mały obraz na skrawku papieru.
+Z tyłu zapisano kilka notatek."
+Clues/Info/TangleTower 2,"Nowadays it goes by 'Tangle Tower', but it's actually a pair of towers connected by a mansion at the base.","Obecnie nazywa się to 'Tangle Tower', ale to tak naprawdę para wież połączonych rezydencją u podstawy."
+Clues/Info/TangleTower 3,"It is surrounded by a circular lake.
+The water is an unusual mix of colours.","Otacza je okrągłe jezioro.
+Woda jest niezwykłą mieszanką kolorów."
+Clues/Info/TangleTower 4,"The lake is enclosed by sheer, pale cliffs.
+They're too steep and smooth to climb.","Jezioro otoczone jest stromymi, bladymi klifami.
+Są zbyt strome i gładkie, żeby się na nie wspiąć."
+Clues/Info/TangleTower 5,"Tangle Tower is currently home to both
+the Fellow family and the Pointer family.","Tangle Tower jest obecnie domem zarówno
+dla rodziny Fellow, jak i rodziny Pointer."
+Clues/Info/WireReel 1,"A brass reel with a screw at the top.
+
+Coiled around the reel is a length of fine red rope.","Mosiężna szpula z gwintem na górze.
+
+Wokół szpuli owinięty jest kawałek cienkiej czerwonej linki."
+Clues/Names/AngryLetter,Opened Letter,Otwarty List
+Clues/Names/BirdBook,Bird Book,Książka o Ptakach
+Clues/Names/BuildingPlans,Building Plans,Plany Budynku
+Clues/Names/BurntItems,Burnt Items,Spalone Rzeczy
+Clues/Names/CaseFile,Case File,Akta Sprawy
+Clues/Names/CeramicEgg,Empty Egg,Puste Jajko
+Clues/Names/ChildrensBook,Children's Book,Dziecięca Książka
+Clues/Names/CrackedTape,Cracked Tape,Pęknięta Taśma
+Clues/Names/CrumpledPetals,Crumpled Paper,Zmięty Papier
+Clues/Names/DamagedPhoto,Damaged Photo,Zniszczone Zdjęcie
+Clues/Names/DamagedTape,Damaged Tape,Uszkodzona Taśma
+Clues/Names/FelixsModels,Painted Model,Malowany Model
+Clues/Names/FlorasDrawings,Flora's Drawings,Rysunki Flory
+Clues/Names/FourFeathers,Four Feathers,Cztery Pióra
+Clues/Names/FreyasDrawings,Freya's Drawings,Rysunki Freyi
+Clues/Names/FreyasPaints,Freya's Paints,Farby Freyi
+Clues/Names/GoldenBeetle,Golden Beetle,Złoty Żuk
+Clues/Names/Gramaphone,"Gramo
+phone","Gramo
+fon"
+Clues/Names/GroupPhoto,Group Photo,Zdjęcie Grupowe
+Clues/Names/Harmonograph,Harmonograph,Harmonograf
+Clues/Names/HarpStatue,Harp Statue,Posąg z Harfą
+Clues/Names/HornStatue,Horn Statue,Posąg z Trąbką
+Clues/Names/LuteStatue,Lute Statue,Posąg z Lutnią
+Clues/Names/MetalRod,Metal Rod,Metalowy Pręt
+Clues/Names/Notebook,"Note
+book","Notat
+nik"
+Clues/Names/OrnateTrowel,Ornate Trowel,Ozdobna Łopatka
+Clues/Names/PaintedFigurine,Painted Models,Malowane Modele
+Clues/Names/PaintedPortrait,Painted Portrait,Malowany Portret
+Clues/Names/PaintingTools,Brush & Palette,Pędzel i Paleta
+Clues/Names/PennysBirds,Birds & Cage,Ptaki i Klatka
+Clues/Names/PhotoCorner,Ripped Photo,Podarte Zdjęcie
+Clues/Names/PhotoOfPainting,Photo Of Painting,Zdjęcie Obrazu
+Clues/Names/PinBoard,Pin Board,Tablica z Pinezkami
+Clues/Names/PottedPlant,Potted Flower,Kwiat w Donicy
+Clues/Names/RippedPhoto,Ripped Photo,Podarte Zdjęcie
+Clues/Names/SecretDiary,Secret Diary,Tajny Pamiętnik
+Clues/Names/SecretResearch,Secret Research,Tajne Badania
+Clues/Names/SheetMusic,Sheet Music,Nuty
+Clues/Names/ShortTelescope,Small Lens,Mała Soczewka
+Clues/Names/SparklyFruit,Potted Fruit,Owoc w Donicy
+Clues/Names/TangleTower,Tangle Tower,Tangle Tower
+Clues/Names/WireReel,Reel Thingy,Dziwna Szpula
+Clues/Names/WoodenBase,Crossbow,Kusza
