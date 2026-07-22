@@ -37,7 +37,3 @@ Format każdego pliku CSV: kolumny `term,en,pl`.
   (podświetlenia, markery muzyczne, checklisty) i muszą się zgadzać.
 - Imiona własne (Felix, Fifi, Sally, Grimoire, Tangle Tower, itd.) zostają
   bez zmian ("no-touch zone") dla spójności z resztą tłumaczenia.
-
-Te pliki są eksportowane automatycznie z prywatnego repo tłumaczenia
-(`_App/src/export_comparison_csv.py`) i odzwierciedlają dokładnie to, co
-trafia do patcha gry.
